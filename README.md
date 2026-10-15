@@ -1,19 +1,26 @@
 # revenue-analysis-crispdm
 
-Revenue and customer analysis structured with the CRISP-DM methodology (Python, pandas, matplotlib).
+Revenue and sales analysis structured along the six CRISP-DM phases. It is a reproducible version of
+the analysis project done during my Business Information Systems degree at Esprit School of Business.
 
-This is a reproducible rebuild of my academic revenue-analysis project. The original data is not
-public, so this version runs on a **synthetic dataset** generated with a fixed seed. The figures
-below illustrate the method, not real business results.
+The dataset is **synthetic** (generated with a fixed seed) so the project runs anywhere and exposes
+no real customer data.
 
-## CRISP-DM phases in `analysis.py`
+## CRISP-DM mapping
 
-1. **Business understanding**: revenue trend, drivers by product and segment, customer concentration.
-2. **Data understanding**: 4,000 synthetic orders (date, customer, segment, product, quantity, price).
-3. **Data preparation**: remove duplicate rows and missing quantities, compute revenue and month.
-4. **Modeling**: descriptive analysis and KPIs (total revenue, average order value, top-10% customer share, year-over-year change).
-5. **Evaluation**: consistency checks (positive revenue, no duplicates, totals reconcile).
-6. **Deployment**: charts and a KPI summary written to `reports/`.
+| Phase | Where in `analysis.py` | What it does |
+|-------|------------------------|--------------|
+| Business understanding | header comment | Revenue trend, drivers, dependence on top customers |
+| Data understanding | `generate_dataset` | 4,000 orders, with injected duplicates and missing values |
+| Data preparation | `prepare` | Deduplicate, drop missing revenue, add month |
+| Modeling | `kpis`, `make_charts` | KPIs, monthly trend, product × segment breakdown |
+| Evaluation | `evaluate` | Rows removed and why, data-quality summary |
+| Deployment | `main` | CSV and PNG outputs in `outputs/` |
+
+## KPIs produced
+
+Total revenue, number of orders, average order value, active customers, and the share of revenue
+from the top 20 % of customers.
 
 ## Run
 
@@ -22,4 +29,4 @@ pip install -r requirements.txt
 python analysis.py
 ```
 
-Outputs: `reports/monthly_revenue.png`, `reports/product_segment.png`, `reports/kpis.md`.
+Outputs are written to `outputs/` (`clean_sales.csv`, `summary.csv`, two charts).

@@ -1,0 +1,4026 @@
+order_id,date,customer_id,segment,product,quantity,revenue
+1,2024-03-06,127,PME,Formation,5,659.57
+2,2025-07-18,338,Particulier,Licence,3,666.37
+3,2025-04-22,15,Grand compte,Abonnement,4,250.31
+4,2024-11-16,179,Particulier,Abonnement,2,73.75
+5,2024-11-12,321,Particulier,Support,5,307.49
+6,2025-09-18,382,Particulier,Support,1,
+7,2024-03-03,101,Particulier,Formation,2,269.48
+8,2025-05-24,261,Particulier,Support,5,287.69
+9,2024-05-27,76,Particulier,Support,3,169.75
+10,2024-03-09,47,PME,Formation,1,145.15
+11,2025-01-19,142,Particulier,Licence,3,592.06
+12,2025-12-13,355,Particulier,Support,2,131.52
+13,2025-06-21,276,Grand compte,Support,3,285.98
+14,2025-07-09,196,Particulier,Abonnement,2,69.17
+15,2025-06-07,114,PME,Abonnement,2,99.52
+16,2025-07-27,57,Particulier,Abonnement,5,197.13
+17,2025-01-09,109,Particulier,Support,1,60.18
+18,2024-04-03,62,Particulier,Support,4,244.78
+19,2025-09-05,75,Particulier,Abonnement,1,43.84
+20,2024-11-24,276,PME,Support,3,232.9
+21,2024-12-31,54,Particulier,Abonnement,4,150.4
+22,2024-09-27,19,Particulier,Abonnement,5,199.06
+23,2024-05-13,217,Particulier,Licence,2,385.65
+24,2025-11-07,115,Grand compte,Formation,1,155.78
+25,2025-07-24,182,PME,Abonnement,4,190.32
+26,2025-04-15,56,Grand compte,Formation,5,1032.82
+27,2024-10-20,84,PME,Abonnement,3,124.28
+28,2025-08-23,177,PME,Support,1,71.86
+29,2025-02-02,277,Particulier,Licence,3,597.31
+30,2024-11-19,166,Grand compte,Formation,2,368.29
+31,2024-11-24,217,Particulier,Formation,3,332.27
+32,2024-06-14,209,Particulier,Abonnement,1,
+33,2024-03-08,108,PME,Formation,2,256.24
+34,2025-02-08,112,Particulier,Abonnement,5,221.29
+35,2025-10-10,171,Particulier,Abonnement,1,36.86
+36,2024-02-16,13,Particulier,Licence,5,960.04
+37,2025-09-18,275,Particulier,Formation,3,420.61
+38,2025-08-27,246,PME,Formation,3,406.62
+39,2024-07-21,123,Particulier,Abonnement,5,205.48
+40,2025-04-06,150,PME,Support,2,156.26
+41,2024-04-30,132,Particulier,Abonnement,5,216.25
+42,2025-07-07,261,PME,Formation,2,257.32
+43,2025-05-26,304,Particulier,Support,2,113.15
+44,2024-09-15,44,Grand compte,Formation,3,553.06
+45,2024-02-19,166,Particulier,Licence,4,923.46
+46,2025-12-09,6,Particulier,Abonnement,2,75.13
+47,2024-11-21,181,Particulier,Support,4,230.52
+48,2025-10-13,100,Particulier,Licence,1,206.71
+49,2025-05-09,135,Particulier,Formation,4,503.79
+50,2025-07-22,183,PME,Support,4,303.67
+51,2025-07-08,130,Grand compte,Abonnement,3,167.81
+52,2024-05-22,158,PME,Support,4,275.74
+53,2024-09-22,306,Particulier,Licence,4,813.79
+54,2024-12-06,325,Particulier,Support,5,330.3
+55,2024-12-29,3,PME,Licence,2,470.84
+56,2024-02-01,152,PME,Formation,3,431.23
+57,2025-02-02,339,Particulier,Formation,3,330.45
+58,2024-04-22,213,Grand compte,Abonnement,2,137.89
+59,2025-06-26,83,Particulier,Support,5,303.7
+60,2025-05-13,238,PME,Licence,3,782.08
+61,2025-11-04,58,Grand compte,Support,3,270.65
+62,2025-06-27,9,PME,Abonnement,1,48.33
+63,2024-09-24,253,Particulier,Formation,3,316.79
+64,2025-12-07,207,PME,Support,4,238.45
+65,2024-10-26,303,Particulier,Licence,3,660.09
+66,2024-08-25,138,PME,Abonnement,4,193.2
+67,2025-10-23,342,Particulier,Abonnement,1,40.66
+68,2024-09-27,169,PME,Formation,1,129.61
+69,2024-02-25,296,Grand compte,Abonnement,2,111.33
+70,2024-12-08,41,Particulier,Licence,2,433.99
+71,2025-08-03,39,Particulier,Formation,5,683.53
+72,2024-05-18,314,PME,Formation,5,684.21
+73,2024-12-03,334,Particulier,Abonnement,3,126.45
+74,2024-04-04,377,Particulier,Formation,3,365.47
+75,2025-05-16,130,Particulier,Licence,2,396.14
+76,2024-12-13,9,Particulier,Formation,3,413.34
+77,2024-08-29,392,PME,Abonnement,4,185.04
+78,2024-06-14,241,PME,Abonnement,4,211.06
+79,2025-02-16,99,Particulier,Licence,5,1030.51
+80,2025-05-03,306,Particulier,Licence,3,599.19
+81,2025-11-17,362,Particulier,Abonnement,2,88.78
+82,2024-11-15,114,Particulier,Support,1,61.39
+83,2024-04-27,308,PME,Abonnement,4,190.52
+84,2025-08-30,316,Particulier,Formation,5,666.21
+85,2025-04-04,201,Particulier,Abonnement,3,131.99
+86,2025-05-26,253,Grand compte,Support,5,493.27
+87,2024-03-11,108,Particulier,Licence,2,275.59
+88,2024-08-16,372,PME,Abonnement,1,49.69
+89,2025-07-14,394,Particulier,Formation,4,488.15
+90,2025-08-30,393,Particulier,Abonnement,1,39.89
+91,2024-11-13,295,Particulier,Abonnement,1,41.95
+92,2025-08-10,17,PME,Abonnement,4,196.0
+93,2025-09-06,147,PME,Abonnement,3,151.81
+94,2024-10-09,178,Particulier,Licence,4,782.85
+95,2025-10-17,384,Particulier,Abonnement,4,179.18
+96,2024-07-29,219,Particulier,Licence,2,424.93
+97,2024-06-23,215,PME,Abonnement,4,200.33
+98,2025-05-13,59,PME,Formation,3,449.06
+99,2025-04-09,318,PME,Formation,3,472.0
+100,2024-04-12,135,Grand compte,Licence,4,1298.08
+101,2025-08-30,37,Particulier,Abonnement,2,79.28
+102,2024-05-25,396,PME,Abonnement,3,155.41
+103,2025-08-10,77,PME,Support,3,219.01
+104,2024-01-06,7,Particulier,Support,1,69.2
+105,2025-08-04,32,Grand compte,Support,2,195.81
+106,2025-07-28,182,Particulier,Abonnement,1,38.0
+107,2025-07-23,42,PME,Abonnement,1,56.95
+108,2025-04-30,338,PME,Support,3,179.68
+109,2024-12-10,205,Grand compte,Support,5,472.94
+110,2025-05-29,130,Particulier,Support,5,283.29
+111,2024-07-21,2,Particulier,Abonnement,4,184.09
+112,2025-07-23,192,PME,Abonnement,3,146.91
+113,2025-02-09,61,PME,Licence,2,449.52
+114,2024-12-01,392,Particulier,Support,2,117.44
+115,2025-01-04,117,PME,Abonnement,4,181.03
+116,2025-02-19,190,Particulier,Licence,5,975.54
+117,2024-01-28,8,PME,Formation,5,701.07
+118,2024-04-12,53,Grand compte,Abonnement,2,112.79
+119,2024-06-28,83,Particulier,Abonnement,3,122.59
+120,2024-03-24,21,Particulier,Support,3,185.63
+121,2024-11-16,291,Grand compte,Abonnement,1,55.22
+122,2025-05-02,379,PME,Formation,1,124.9
+123,2025-04-22,395,Grand compte,Support,1,92.24
+124,2024-12-09,107,Particulier,Abonnement,4,166.81
+125,2025-09-16,316,Grand compte,Licence,2,635.05
+126,2025-02-16,202,Particulier,Abonnement,4,167.06
+127,2024-02-27,19,Particulier,Formation,2,270.2
+128,2025-07-12,37,Particulier,Support,4,259.14
+129,2025-02-23,220,PME,Support,1,87.44
+130,2025-04-08,170,Grand compte,Formation,2,449.3
+131,2025-02-16,4,PME,Support,2,123.75
+132,2025-02-08,373,PME,Licence,3,593.44
+133,2024-03-07,293,Particulier,Support,3,179.89
+134,2025-02-12,201,Particulier,Support,1,62.42
+135,2025-08-03,395,Particulier,Abonnement,4,159.03
+136,2024-08-09,389,Particulier,Formation,5,633.77
+137,2025-03-16,390,Particulier,Formation,1,117.41
+138,2024-01-23,104,Grand compte,Abonnement,1,56.67
+139,2024-09-10,353,PME,Support,5,344.36
+140,2024-11-14,202,PME,Abonnement,4,188.93
+141,2025-12-18,291,Particulier,Abonnement,5,213.5
+142,2024-06-05,344,Particulier,Abonnement,4,153.77
+143,2024-07-20,66,Particulier,Abonnement,4,156.3
+144,2024-10-25,180,Particulier,Abonnement,1,41.82
+145,2025-12-25,52,Particulier,Support,3,177.14
+146,2025-09-14,112,Particulier,Formation,2,261.44
+147,2024-01-26,166,Particulier,Abonnement,5,185.29
+148,2024-06-19,343,PME,Abonnement,1,43.64
+149,2025-08-22,346,Particulier,Support,1,61.46
+150,2024-02-12,156,Particulier,Abonnement,3,123.88
+151,2025-09-16,132,Particulier,Formation,5,558.48
+152,2024-07-24,213,Particulier,Formation,5,664.49
+153,2025-10-31,365,Particulier,Formation,3,415.44
+154,2024-08-02,391,Particulier,Licence,3,569.86
+155,2024-11-13,91,PME,Support,2,161.13
+156,2025-04-28,75,Particulier,Licence,5,809.43
+157,2024-04-02,283,Grand compte,Licence,1,325.83
+158,2025-02-10,121,Particulier,Abonnement,1,37.26
+159,2025-01-03,80,Particulier,Abonnement,3,129.37
+160,2025-07-26,13,Particulier,Abonnement,2,73.85
+161,2025-12-28,162,Particulier,Abonnement,3,119.34
+162,2025-04-29,157,Particulier,Formation,5,561.11
+163,2024-10-25,226,Grand compte,Abonnement,2,117.95
+164,2024-10-23,81,Particulier,Abonnement,5,229.28
+165,2024-11-01,286,PME,Abonnement,2,95.17
+166,2025-08-17,273,Particulier,Support,2,140.26
+167,2024-08-22,185,Particulier,Support,1,58.15
+168,2024-05-01,73,Particulier,Licence,4,895.47
+169,2024-09-01,203,Particulier,Abonnement,5,173.99
+170,2024-01-17,270,Particulier,Abonnement,5,195.42
+171,2024-03-18,150,Grand compte,Licence,1,287.13
+172,2024-03-06,106,PME,Support,4,323.43
+173,2025-07-17,203,Grand compte,Formation,1,182.67
+174,2025-06-11,143,Particulier,Formation,4,399.82
+175,2025-05-23,161,PME,Abonnement,4,171.88
+176,2024-12-03,140,PME,Licence,1,220.56
+177,2025-06-07,122,PME,Support,1,77.38
+178,2024-04-27,287,Grand compte,Formation,1,191.59
+179,2025-10-19,185,PME,Formation,4,562.16
+180,2024-12-31,187,Grand compte,Abonnement,4,229.47
+181,2025-11-15,262,PME,Abonnement,1,50.75
+182,2024-04-21,145,Particulier,Support,3,163.73
+183,2024-12-29,41,PME,Formation,4,597.09
+184,2025-05-23,342,Particulier,Abonnement,2,82.38
+185,2024-12-27,23,Grand compte,Abonnement,4,234.73
+186,2024-11-21,229,PME,Licence,2,495.27
+187,2024-05-01,107,Particulier,Abonnement,2,80.65
+188,2024-10-05,86,Particulier,Formation,2,249.55
+189,2024-06-23,17,Particulier,Support,2,107.19
+190,2024-08-08,361,Particulier,Support,3,188.85
+191,2025-05-14,172,Particulier,Support,2,129.86
+192,2025-04-05,138,PME,Licence,2,492.32
+193,2025-03-19,297,PME,Abonnement,4,201.23
+194,2024-09-21,16,PME,Licence,2,475.78
+195,2025-12-01,226,Particulier,Licence,4,857.05
+196,2024-03-04,198,Particulier,Formation,1,120.63
+197,2024-09-07,222,Particulier,Support,1,54.49
+198,2024-03-27,50,Grand compte,Abonnement,5,319.69
+199,2024-09-04,382,Particulier,Formation,3,312.94
+200,2025-12-03,96,Particulier,Abonnement,4,163.62
+201,2024-09-24,272,Particulier,Abonnement,4,155.08
+202,2025-10-25,299,PME,Licence,1,231.4
+203,2024-12-27,138,Particulier,Abonnement,5,202.75
+204,2025-05-25,53,PME,Formation,3,407.49
+205,2024-11-29,119,PME,Abonnement,5,249.83
+206,2024-07-13,323,PME,Abonnement,3,144.65
+207,2025-07-11,363,Particulier,Abonnement,3,114.07
+208,2025-12-08,375,Particulier,Abonnement,4,177.13
+209,2024-07-11,91,Particulier,Support,1,60.98
+210,2025-07-22,243,Particulier,Licence,4,
+211,2024-07-09,61,PME,Formation,5,801.6
+212,2025-06-07,285,Particulier,Licence,4,889.61
+213,2025-07-29,167,Particulier,Support,1,62.78
+214,2024-11-24,286,Particulier,Support,4,234.19
+215,2025-06-21,275,PME,Abonnement,1,42.51
+216,2024-07-17,398,Particulier,Abonnement,1,40.66
+217,2024-02-27,196,PME,Licence,2,522.03
+218,2024-03-11,137,Particulier,Formation,2,246.8
+219,2024-11-22,211,Grand compte,Formation,1,130.4
+220,2025-10-20,66,PME,Support,1,77.01
+221,2024-04-03,45,Particulier,Abonnement,4,171.92
+222,2024-11-28,208,Particulier,Support,3,175.66
+223,2025-05-28,331,Particulier,Abonnement,1,43.16
+224,2024-05-27,214,Particulier,Licence,3,630.14
+225,2025-06-10,313,Particulier,Abonnement,4,151.23
+226,2024-08-11,72,Grand compte,Abonnement,4,264.41
+227,2025-08-13,180,PME,Support,2,129.4
+228,2025-02-26,246,Particulier,Abonnement,1,39.82
+229,2025-02-03,140,PME,Licence,5,1184.93
+230,2024-05-09,6,Particulier,Support,4,224.15
+231,2024-12-04,30,Grand compte,Abonnement,5,307.29
+232,2025-09-17,372,Particulier,Abonnement,2,88.39
+233,2024-01-15,243,PME,Licence,1,263.96
+234,2025-07-07,106,PME,Support,2,152.34
+235,2024-12-25,104,Particulier,Licence,2,345.73
+236,2025-06-09,16,Particulier,Abonnement,4,142.9
+237,2025-04-29,378,Particulier,Licence,4,810.63
+238,2024-11-11,44,Grand compte,Formation,1,179.51
+239,2024-08-13,304,Particulier,Support,3,172.83
+240,2025-04-02,97,PME,Abonnement,2,110.63
+241,2024-04-12,135,PME,Abonnement,4,193.63
+242,2025-03-02,110,PME,Licence,2,500.83
+243,2024-03-10,330,Particulier,Licence,3,647.42
+244,2025-04-19,14,Particulier,Abonnement,4,160.7
+245,2025-04-03,141,PME,Licence,2,579.5
+246,2024-03-02,112,Particulier,Abonnement,1,36.99
+247,2025-07-06,110,Grand compte,Abonnement,4,228.36
+248,2024-10-30,78,Particulier,Abonnement,5,184.91
+249,2025-07-28,365,Particulier,Abonnement,3,135.0
+250,2024-01-31,152,PME,Abonnement,5,255.4
+251,2024-05-11,168,Particulier,Abonnement,1,38.26
+252,2024-12-26,155,Particulier,Abonnement,5,186.18
+253,2024-05-17,393,Particulier,Support,5,333.24
+254,2024-08-28,136,Particulier,Support,2,123.47
+255,2025-04-27,137,PME,Support,1,80.12
+256,2024-04-15,132,Particulier,Abonnement,4,159.23
+257,2025-05-09,131,Particulier,Support,5,312.28
+258,2024-03-16,36,Particulier,Abonnement,1,40.96
+259,2024-05-07,242,Grand compte,Support,4,342.03
+260,2025-03-04,11,Particulier,Formation,5,593.08
+261,2025-08-02,91,Grand compte,Abonnement,1,54.32
+262,2024-05-04,81,Grand compte,Abonnement,3,187.12
+263,2024-08-06,117,Particulier,Support,1,63.65
+264,2025-11-06,303,PME,Licence,1,259.01
+265,2025-12-23,240,PME,Support,3,227.52
+266,2025-02-28,397,Particulier,Licence,2,395.9
+267,2024-11-22,141,Particulier,Licence,1,224.83
+268,2024-09-10,372,PME,Abonnement,5,257.13
+269,2025-03-23,18,PME,Support,2,160.0
+270,2025-03-07,202,PME,Abonnement,5,267.86
+271,2024-08-03,320,Grand compte,Formation,1,178.19
+272,2024-01-17,213,Particulier,Abonnement,3,123.72
+273,2024-04-20,374,PME,Licence,4,1019.49
+274,2025-11-30,126,Grand compte,Support,3,245.18
+275,2024-11-01,14,Particulier,Abonnement,3,109.18
+276,2024-12-18,310,Particulier,Abonnement,4,143.37
+277,2024-12-06,28,Particulier,Formation,1,118.96
+278,2025-07-25,306,Grand compte,Support,5,438.0
+279,2024-02-17,294,Particulier,Licence,4,708.12
+280,2024-03-01,338,PME,Abonnement,4,194.29
+281,2024-07-20,192,Particulier,Formation,3,357.25
+282,2024-12-21,359,Particulier,Formation,2,262.7
+283,2025-05-04,68,PME,Abonnement,3,167.19
+284,2024-12-24,174,Particulier,Formation,4,497.53
+285,2024-11-18,49,Grand compte,Abonnement,5,283.28
+286,2025-11-15,307,Particulier,Abonnement,5,210.35
+287,2024-04-27,286,Grand compte,Formation,1,180.13
+288,2025-02-21,323,Particulier,Licence,1,196.16
+289,2025-01-30,306,Grand compte,Abonnement,5,279.32
+290,2024-12-11,124,PME,Abonnement,2,92.43
+291,2025-08-12,28,Particulier,Support,3,177.44
+292,2024-07-13,372,Particulier,Licence,1,212.87
+293,2025-11-27,198,Particulier,Formation,1,124.91
+294,2024-08-30,38,PME,Abonnement,3,165.03
+295,2025-02-01,371,PME,Support,4,303.54
+296,2025-01-15,398,Particulier,Formation,4,496.29
+297,2025-09-12,179,Particulier,Support,5,292.65
+298,2024-11-16,309,PME,Abonnement,1,44.02
+299,2024-07-26,15,Particulier,Abonnement,2,76.35
+300,2024-01-16,38,PME,Abonnement,3,135.94
+301,2024-09-22,111,Particulier,Support,3,143.12
+302,2025-08-26,263,PME,Abonnement,1,44.13
+303,2024-01-08,54,Grand compte,Abonnement,3,203.07
+304,2025-10-16,14,Particulier,Formation,5,617.69
+305,2025-01-31,268,Particulier,Support,1,58.19
+306,2024-04-12,309,Particulier,Abonnement,5,206.38
+307,2024-08-08,296,PME,Support,3,182.25
+308,2025-02-08,320,Particulier,Support,3,184.06
+309,2024-08-18,322,Grand compte,Abonnement,4,264.53
+310,2024-03-20,241,PME,Licence,4,950.7
+311,2025-05-01,208,Particulier,Licence,4,686.59
+312,2025-05-05,343,PME,Abonnement,1,46.41
+313,2024-03-27,140,Particulier,Abonnement,2,88.19
+314,2024-07-24,40,PME,Abonnement,5,244.97
+315,2024-06-27,301,Particulier,Abonnement,1,35.46
+316,2025-04-26,111,PME,Formation,4,685.1
+317,2025-06-17,392,Grand compte,Licence,3,809.73
+318,2025-06-14,166,PME,Licence,1,235.34
+319,2025-11-16,341,Grand compte,Abonnement,1,55.02
+320,2025-07-15,17,Particulier,Formation,5,550.27
+321,2024-08-22,264,PME,Abonnement,1,46.26
+322,2024-03-19,180,PME,Formation,1,151.33
+323,2025-03-24,186,PME,Abonnement,1,52.96
+324,2025-10-30,107,Particulier,Licence,4,775.29
+325,2025-12-12,389,Particulier,Licence,5,919.19
+326,2024-06-17,158,PME,Abonnement,1,49.84
+327,2024-06-21,341,Particulier,Support,4,
+328,2024-01-28,171,PME,Formation,4,587.08
+329,2024-04-13,20,PME,Support,2,147.18
+330,2025-02-09,352,Grand compte,Formation,1,178.38
+331,2025-02-03,75,Particulier,Abonnement,3,120.94
+332,2024-09-27,109,Grand compte,Support,1,88.69
+333,2024-08-14,345,Particulier,Abonnement,1,43.42
+334,2025-08-28,358,Particulier,Formation,3,424.18
+335,2024-12-01,367,PME,Abonnement,5,243.45
+336,2025-08-13,171,Particulier,Support,5,299.84
+337,2025-12-04,303,Particulier,Support,4,244.91
+338,2024-08-19,132,Particulier,Abonnement,2,75.79
+339,2024-05-27,297,Particulier,Formation,2,254.69
+340,2025-11-26,202,PME,Support,4,298.16
+341,2025-04-08,21,Particulier,Abonnement,1,38.65
+342,2024-07-31,168,Particulier,Formation,3,385.98
+343,2025-03-29,188,PME,Support,4,288.44
+344,2025-01-10,103,Particulier,Abonnement,5,184.48
+345,2025-10-23,150,PME,Support,1,74.03
+346,2024-07-05,202,Grand compte,Formation,2,366.83
+347,2025-12-24,20,PME,Support,2,155.06
+348,2025-11-14,61,Grand compte,Abonnement,3,191.97
+349,2024-05-11,307,Particulier,Abonnement,1,39.65
+350,2024-04-30,141,PME,Abonnement,5,230.94
+351,2025-01-24,244,Particulier,Licence,5,1000.14
+352,2024-02-02,227,Particulier,Licence,2,411.63
+353,2024-08-06,221,PME,Support,3,224.36
+354,2024-11-13,166,Particulier,Abonnement,3,122.89
+355,2025-12-08,194,Grand compte,Formation,1,178.69
+356,2025-12-25,330,PME,Support,5,388.71
+357,2024-04-20,387,Grand compte,Support,4,340.58
+358,2025-10-12,103,Particulier,Abonnement,2,95.87
+359,2024-03-07,268,Particulier,Licence,3,636.63
+360,2025-06-30,388,PME,Abonnement,2,87.34
+361,2025-09-09,4,Particulier,Abonnement,2,81.19
+362,2025-10-12,314,Particulier,Licence,2,424.73
+363,2024-06-12,199,PME,Formation,1,139.98
+364,2025-10-14,388,Grand compte,Abonnement,5,264.12
+365,2024-03-25,232,PME,Formation,4,528.12
+366,2025-01-13,336,Particulier,Licence,5,1043.37
+367,2024-12-08,67,Particulier,Abonnement,1,34.39
+368,2024-08-18,57,PME,Support,4,254.61
+369,2024-01-17,371,Particulier,Abonnement,3,125.15
+370,2025-07-17,211,Particulier,Abonnement,4,157.15
+371,2024-09-01,224,Particulier,Formation,5,566.6
+372,2025-04-28,68,Particulier,Formation,2,230.5
+373,2024-10-26,91,Particulier,Abonnement,1,35.29
+374,2024-09-29,328,Particulier,Formation,1,124.65
+375,2025-10-08,122,PME,Support,3,202.06
+376,2024-03-09,234,Particulier,Formation,1,114.86
+377,2025-06-21,127,PME,Support,1,74.0
+378,2025-06-29,106,Particulier,Support,1,58.77
+379,2024-10-04,67,Grand compte,Formation,2,339.71
+380,2024-07-10,372,Particulier,Formation,1,100.9
+381,2024-01-04,377,Particulier,Formation,3,370.58
+382,2025-11-14,47,Particulier,Formation,4,483.03
+383,2025-11-22,142,Particulier,Abonnement,2,76.69
+384,2024-06-24,226,Particulier,Abonnement,1,36.68
+385,2024-01-24,154,PME,Abonnement,3,
+386,2024-03-30,289,Grand compte,Abonnement,1,62.31
+387,2024-02-19,105,Particulier,Licence,4,806.26
+388,2025-08-29,24,Particulier,Formation,2,271.45
+389,2025-10-13,135,PME,Formation,3,456.36
+390,2024-04-21,240,PME,Formation,2,285.53
+391,2025-06-29,73,Particulier,Support,2,127.09
+392,2024-05-10,327,PME,Formation,1,144.56
+393,2024-09-25,5,Particulier,Formation,3,361.3
+394,2025-03-13,28,PME,Support,1,79.47
+395,2025-06-09,204,Particulier,Abonnement,4,
+396,2025-09-30,205,Particulier,Formation,2,240.45
+397,2024-02-02,118,Particulier,Formation,3,394.26
+398,2024-05-23,104,PME,Support,3,221.34
+399,2024-07-23,28,Particulier,Licence,4,776.38
+400,2024-08-14,266,PME,Support,4,248.69
+401,2025-12-29,152,PME,Formation,3,353.54
+402,2025-07-21,48,PME,Abonnement,5,279.86
+403,2024-08-21,160,Particulier,Formation,2,245.92
+404,2025-12-10,375,Particulier,Support,4,228.79
+405,2024-12-30,105,Particulier,Licence,2,411.18
+406,2024-12-31,358,PME,Support,4,266.17
+407,2024-11-12,104,Grand compte,Abonnement,3,175.23
+408,2024-04-15,75,Particulier,Support,5,277.42
+409,2025-11-13,105,Grand compte,Licence,2,532.16
+410,2024-01-11,130,Particulier,Support,3,149.69
+411,2024-05-07,49,Particulier,Support,1,52.33
+412,2024-06-16,236,Particulier,Formation,4,519.22
+413,2024-07-22,134,PME,Support,1,66.32
+414,2024-04-06,288,Particulier,Abonnement,3,125.13
+415,2024-01-14,197,Particulier,Abonnement,1,43.06
+416,2025-05-09,178,PME,Support,2,144.19
+417,2025-12-08,189,Particulier,Licence,3,585.67
+418,2024-03-29,63,Particulier,Licence,2,404.26
+419,2024-08-04,286,Particulier,Abonnement,2,77.33
+420,2025-01-04,42,Particulier,Abonnement,1,43.85
+421,2025-11-08,289,Particulier,Abonnement,4,184.02
+422,2025-05-21,400,Particulier,Support,4,267.84
+423,2025-07-13,306,PME,Support,3,178.82
+424,2025-02-28,183,Particulier,Licence,1,193.01
+425,2024-10-31,126,PME,Abonnement,1,48.02
+426,2024-05-25,350,Particulier,Formation,4,497.78
+427,2025-09-22,103,Particulier,Support,5,258.54
+428,2025-08-10,193,Particulier,Abonnement,5,172.1
+429,2024-01-19,309,Particulier,Licence,3,662.73
+430,2025-06-06,369,Particulier,Formation,3,343.9
+431,2024-03-02,369,Particulier,Abonnement,1,35.24
+432,2025-06-23,36,Grand compte,Abonnement,1,54.7
+433,2025-08-25,360,PME,Licence,4,989.99
+434,2024-04-05,46,Particulier,Support,3,168.16
+435,2024-11-12,234,PME,Support,3,220.18
+436,2024-03-31,372,PME,Support,2,132.73
+437,2025-02-18,262,PME,Formation,2,247.81
+438,2025-11-08,379,Particulier,Support,5,334.19
+439,2024-02-29,138,Particulier,Licence,5,1031.86
+440,2024-10-17,126,Particulier,Abonnement,4,155.73
+441,2025-12-11,131,Particulier,Support,2,114.99
+442,2024-08-07,143,Particulier,Abonnement,4,178.75
+443,2024-04-06,274,Grand compte,Abonnement,2,125.68
+444,2024-12-22,181,Grand compte,Formation,3,589.54
+445,2025-01-06,295,Particulier,Licence,1,190.66
+446,2025-04-28,167,Particulier,Abonnement,4,160.65
+447,2024-08-17,124,Particulier,Formation,1,123.86
+448,2025-11-28,77,Particulier,Support,4,229.44
+449,2025-01-15,221,PME,Abonnement,4,190.53
+450,2024-07-28,360,Particulier,Support,1,57.2
+451,2025-12-02,344,PME,Licence,3,742.99
+452,2025-11-06,102,Grand compte,Abonnement,2,107.31
+453,2024-12-30,192,PME,Abonnement,3,150.59
+454,2024-01-19,283,PME,Licence,1,245.97
+455,2025-03-11,245,Particulier,Abonnement,4,157.4
+456,2025-02-09,27,Particulier,Abonnement,3,124.32
+457,2024-04-18,237,Particulier,Licence,2,388.32
+458,2025-04-07,16,PME,Licence,5,1135.67
+459,2025-09-05,47,Particulier,Support,4,250.44
+460,2024-03-18,262,PME,Formation,4,603.05
+461,2025-06-12,42,Particulier,Licence,1,191.88
+462,2024-04-12,136,Particulier,Support,3,171.46
+463,2025-06-30,236,Particulier,Support,4,236.49
+464,2024-11-01,263,Grand compte,Support,5,430.13
+465,2024-01-05,179,Particulier,Support,4,269.28
+466,2025-12-06,38,Particulier,Formation,1,123.04
+467,2024-05-01,320,Particulier,Abonnement,4,160.19
+468,2025-03-11,380,PME,Formation,1,133.26
+469,2024-05-12,356,Grand compte,Formation,2,381.28
+470,2025-11-12,300,Particulier,Abonnement,5,190.21
+471,2025-06-22,161,Grand compte,Formation,5,853.0
+472,2025-08-10,351,Particulier,Support,5,318.54
+473,2024-11-11,196,PME,Formation,2,296.92
+474,2024-12-07,55,Particulier,Abonnement,4,127.96
+475,2025-04-08,341,Particulier,Abonnement,4,157.98
+476,2025-07-26,129,PME,Abonnement,2,96.96
+477,2025-09-10,376,Particulier,Support,5,291.85
+478,2024-01-14,148,Particulier,Formation,5,607.7
+479,2025-04-29,348,PME,Abonnement,1,41.05
+480,2024-03-20,215,Grand compte,Support,4,278.47
+481,2024-07-29,187,Particulier,Abonnement,3,110.64
+482,2025-08-28,119,PME,Abonnement,4,196.34
+483,2024-07-01,335,PME,Support,3,160.27
+484,2025-08-04,25,Particulier,Formation,2,223.8
+485,2024-12-03,188,Grand compte,Support,1,76.16
+486,2024-06-18,148,Particulier,Support,3,176.51
+487,2024-08-31,218,PME,Licence,5,1387.96
+488,2025-01-22,102,Particulier,Abonnement,5,196.53
+489,2025-07-12,266,Particulier,Support,2,118.97
+490,2025-03-18,155,Particulier,Support,5,320.14
+491,2025-11-12,76,Particulier,Abonnement,2,80.14
+492,2025-09-25,79,Grand compte,Licence,3,884.52
+493,2025-07-03,279,Grand compte,Formation,2,386.69
+494,2025-03-16,105,Particulier,Licence,3,622.65
+495,2024-07-30,123,Particulier,Support,3,184.16
+496,2024-10-28,251,Particulier,Formation,4,474.67
+497,2024-03-27,132,Particulier,Abonnement,3,116.68
+498,2024-09-30,156,Particulier,Licence,3,644.02
+499,2025-11-07,98,Grand compte,Formation,4,700.62
+500,2024-11-06,139,PME,Abonnement,3,158.18
+501,2024-03-24,278,Particulier,Abonnement,3,109.95
+502,2025-04-20,214,Particulier,Support,1,66.88
+503,2025-12-03,400,PME,Abonnement,5,249.06
+504,2025-09-25,309,Particulier,Formation,1,110.7
+505,2024-07-19,7,Particulier,Support,5,312.22
+506,2024-11-27,152,Particulier,Abonnement,4,151.68
+507,2025-01-22,116,Particulier,Formation,5,601.6
+508,2024-06-29,236,Particulier,Abonnement,1,38.44
+509,2024-07-15,107,PME,Licence,2,474.9
+510,2024-06-21,387,Particulier,Licence,1,215.06
+511,2025-12-27,120,PME,Abonnement,3,149.97
+512,2025-06-28,209,Particulier,Formation,5,545.98
+513,2025-09-05,50,Grand compte,Formation,4,658.48
+514,2025-08-19,364,Particulier,Licence,4,817.33
+515,2025-12-01,365,Particulier,Abonnement,5,205.49
+516,2024-03-17,318,Particulier,Formation,1,113.53
+517,2025-10-05,141,Particulier,Licence,4,901.84
+518,2024-02-18,24,Particulier,Abonnement,2,85.21
+519,2024-12-13,285,PME,Formation,4,547.17
+520,2025-03-09,172,Particulier,Abonnement,4,150.76
+521,2024-09-18,397,Particulier,Support,4,235.63
+522,2024-04-16,280,Particulier,Abonnement,3,116.81
+523,2024-05-20,216,PME,Licence,4,1056.47
+524,2025-08-25,395,Grand compte,Formation,3,582.53
+525,2024-08-20,321,PME,Abonnement,4,192.54
+526,2024-08-14,184,PME,Support,3,227.71
+527,2025-11-05,8,PME,Support,2,153.48
+528,2024-04-15,38,PME,Support,2,144.67
+529,2025-10-30,178,Particulier,Support,2,123.87
+530,2025-11-03,225,PME,Abonnement,4,201.13
+531,2025-03-12,13,PME,Support,5,374.04
+532,2024-04-30,51,Particulier,Abonnement,1,37.51
+533,2024-04-23,282,PME,Abonnement,1,45.4
+534,2024-07-26,301,Particulier,Licence,3,586.15
+535,2025-02-25,12,Particulier,Support,4,226.43
+536,2024-04-22,204,Particulier,Abonnement,1,35.29
+537,2024-11-28,33,PME,Abonnement,2,101.19
+538,2024-03-25,290,Grand compte,Licence,1,308.31
+539,2025-01-29,334,Particulier,Abonnement,1,35.71
+540,2024-01-16,348,Particulier,Abonnement,1,39.23
+541,2025-06-01,240,Particulier,Abonnement,4,157.64
+542,2024-02-10,252,Particulier,Abonnement,5,202.91
+543,2024-05-22,371,Grand compte,Abonnement,3,
+544,2024-05-07,245,Particulier,Licence,1,178.34
+545,2025-08-29,179,Particulier,Abonnement,5,208.32
+546,2024-02-08,302,Particulier,Formation,2,210.55
+547,2024-11-09,237,Grand compte,Support,1,88.32
+548,2025-03-07,337,Particulier,Formation,1,116.87
+549,2025-01-11,210,PME,Support,2,142.58
+550,2025-05-11,348,Particulier,Support,4,244.85
+551,2025-08-09,18,Particulier,Support,2,135.35
+552,2024-10-14,15,PME,Support,3,188.36
+553,2025-08-27,40,Particulier,Support,2,128.42
+554,2024-08-20,223,PME,Support,5,287.65
+555,2025-12-19,284,Particulier,Support,4,266.76
+556,2025-01-03,87,PME,Abonnement,4,160.62
+557,2025-06-21,63,PME,Support,3,258.1
+558,2025-09-30,345,PME,Support,3,209.26
+559,2025-08-01,301,Particulier,Abonnement,5,220.65
+560,2025-09-13,260,PME,Licence,4,1043.26
+561,2025-01-26,196,Grand compte,Abonnement,5,289.52
+562,2024-02-01,169,Particulier,Abonnement,1,38.85
+563,2024-12-25,9,Particulier,Licence,5,933.03
+564,2024-05-12,76,PME,Abonnement,5,255.12
+565,2025-10-11,359,Particulier,Formation,4,463.74
+566,2024-06-21,136,PME,Abonnement,5,224.28
+567,2024-06-15,282,PME,Licence,3,750.95
+568,2024-07-01,282,Particulier,Formation,2,222.77
+569,2025-04-14,124,PME,Support,4,280.42
+570,2025-02-20,82,PME,Support,4,290.47
+571,2025-11-23,277,Particulier,Support,1,56.92
+572,2024-10-30,38,Grand compte,Licence,2,576.41
+573,2024-07-25,198,Particulier,Support,2,134.74
+574,2024-02-05,356,Particulier,Formation,3,354.12
+575,2024-01-06,285,PME,Licence,1,233.1
+576,2024-09-29,306,Particulier,Formation,4,473.28
+577,2025-11-06,34,PME,Abonnement,1,49.75
+578,2025-01-17,80,Particulier,Abonnement,5,183.46
+579,2025-10-14,111,Particulier,Support,4,248.2
+580,2024-03-15,117,Particulier,Abonnement,2,81.64
+581,2024-03-09,78,PME,Formation,2,246.79
+582,2025-08-31,389,PME,Abonnement,4,219.56
+583,2024-03-18,66,PME,Formation,1,160.83
+584,2024-02-07,284,Grand compte,Abonnement,4,224.63
+585,2024-10-21,235,PME,Support,3,196.6
+586,2025-11-06,245,PME,Abonnement,2,97.75
+587,2025-05-18,86,Particulier,Abonnement,5,177.19
+588,2024-03-13,124,Grand compte,Formation,4,798.58
+589,2025-09-03,243,PME,Formation,1,138.6
+590,2025-09-07,120,Grand compte,Support,4,406.71
+591,2025-08-07,278,Particulier,Formation,3,336.26
+592,2025-10-20,16,Particulier,Abonnement,4,158.56
+593,2024-06-24,30,PME,Licence,3,792.99
+594,2025-12-16,292,Particulier,Formation,5,584.48
+595,2024-08-22,247,Particulier,Abonnement,5,204.35
+596,2025-08-08,18,Grand compte,Support,1,97.87
+597,2025-02-26,360,Particulier,Support,3,171.99
+598,2025-07-23,2,Particulier,Support,2,107.89
+599,2025-04-03,383,Particulier,Formation,3,317.99
+600,2025-04-14,292,Particulier,Formation,1,125.6
+601,2025-03-25,396,PME,Formation,3,445.44
+602,2025-07-22,380,Grand compte,Abonnement,1,65.1
+603,2025-06-23,126,Grand compte,Abonnement,4,234.74
+604,2024-04-08,303,PME,Licence,3,637.59
+605,2025-08-26,85,PME,Support,5,292.24
+606,2025-01-26,189,Particulier,Formation,5,737.66
+607,2024-08-23,97,Grand compte,Abonnement,4,250.12
+608,2025-01-10,195,Particulier,Support,3,181.97
+609,2025-12-06,349,Particulier,Abonnement,4,163.57
+610,2025-09-18,175,Grand compte,Abonnement,4,212.52
+611,2025-08-31,37,Grand compte,Abonnement,1,56.18
+612,2024-12-03,130,Particulier,Support,2,136.74
+613,2025-07-26,315,PME,Support,5,378.96
+614,2024-10-08,209,Particulier,Abonnement,2,75.11
+615,2025-05-15,225,Particulier,Abonnement,1,36.07
+616,2025-04-11,173,Particulier,Support,5,287.62
+617,2024-07-01,118,Particulier,Formation,5,584.86
+618,2024-07-13,240,Particulier,Support,4,279.34
+619,2024-02-14,254,Particulier,Abonnement,4,157.59
+620,2024-04-12,360,Particulier,Support,2,108.58
+621,2024-11-12,248,Particulier,Licence,2,398.12
+622,2024-12-14,399,Grand compte,Support,5,459.52
+623,2024-04-30,331,PME,Abonnement,5,215.41
+624,2024-10-31,32,Grand compte,Support,3,278.69
+625,2025-03-17,157,Particulier,Abonnement,2,87.74
+626,2024-06-18,154,PME,Abonnement,1,48.53
+627,2024-09-03,2,PME,Abonnement,1,44.94
+628,2024-09-25,73,Particulier,Licence,3,574.61
+629,2025-01-03,305,Particulier,Formation,3,312.23
+630,2024-09-24,141,Particulier,Licence,4,791.43
+631,2025-06-21,60,Particulier,Formation,5,614.92
+632,2024-08-27,115,Particulier,Formation,2,222.78
+633,2024-11-12,110,Particulier,Abonnement,1,46.21
+634,2024-10-04,70,Particulier,Support,5,319.01
+635,2024-05-13,41,PME,Abonnement,4,164.46
+636,2025-05-15,306,Particulier,Formation,3,308.96
+637,2024-06-20,330,Particulier,Abonnement,1,36.85
+638,2024-08-04,199,PME,Abonnement,3,162.12
+639,2025-08-01,247,Particulier,Formation,4,514.21
+640,2025-11-23,368,Particulier,Abonnement,5,225.98
+641,2025-05-04,338,Particulier,Abonnement,3,120.1
+642,2025-10-30,14,Particulier,Licence,3,589.94
+643,2025-09-15,382,Particulier,Abonnement,2,72.02
+644,2024-12-17,27,Particulier,Abonnement,3,123.36
+645,2025-07-16,11,Particulier,Abonnement,1,39.37
+646,2024-08-27,162,Grand compte,Abonnement,1,58.87
+647,2024-12-02,299,Grand compte,Support,4,406.6
+648,2025-01-25,33,Particulier,Abonnement,2,79.19
+649,2025-12-02,118,Particulier,Formation,5,663.89
+650,2025-09-11,106,Particulier,Support,2,104.75
+651,2024-12-23,159,PME,Abonnement,5,291.61
+652,2025-04-21,395,PME,Licence,1,232.83
+653,2024-05-27,133,Particulier,Licence,1,211.31
+654,2025-08-10,84,Particulier,Abonnement,3,128.32
+655,2025-02-07,49,Particulier,Abonnement,5,192.04
+656,2025-01-23,80,Grand compte,Abonnement,1,63.93
+657,2025-07-13,54,Grand compte,Abonnement,3,192.54
+658,2025-04-07,230,Particulier,Formation,2,226.31
+659,2024-02-22,169,PME,Formation,4,543.68
+660,2024-07-29,200,Particulier,Formation,3,361.3
+661,2024-05-09,333,PME,Abonnement,4,190.23
+662,2025-06-20,233,Grand compte,Abonnement,2,133.37
+663,2024-01-26,63,Particulier,Licence,2,422.49
+664,2024-05-27,151,Particulier,Licence,4,795.49
+665,2025-03-12,126,PME,Abonnement,2,100.65
+666,2025-05-22,331,Particulier,Support,4,200.7
+667,2025-01-02,123,PME,Formation,1,136.91
+668,2025-09-20,56,Particulier,Support,2,122.76
+669,2025-11-01,295,Grand compte,Formation,1,196.06
+670,2024-04-06,172,Particulier,Licence,1,203.2
+671,2025-11-26,39,Particulier,Abonnement,2,89.33
+672,2025-03-24,276,Particulier,Abonnement,3,128.33
+673,2025-04-09,85,Particulier,Licence,1,192.19
+674,2024-03-10,348,Particulier,Abonnement,1,39.55
+675,2025-03-29,333,PME,Abonnement,5,247.84
+676,2025-06-13,148,Particulier,Support,3,173.54
+677,2025-02-27,223,Particulier,Support,4,269.4
+678,2024-03-02,228,Particulier,Support,4,218.71
+679,2025-01-16,262,Particulier,Support,1,61.52
+680,2025-11-14,28,Grand compte,Support,4,381.18
+681,2025-06-12,130,Grand compte,Abonnement,5,292.48
+682,2024-04-10,69,Particulier,Support,3,172.24
+683,2025-12-01,279,PME,Support,5,357.81
+684,2025-11-30,28,PME,Licence,5,1277.95
+685,2024-05-03,207,Grand compte,Abonnement,3,172.8
+686,2025-08-07,292,Particulier,Abonnement,1,36.58
+687,2024-10-23,380,Particulier,Support,4,262.09
+688,2025-03-09,116,Particulier,Abonnement,5,206.39
+689,2024-11-20,4,Grand compte,Abonnement,3,194.51
+690,2025-07-25,290,PME,Support,5,381.87
+691,2025-12-28,1,Particulier,Formation,3,422.78
+692,2025-08-03,27,Particulier,Abonnement,3,130.7
+693,2025-11-10,397,PME,Abonnement,5,226.1
+694,2025-11-21,346,Grand compte,Abonnement,1,62.26
+695,2024-03-06,284,Particulier,Support,3,171.97
+696,2024-07-03,335,PME,Formation,1,138.77
+697,2025-06-10,31,Particulier,Abonnement,4,141.92
+698,2025-03-06,36,Particulier,Abonnement,5,195.42
+699,2024-02-06,121,Particulier,Abonnement,5,208.72
+700,2024-03-10,10,PME,Abonnement,2,95.49
+701,2025-01-14,356,Grand compte,Abonnement,4,
+702,2025-03-25,23,Particulier,Formation,5,526.9
+703,2024-05-02,218,Particulier,Abonnement,5,233.79
+704,2024-05-05,342,Particulier,Abonnement,3,123.12
+705,2024-04-04,294,Particulier,Formation,1,112.09
+706,2025-02-16,94,Particulier,Formation,3,373.3
+707,2024-01-06,189,Particulier,Abonnement,4,188.02
+708,2025-02-21,220,Particulier,Abonnement,4,167.94
+709,2024-12-13,308,Particulier,Abonnement,2,62.16
+710,2024-12-06,171,Particulier,Abonnement,2,96.97
+711,2025-05-10,115,PME,Support,4,245.39
+712,2025-01-16,319,Particulier,Abonnement,3,118.02
+713,2025-06-15,355,PME,Support,3,196.41
+714,2025-07-11,196,Grand compte,Support,5,423.36
+715,2025-11-02,12,PME,Abonnement,1,49.09
+716,2025-08-06,201,Particulier,Abonnement,2,66.75
+717,2025-01-12,356,Particulier,Abonnement,5,198.56
+718,2024-12-25,396,PME,Abonnement,5,262.03
+719,2024-06-21,161,Particulier,Formation,2,223.81
+720,2025-03-13,61,Particulier,Abonnement,5,177.76
+721,2024-04-11,229,Particulier,Support,2,118.66
+722,2025-11-10,333,Particulier,Formation,1,116.75
+723,2025-09-08,379,Particulier,Support,2,114.29
+724,2024-03-28,21,PME,Support,3,195.47
+725,2025-07-27,117,Particulier,Formation,1,124.98
+726,2024-03-26,192,Particulier,Licence,1,209.52
+727,2025-06-10,40,PME,Licence,4,
+728,2024-03-05,355,Particulier,Abonnement,4,148.13
+729,2024-12-22,45,PME,Abonnement,4,194.1
+730,2025-04-25,267,Particulier,Abonnement,5,184.56
+731,2025-06-16,368,Particulier,Abonnement,2,81.14
+732,2024-11-01,275,Grand compte,Formation,5,1005.7
+733,2025-11-03,306,Particulier,Abonnement,2,79.62
+734,2025-07-19,106,Particulier,Formation,5,541.75
+735,2024-06-01,331,Grand compte,Support,4,371.29
+736,2025-05-04,168,PME,Abonnement,2,94.64
+737,2025-06-17,25,PME,Formation,2,284.54
+738,2024-08-31,147,Particulier,Abonnement,3,124.56
+739,2025-06-22,140,Particulier,Support,3,189.95
+740,2025-10-17,209,PME,Support,2,144.41
+741,2025-08-19,106,Particulier,Abonnement,2,79.61
+742,2025-07-10,185,Particulier,Support,5,349.52
+743,2025-04-08,172,PME,Abonnement,4,210.44
+744,2024-07-16,131,Particulier,Support,1,64.0
+745,2025-08-03,279,Particulier,Formation,4,485.04
+746,2024-09-22,123,Particulier,Formation,1,110.34
+747,2025-01-23,307,Particulier,Support,3,196.23
+748,2024-08-17,101,PME,Licence,1,242.77
+749,2024-08-16,346,Grand compte,Support,4,343.38
+750,2024-04-25,147,Particulier,Formation,1,117.67
+751,2025-12-02,17,Particulier,Support,2,110.72
+752,2024-04-17,60,Particulier,Formation,1,130.15
+753,2024-03-03,323,Particulier,Support,1,63.28
+754,2025-11-14,349,Particulier,Support,1,60.87
+755,2025-02-09,85,Grand compte,Abonnement,3,179.38
+756,2024-11-15,241,Particulier,Abonnement,5,189.11
+757,2025-06-22,230,Particulier,Abonnement,2,66.37
+758,2024-10-06,54,Grand compte,Abonnement,4,212.87
+759,2024-04-03,181,Particulier,Abonnement,3,112.87
+760,2025-06-16,278,Grand compte,Abonnement,2,111.43
+761,2024-05-08,387,Particulier,Formation,1,122.78
+762,2025-02-07,340,Particulier,Abonnement,4,170.39
+763,2025-11-23,40,Grand compte,Abonnement,1,59.38
+764,2025-11-14,96,Particulier,Support,3,200.29
+765,2024-09-20,175,Particulier,Abonnement,1,37.49
+766,2025-07-23,61,Particulier,Formation,4,474.8
+767,2025-03-23,229,PME,Support,5,358.53
+768,2024-12-15,4,PME,Licence,2,521.94
+769,2024-04-12,46,Particulier,Formation,2,242.03
+770,2024-10-01,19,PME,Abonnement,3,145.54
+771,2025-04-20,119,PME,Abonnement,3,124.94
+772,2025-12-21,305,Particulier,Licence,2,371.2
+773,2024-01-04,71,Particulier,Support,2,130.52
+774,2025-06-07,395,Particulier,Support,1,50.04
+775,2025-09-09,108,Particulier,Support,2,132.89
+776,2025-11-25,18,Particulier,Abonnement,3,124.8
+777,2024-11-05,135,Particulier,Formation,4,451.3
+778,2024-03-27,300,Particulier,Support,4,224.02
+779,2024-07-16,43,Particulier,Licence,3,691.01
+780,2025-09-12,29,PME,Abonnement,4,213.68
+781,2025-10-02,340,Particulier,Formation,3,356.56
+782,2025-04-10,237,Grand compte,Abonnement,2,121.29
+783,2024-03-30,138,Grand compte,Licence,2,568.98
+784,2024-03-30,303,PME,Abonnement,3,145.55
+785,2024-12-15,338,Grand compte,Support,2,170.3
+786,2025-03-05,144,Grand compte,Abonnement,4,238.49
+787,2024-01-24,225,Particulier,Support,1,68.69
+788,2025-05-15,5,PME,Support,1,71.45
+789,2025-02-01,123,Particulier,Abonnement,3,109.94
+790,2024-01-09,239,PME,Support,1,64.13
+791,2024-03-10,79,Particulier,Licence,1,202.03
+792,2024-11-27,397,Particulier,Licence,2,375.65
+793,2025-06-11,389,Particulier,Abonnement,1,40.79
+794,2025-08-25,104,Grand compte,Support,2,156.68
+795,2024-11-10,159,Particulier,Formation,3,379.88
+796,2024-08-03,76,Particulier,Formation,2,219.64
+797,2025-12-07,202,Particulier,Formation,5,602.22
+798,2024-11-30,50,Particulier,Support,1,58.38
+799,2024-08-18,157,PME,Abonnement,4,218.39
+800,2024-11-18,223,PME,Formation,3,437.93
+801,2024-01-09,245,Particulier,Abonnement,4,184.9
+802,2024-08-08,239,Particulier,Abonnement,4,167.18
+803,2025-01-11,89,Particulier,Abonnement,1,44.56
+804,2025-11-01,317,Particulier,Abonnement,4,157.33
+805,2025-06-22,277,PME,Support,2,147.98
+806,2025-07-24,302,PME,Formation,4,632.16
+807,2025-02-01,188,Particulier,Abonnement,2,85.79
+808,2024-03-21,358,PME,Support,2,150.12
+809,2024-10-12,156,Particulier,Licence,4,779.01
+810,2025-12-28,323,PME,Licence,5,1184.76
+811,2024-02-02,82,Particulier,Support,5,327.3
+812,2025-10-03,99,PME,Licence,4,
+813,2025-05-14,211,Particulier,Formation,3,342.93
+814,2024-07-26,223,Grand compte,Licence,3,846.45
+815,2025-07-21,299,Particulier,Licence,5,927.67
+816,2025-09-02,119,Particulier,Abonnement,2,85.31
+817,2024-02-01,350,Particulier,Licence,5,925.64
+818,2024-03-18,132,Particulier,Support,4,255.7
+819,2025-04-30,214,Particulier,Support,4,250.48
+820,2025-12-30,373,PME,Licence,3,688.6
+821,2024-01-18,216,PME,Abonnement,5,270.03
+822,2025-04-30,273,Particulier,Formation,4,423.85
+823,2024-04-09,364,PME,Support,1,81.56
+824,2025-04-19,390,PME,Support,4,295.35
+825,2025-03-31,200,Particulier,Licence,4,667.3
+826,2024-03-07,167,Particulier,Licence,5,1127.35
+827,2025-05-11,79,Particulier,Support,5,323.33
+828,2025-10-16,215,Particulier,Licence,5,965.74
+829,2025-09-22,368,PME,Abonnement,1,44.3
+830,2024-01-22,195,Grand compte,Licence,4,1049.37
+831,2024-06-28,140,PME,Abonnement,5,286.38
+832,2024-06-24,43,Particulier,Formation,5,555.68
+833,2024-11-26,156,PME,Abonnement,3,129.44
+834,2024-04-14,95,PME,Formation,5,735.43
+835,2025-09-15,391,Particulier,Abonnement,5,173.79
+836,2025-07-21,212,PME,Abonnement,1,44.23
+837,2025-08-13,55,Particulier,Support,5,323.88
+838,2024-05-24,27,Particulier,Support,4,248.91
+839,2024-01-11,341,Particulier,Abonnement,3,116.29
+840,2025-10-26,373,Particulier,Support,1,60.09
+841,2024-07-29,306,Grand compte,Abonnement,5,289.38
+842,2025-04-24,50,Particulier,Abonnement,2,79.6
+843,2025-10-25,40,Particulier,Abonnement,3,112.69
+844,2024-01-27,80,Particulier,Formation,2,228.86
+845,2024-01-04,301,Particulier,Support,5,285.34
+846,2024-01-04,307,Particulier,Formation,3,339.1
+847,2024-04-24,336,Particulier,Support,1,65.01
+848,2024-02-07,39,PME,Formation,1,152.87
+849,2025-08-21,62,Particulier,Support,5,277.62
+850,2025-03-18,361,PME,Licence,2,434.14
+851,2025-12-16,372,Particulier,Abonnement,4,157.99
+852,2025-08-08,291,PME,Abonnement,1,56.28
+853,2025-12-04,43,PME,Abonnement,5,220.27
+854,2024-06-23,28,Particulier,Formation,4,473.81
+855,2024-07-29,23,Particulier,Formation,2,241.7
+856,2025-09-12,277,Grand compte,Abonnement,5,297.39
+857,2024-06-27,339,Particulier,Licence,2,385.34
+858,2024-02-11,253,PME,Licence,5,1310.89
+859,2025-05-03,105,Particulier,Abonnement,3,124.36
+860,2025-08-07,303,Particulier,Abonnement,3,128.12
+861,2025-12-07,24,Particulier,Abonnement,1,41.89
+862,2025-11-08,332,Grand compte,Abonnement,2,
+863,2024-03-28,357,Particulier,Licence,1,225.35
+864,2025-07-17,288,PME,Formation,5,796.67
+865,2025-09-09,352,PME,Abonnement,1,56.93
+866,2025-05-24,235,Particulier,Formation,1,131.69
+867,2025-08-21,188,Particulier,Abonnement,1,37.86
+868,2025-09-03,129,Particulier,Formation,5,640.67
+869,2024-11-21,369,Particulier,Formation,5,634.1
+870,2024-01-30,279,PME,Support,4,332.24
+871,2024-11-29,77,Particulier,Formation,1,
+872,2024-05-27,383,Particulier,Licence,3,626.78
+873,2024-03-24,24,PME,Abonnement,5,226.92
+874,2024-04-01,236,PME,Support,1,74.95
+875,2025-05-24,77,Particulier,Abonnement,4,157.25
+876,2025-01-03,266,PME,Abonnement,1,49.84
+877,2025-01-29,166,Particulier,Licence,5,887.17
+878,2025-06-27,175,PME,Support,3,229.71
+879,2025-02-04,269,Particulier,Abonnement,5,203.3
+880,2025-04-04,303,Particulier,Formation,3,364.38
+881,2024-03-03,153,Particulier,Support,4,277.44
+882,2025-09-13,400,PME,Licence,5,1163.28
+883,2024-11-23,200,PME,Support,2,147.94
+884,2024-04-23,65,Particulier,Abonnement,4,161.28
+885,2025-08-16,3,Grand compte,Formation,3,548.56
+886,2025-06-20,81,PME,Abonnement,3,169.6
+887,2024-02-08,277,Particulier,Abonnement,4,160.82
+888,2024-05-20,216,PME,Formation,2,274.93
+889,2024-01-12,136,Particulier,Support,1,68.98
+890,2024-07-16,193,Grand compte,Abonnement,3,175.57
+891,2024-03-13,336,Particulier,Support,5,261.48
+892,2025-06-02,229,Particulier,Support,1,56.44
+893,2025-01-16,24,Particulier,Support,2,108.03
+894,2025-12-16,20,Particulier,Abonnement,4,136.96
+895,2025-07-01,193,PME,Abonnement,3,139.82
+896,2025-03-22,162,Particulier,Abonnement,4,159.1
+897,2025-01-06,341,Particulier,Abonnement,3,131.33
+898,2024-02-09,234,Particulier,Abonnement,5,210.07
+899,2024-02-21,303,Grand compte,Abonnement,5,314.01
+900,2025-03-25,235,PME,Abonnement,3,133.71
+901,2024-01-04,139,Particulier,Abonnement,3,128.5
+902,2024-01-31,263,Particulier,Licence,2,444.52
+903,2024-06-08,249,Particulier,Support,3,185.68
+904,2025-10-07,289,Grand compte,Abonnement,5,310.14
+905,2024-12-01,76,PME,Licence,3,647.15
+906,2025-06-01,257,PME,Abonnement,4,208.2
+907,2024-10-27,115,Grand compte,Formation,3,616.93
+908,2024-05-06,317,Particulier,Support,4,246.2
+909,2024-09-27,320,PME,Formation,4,548.61
+910,2024-03-07,250,Particulier,Abonnement,3,118.44
+911,2025-07-16,379,Particulier,Abonnement,5,193.27
+912,2024-05-13,216,Particulier,Formation,5,582.7
+913,2024-10-01,11,Particulier,Support,1,63.11
+914,2025-12-16,243,Grand compte,Formation,2,368.05
+915,2025-03-08,312,Particulier,Formation,5,648.19
+916,2024-11-30,41,PME,Abonnement,3,148.27
+917,2025-01-31,42,PME,Formation,2,268.09
+918,2025-07-26,110,PME,Abonnement,4,184.31
+919,2024-07-04,338,Grand compte,Licence,4,1145.97
+920,2025-04-09,211,Particulier,Support,1,59.1
+921,2025-09-29,391,Particulier,Formation,1,137.23
+922,2025-02-21,350,Particulier,Support,5,346.92
+923,2024-11-21,222,Particulier,Abonnement,4,170.71
+924,2024-04-15,272,Grand compte,Abonnement,2,121.14
+925,2024-06-30,133,Particulier,Formation,5,534.64
+926,2025-11-21,37,Particulier,Formation,1,122.11
+927,2025-01-30,160,Particulier,Support,5,281.04
+928,2024-08-07,237,Particulier,Licence,1,226.09
+929,2024-11-01,73,PME,Abonnement,4,167.33
+930,2025-02-25,89,Particulier,Abonnement,5,
+931,2025-01-27,6,PME,Support,4,267.86
+932,2025-05-25,294,PME,Abonnement,4,191.85
+933,2024-07-06,360,PME,Abonnement,2,101.12
+934,2025-04-18,331,Particulier,Licence,2,432.7
+935,2024-11-19,152,PME,Support,2,143.3
+936,2025-11-17,238,Particulier,Licence,1,212.18
+937,2024-04-25,385,Particulier,Abonnement,2,75.76
+938,2024-04-18,237,PME,Abonnement,2,97.89
+939,2024-12-03,119,PME,Formation,4,622.18
+940,2025-01-06,136,Particulier,Licence,2,410.63
+941,2025-05-19,291,Grand compte,Abonnement,1,57.46
+942,2024-10-21,179,Particulier,Abonnement,4,156.43
+943,2025-10-29,335,PME,Abonnement,3,155.7
+944,2024-12-12,346,Grand compte,Support,2,164.28
+945,2024-04-04,15,Particulier,Support,4,221.87
+946,2024-03-28,290,PME,Support,2,150.93
+947,2025-12-11,148,PME,Abonnement,4,185.25
+948,2024-04-07,208,PME,Support,1,63.63
+949,2025-11-22,106,PME,Formation,3,478.68
+950,2024-07-21,148,PME,Abonnement,3,131.33
+951,2024-03-09,133,Particulier,Abonnement,2,78.72
+952,2024-08-10,21,PME,Formation,4,547.45
+953,2025-03-24,314,Particulier,Abonnement,2,78.09
+954,2024-11-08,58,Grand compte,Licence,4,1115.08
+955,2025-07-27,151,Particulier,Formation,2,253.71
+956,2025-03-22,78,Particulier,Abonnement,3,121.06
+957,2024-10-19,65,Grand compte,Support,4,388.33
+958,2025-04-08,150,Particulier,Support,5,285.38
+959,2025-12-10,368,Particulier,Abonnement,2,93.65
+960,2024-10-27,378,PME,Support,3,183.09
+961,2024-04-22,153,Particulier,Abonnement,3,104.78
+962,2024-10-25,203,Particulier,Abonnement,5,228.05
+963,2025-09-05,395,Particulier,Support,5,311.38
+964,2024-06-07,94,Particulier,Formation,4,493.11
+965,2025-11-23,378,Particulier,Abonnement,5,206.9
+966,2025-03-05,43,Particulier,Abonnement,1,41.83
+967,2025-03-15,91,Particulier,Formation,4,491.51
+968,2024-08-19,136,Particulier,Abonnement,5,184.55
+969,2025-11-02,15,Particulier,Licence,4,852.36
+970,2024-01-27,327,PME,Formation,3,454.83
+971,2024-08-06,343,PME,Licence,5,1337.13
+972,2024-11-01,154,Particulier,Abonnement,4,182.58
+973,2024-12-14,335,Particulier,Support,5,307.93
+974,2024-12-12,310,Grand compte,Abonnement,1,54.11
+975,2024-04-17,321,PME,Abonnement,4,219.23
+976,2024-06-13,322,Particulier,Abonnement,3,110.23
+977,2024-03-10,230,Particulier,Abonnement,5,205.41
+978,2025-02-21,45,Particulier,Licence,5,979.46
+979,2024-09-13,370,PME,Support,5,347.6
+980,2025-02-17,244,Grand compte,Support,2,191.01
+981,2025-03-06,361,Grand compte,Formation,3,550.56
+982,2025-05-27,384,Particulier,Formation,1,124.93
+983,2025-02-03,75,Particulier,Support,5,280.42
+984,2025-04-18,161,Particulier,Support,2,118.33
+985,2025-03-04,77,Particulier,Formation,4,450.45
+986,2025-04-21,21,Particulier,Support,3,177.13
+987,2025-03-26,387,PME,Abonnement,5,237.72
+988,2024-08-18,370,Particulier,Licence,5,1147.54
+989,2024-06-28,373,Grand compte,Abonnement,4,235.02
+990,2025-07-28,354,Particulier,Abonnement,4,132.79
+991,2024-09-07,260,Particulier,Licence,1,222.32
+992,2025-02-04,209,Grand compte,Abonnement,5,310.78
+993,2024-05-23,397,PME,Abonnement,1,47.5
+994,2024-11-10,221,Particulier,Abonnement,3,115.8
+995,2025-01-21,257,PME,Formation,2,266.18
+996,2025-04-01,85,Particulier,Licence,2,462.02
+997,2025-01-19,299,Particulier,Support,5,301.24
+998,2024-09-20,328,Particulier,Formation,2,206.64
+999,2025-12-03,272,Particulier,Licence,3,615.73
+1000,2025-01-09,200,PME,Support,2,157.9
+1001,2025-08-13,80,Particulier,Licence,5,1012.51
+1002,2025-06-21,14,PME,Abonnement,4,178.15
+1003,2025-02-11,251,PME,Formation,3,397.75
+1004,2025-10-09,274,Particulier,Abonnement,1,37.06
+1005,2024-04-03,310,Particulier,Abonnement,1,44.87
+1006,2025-11-03,381,Particulier,Support,2,119.31
+1007,2025-09-12,199,PME,Abonnement,3,124.66
+1008,2025-01-02,332,PME,Formation,5,742.13
+1009,2025-06-19,287,PME,Support,1,72.81
+1010,2025-01-14,111,Particulier,Abonnement,3,115.69
+1011,2024-07-15,339,Particulier,Formation,2,220.41
+1012,2025-08-06,22,Particulier,Support,1,54.89
+1013,2024-06-28,240,Particulier,Licence,4,869.54
+1014,2024-08-17,377,PME,Abonnement,4,195.8
+1015,2025-01-14,264,Particulier,Licence,5,1038.29
+1016,2025-09-03,375,Particulier,Support,3,183.52
+1017,2024-10-07,23,Particulier,Support,2,123.15
+1018,2024-12-26,213,Particulier,Abonnement,5,192.51
+1019,2024-01-31,313,PME,Support,2,141.63
+1020,2024-03-25,257,Particulier,Support,4,262.37
+1021,2024-02-10,353,Grand compte,Abonnement,5,333.95
+1022,2024-02-22,186,PME,Licence,1,216.54
+1023,2025-09-26,274,Grand compte,Licence,5,1475.01
+1024,2025-09-06,168,PME,Formation,2,307.34
+1025,2025-08-22,349,PME,Support,3,248.52
+1026,2024-02-10,48,PME,Formation,2,329.06
+1027,2024-02-26,102,Particulier,Support,1,56.18
+1028,2024-07-23,39,Particulier,Support,4,264.48
+1029,2025-02-16,281,PME,Abonnement,3,144.68
+1030,2024-08-31,94,Particulier,Abonnement,3,130.03
+1031,2024-12-21,127,Particulier,Abonnement,3,127.57
+1032,2024-05-06,335,Grand compte,Licence,4,1078.66
+1033,2025-06-17,145,Particulier,Abonnement,5,208.8
+1034,2024-08-17,59,Particulier,Licence,3,
+1035,2024-02-18,9,PME,Formation,1,143.77
+1036,2025-06-26,91,Particulier,Abonnement,2,78.42
+1037,2025-10-21,366,Grand compte,Licence,3,786.84
+1038,2024-01-11,220,Particulier,Formation,1,126.56
+1039,2024-11-14,398,Grand compte,Abonnement,2,122.0
+1040,2025-08-26,87,PME,Abonnement,2,88.92
+1041,2025-05-30,141,Particulier,Abonnement,5,194.79
+1042,2025-09-17,66,Particulier,Abonnement,3,121.48
+1043,2024-10-30,160,Particulier,Abonnement,5,191.06
+1044,2024-09-28,226,Particulier,Support,3,180.04
+1045,2025-06-01,324,Particulier,Abonnement,3,103.2
+1046,2024-04-22,148,Grand compte,Abonnement,5,332.39
+1047,2024-06-23,309,Particulier,Abonnement,4,160.2
+1048,2025-03-14,251,PME,Formation,2,262.67
+1049,2025-05-02,117,Particulier,Licence,2,321.29
+1050,2024-03-28,365,Grand compte,Abonnement,4,259.76
+1051,2025-01-06,174,Particulier,Abonnement,1,41.79
+1052,2024-09-23,61,Particulier,Formation,1,122.02
+1053,2025-01-01,386,PME,Licence,1,256.58
+1054,2025-11-30,366,Particulier,Support,4,256.53
+1055,2024-02-25,20,PME,Support,3,219.36
+1056,2025-12-27,361,Particulier,Licence,1,195.93
+1057,2024-11-24,379,Particulier,Support,4,231.99
+1058,2025-07-17,332,Particulier,Licence,4,826.94
+1059,2024-11-05,102,PME,Abonnement,4,213.46
+1060,2024-08-15,253,Particulier,Support,1,59.51
+1061,2025-07-16,216,Particulier,Licence,5,1118.12
+1062,2025-05-16,249,Particulier,Licence,1,205.97
+1063,2024-04-15,247,Particulier,Formation,3,370.96
+1064,2025-05-29,256,Particulier,Support,3,214.63
+1065,2025-07-03,206,Grand compte,Abonnement,2,135.87
+1066,2024-10-10,277,Particulier,Support,2,136.11
+1067,2025-11-06,211,PME,Abonnement,1,44.94
+1068,2025-04-12,7,Particulier,Formation,3,423.13
+1069,2024-08-31,15,Particulier,Support,4,238.42
+1070,2024-01-08,384,Particulier,Abonnement,2,78.54
+1071,2025-05-07,364,Particulier,Abonnement,3,99.27
+1072,2024-06-01,235,Particulier,Abonnement,5,205.22
+1073,2025-07-06,70,Particulier,Support,2,109.6
+1074,2025-01-18,313,Particulier,Support,2,123.92
+1075,2024-12-06,58,Grand compte,Support,1,81.64
+1076,2024-04-29,151,Particulier,Abonnement,3,137.26
+1077,2025-06-03,132,Particulier,Support,2,125.3
+1078,2024-05-01,5,Particulier,Support,5,354.72
+1079,2024-10-31,323,Particulier,Abonnement,2,73.45
+1080,2025-09-02,204,PME,Abonnement,4,215.8
+1081,2025-11-02,127,Particulier,Formation,1,102.69
+1082,2025-12-23,203,PME,Abonnement,2,97.6
+1083,2025-11-30,1,Particulier,Abonnement,1,37.98
+1084,2025-02-09,175,Particulier,Abonnement,3,115.7
+1085,2024-05-26,208,Grand compte,Abonnement,1,
+1086,2025-09-04,136,Particulier,Abonnement,1,37.07
+1087,2025-08-08,333,PME,Abonnement,3,129.49
+1088,2025-12-23,100,Particulier,Support,3,173.63
+1089,2025-04-20,56,Grand compte,Formation,2,363.34
+1090,2024-04-13,212,Particulier,Formation,3,393.51
+1091,2025-01-02,355,Particulier,Support,3,184.25
+1092,2024-11-23,151,PME,Formation,4,629.75
+1093,2025-09-07,19,Particulier,Abonnement,3,105.81
+1094,2024-10-13,388,Particulier,Abonnement,5,193.07
+1095,2024-08-27,178,Grand compte,Abonnement,2,126.83
+1096,2024-02-28,70,PME,Formation,1,147.95
+1097,2025-09-01,247,PME,Formation,3,402.24
+1098,2025-07-05,128,PME,Abonnement,1,51.59
+1099,2024-01-31,376,PME,Formation,4,551.52
+1100,2024-11-12,118,Grand compte,Licence,2,
+1101,2024-12-16,221,PME,Abonnement,2,99.74
+1102,2024-12-08,218,Particulier,Formation,3,360.18
+1103,2025-11-01,97,Particulier,Formation,1,114.98
+1104,2024-04-19,200,PME,Support,2,137.58
+1105,2024-08-11,44,PME,Support,5,329.19
+1106,2024-05-12,258,Particulier,Support,4,232.4
+1107,2024-06-27,304,Particulier,Abonnement,3,130.56
+1108,2025-10-24,381,Particulier,Formation,3,367.04
+1109,2025-11-17,131,Particulier,Support,3,193.8
+1110,2024-02-02,115,PME,Abonnement,5,249.91
+1111,2025-04-06,220,Particulier,Licence,5,951.02
+1112,2024-06-18,278,PME,Abonnement,3,125.0
+1113,2024-05-20,397,PME,Formation,5,666.61
+1114,2024-08-01,11,Grand compte,Formation,1,170.33
+1115,2024-05-21,96,Particulier,Formation,2,225.63
+1116,2024-12-23,105,Grand compte,Support,2,194.13
+1117,2025-12-27,103,PME,Abonnement,4,206.91
+1118,2025-03-04,186,PME,Formation,4,677.92
+1119,2025-06-11,350,Particulier,Support,3,169.0
+1120,2024-12-26,13,Particulier,Licence,2,451.12
+1121,2024-01-11,327,PME,Support,3,243.5
+1122,2024-03-02,248,Particulier,Licence,2,392.57
+1123,2024-07-15,247,Particulier,Licence,3,622.73
+1124,2024-06-26,272,PME,Abonnement,2,105.53
+1125,2025-09-05,47,PME,Licence,5,1194.34
+1126,2025-09-07,299,Particulier,Licence,4,791.27
+1127,2025-09-15,100,Particulier,Abonnement,1,37.99
+1128,2025-04-10,207,Particulier,Support,5,243.36
+1129,2025-02-10,271,Grand compte,Abonnement,4,241.35
+1130,2025-04-18,242,Grand compte,Support,2,169.78
+1131,2024-10-23,130,Particulier,Abonnement,3,109.68
+1132,2025-05-04,159,Particulier,Support,1,62.03
+1133,2025-08-02,191,Particulier,Formation,1,106.07
+1134,2025-07-10,17,Particulier,Formation,3,383.22
+1135,2025-03-24,291,Grand compte,Abonnement,4,249.29
+1136,2024-02-12,40,Particulier,Support,2,116.16
+1137,2025-06-13,184,Particulier,Formation,2,238.78
+1138,2024-09-24,262,Particulier,Support,5,271.43
+1139,2025-06-26,33,Particulier,Abonnement,5,212.01
+1140,2025-01-28,399,PME,Abonnement,3,146.16
+1141,2025-10-05,151,PME,Formation,1,147.02
+1142,2024-09-04,7,PME,Licence,4,998.55
+1143,2025-11-10,264,Particulier,Abonnement,4,151.78
+1144,2025-09-08,224,Grand compte,Support,5,395.31
+1145,2024-08-29,257,Particulier,Abonnement,5,215.32
+1146,2024-12-18,301,PME,Support,4,303.87
+1147,2025-01-22,191,Grand compte,Abonnement,1,57.43
+1148,2025-07-15,331,Particulier,Formation,2,247.85
+1149,2025-05-18,149,Grand compte,Abonnement,4,264.15
+1150,2025-09-13,219,Particulier,Abonnement,4,174.58
+1151,2024-09-27,64,PME,Abonnement,3,137.5
+1152,2025-01-03,248,Particulier,Abonnement,3,105.71
+1153,2024-11-10,105,Particulier,Formation,4,429.42
+1154,2025-10-25,279,Particulier,Licence,3,585.04
+1155,2024-08-10,321,Particulier,Formation,1,134.04
+1156,2025-03-04,344,Particulier,Licence,5,941.72
+1157,2024-03-28,372,Particulier,Formation,2,228.55
+1158,2025-09-12,49,PME,Abonnement,2,91.26
+1159,2024-10-07,56,Particulier,Abonnement,1,38.3
+1160,2024-09-05,371,Particulier,Formation,3,359.68
+1161,2025-03-01,153,Grand compte,Abonnement,5,269.28
+1162,2024-12-30,11,Grand compte,Licence,1,326.02
+1163,2025-09-11,115,Particulier,Support,2,118.61
+1164,2025-01-22,335,Particulier,Formation,1,143.8
+1165,2025-01-12,142,PME,Formation,1,130.48
+1166,2024-03-17,31,PME,Abonnement,4,216.42
+1167,2024-01-17,289,Particulier,Support,2,133.36
+1168,2024-10-17,78,PME,Abonnement,4,185.68
+1169,2025-12-29,142,Particulier,Abonnement,3,116.21
+1170,2025-10-31,2,Particulier,Abonnement,4,148.21
+1171,2025-04-04,241,PME,Abonnement,1,44.51
+1172,2025-04-05,179,PME,Support,2,143.99
+1173,2024-10-12,347,PME,Abonnement,3,144.24
+1174,2024-05-09,134,Particulier,Abonnement,1,34.87
+1175,2024-01-07,82,Particulier,Licence,3,710.09
+1176,2024-09-04,67,Particulier,Licence,3,587.54
+1177,2024-08-19,81,Particulier,Formation,3,361.89
+1178,2024-05-19,181,Particulier,Formation,3,341.96
+1179,2024-07-08,35,Particulier,Support,4,234.87
+1180,2024-01-19,161,Particulier,Abonnement,4,155.42
+1181,2025-03-19,342,PME,Formation,1,143.97
+1182,2025-11-08,308,Particulier,Abonnement,4,159.81
+1183,2025-05-19,255,Particulier,Formation,5,638.63
+1184,2024-11-23,358,PME,Licence,5,1221.81
+1185,2024-11-02,313,Particulier,Support,2,126.76
+1186,2024-08-12,262,Grand compte,Licence,4,1199.06
+1187,2024-04-13,346,Particulier,Support,5,305.55
+1188,2025-03-12,50,Particulier,Support,2,117.68
+1189,2025-02-17,328,Grand compte,Support,5,486.11
+1190,2024-01-06,119,PME,Support,4,295.43
+1191,2024-10-30,294,PME,Formation,4,568.72
+1192,2024-07-21,366,PME,Abonnement,4,189.11
+1193,2024-05-04,199,Particulier,Formation,4,475.81
+1194,2025-05-28,36,PME,Abonnement,5,240.58
+1195,2025-01-18,149,Grand compte,Formation,5,895.94
+1196,2025-04-07,163,Grand compte,Abonnement,3,171.95
+1197,2025-06-04,375,Particulier,Formation,3,382.03
+1198,2025-12-17,378,Particulier,Abonnement,4,170.6
+1199,2025-08-09,228,PME,Abonnement,5,274.25
+1200,2025-03-28,381,Particulier,Formation,2,
+1201,2025-10-03,175,Particulier,Abonnement,2,84.27
+1202,2024-12-14,165,Particulier,Licence,4,677.82
+1203,2025-12-19,335,Particulier,Formation,5,639.79
+1204,2025-07-09,267,Particulier,Abonnement,5,176.69
+1205,2025-04-20,209,Particulier,Abonnement,1,36.85
+1206,2025-10-21,183,Particulier,Support,5,307.97
+1207,2025-01-11,283,Particulier,Support,4,228.07
+1208,2025-06-10,302,Grand compte,Formation,1,169.08
+1209,2024-07-26,197,Particulier,Abonnement,1,38.45
+1210,2025-12-04,13,Particulier,Support,2,127.0
+1211,2025-03-31,41,Particulier,Licence,5,925.37
+1212,2025-07-24,58,Particulier,Abonnement,4,159.31
+1213,2024-12-02,185,Grand compte,Abonnement,3,174.55
+1214,2025-09-24,246,Grand compte,Abonnement,4,255.74
+1215,2024-02-24,322,Particulier,Abonnement,3,128.14
+1216,2024-03-24,94,Particulier,Support,5,255.95
+1217,2025-01-05,315,Particulier,Licence,1,216.72
+1218,2025-06-18,267,Particulier,Licence,2,380.46
+1219,2025-08-13,21,Particulier,Support,2,122.27
+1220,2024-11-17,141,Particulier,Abonnement,5,184.98
+1221,2025-04-19,122,Particulier,Licence,3,617.81
+1222,2025-02-07,355,PME,Abonnement,4,231.19
+1223,2025-12-02,369,Particulier,Abonnement,5,202.03
+1224,2025-04-22,328,Particulier,Support,1,57.79
+1225,2024-10-31,212,Particulier,Abonnement,5,196.29
+1226,2025-12-08,198,Particulier,Support,1,52.95
+1227,2024-03-19,125,Particulier,Licence,4,892.73
+1228,2025-12-19,310,Particulier,Support,4,246.01
+1229,2024-04-22,35,Particulier,Support,5,274.83
+1230,2024-07-29,109,Particulier,Abonnement,1,36.75
+1231,2025-08-22,55,PME,Abonnement,5,240.29
+1232,2025-06-19,198,Grand compte,Support,4,386.84
+1233,2025-12-09,120,Particulier,Formation,1,108.95
+1234,2025-07-01,79,Particulier,Licence,3,653.44
+1235,2025-04-10,151,PME,Abonnement,5,238.24
+1236,2024-09-09,345,PME,Abonnement,3,133.28
+1237,2024-01-04,224,Particulier,Abonnement,2,77.01
+1238,2024-03-31,330,Particulier,Support,2,136.79
+1239,2024-08-05,366,Particulier,Support,3,160.01
+1240,2024-01-30,361,PME,Licence,5,1129.74
+1241,2025-01-05,141,Particulier,Abonnement,4,172.19
+1242,2025-07-21,351,Particulier,Formation,4,488.31
+1243,2025-12-04,364,Particulier,Abonnement,4,149.87
+1244,2024-12-23,384,Particulier,Abonnement,4,172.35
+1245,2025-09-30,141,Particulier,Abonnement,3,129.72
+1246,2025-12-20,92,PME,Formation,4,591.27
+1247,2025-09-19,234,Particulier,Formation,2,228.24
+1248,2024-12-05,373,Particulier,Abonnement,3,115.6
+1249,2024-08-25,361,Particulier,Support,2,122.73
+1250,2025-12-14,229,PME,Support,5,322.22
+1251,2024-06-25,60,Particulier,Abonnement,4,177.0
+1252,2024-10-27,169,Particulier,Abonnement,3,136.32
+1253,2024-02-24,286,Particulier,Support,3,176.6
+1254,2025-08-02,225,PME,Support,3,222.15
+1255,2025-04-19,139,PME,Support,4,315.32
+1256,2024-03-02,138,Grand compte,Abonnement,2,138.77
+1257,2024-06-11,24,PME,Formation,5,809.68
+1258,2025-02-09,116,Particulier,Licence,2,344.46
+1259,2025-01-29,268,Particulier,Abonnement,1,38.99
+1260,2025-08-08,97,Particulier,Formation,4,499.23
+1261,2024-07-13,398,PME,Licence,4,922.04
+1262,2025-11-06,33,PME,Abonnement,2,109.69
+1263,2024-11-20,236,Particulier,Support,4,271.28
+1264,2025-08-23,199,Grand compte,Licence,4,
+1265,2024-06-23,334,Particulier,Abonnement,4,157.92
+1266,2024-01-27,356,Particulier,Support,5,282.01
+1267,2024-02-10,218,Particulier,Formation,5,590.63
+1268,2024-09-29,253,Grand compte,Licence,3,883.77
+1269,2025-11-26,280,Grand compte,Licence,2,645.8
+1270,2024-02-05,209,Particulier,Licence,1,185.78
+1271,2024-09-26,74,Grand compte,Abonnement,3,142.32
+1272,2024-03-20,172,Grand compte,Support,4,313.79
+1273,2025-11-11,97,PME,Licence,4,881.03
+1274,2025-05-07,186,Grand compte,Support,1,85.28
+1275,2025-07-10,247,Particulier,Support,4,243.59
+1276,2025-06-04,84,PME,Abonnement,4,175.41
+1277,2025-04-24,100,PME,Licence,4,866.99
+1278,2025-07-18,330,PME,Abonnement,3,133.29
+1279,2024-01-06,152,Particulier,Abonnement,1,36.43
+1280,2025-09-23,80,PME,Licence,3,688.06
+1281,2025-06-24,286,Grand compte,Licence,4,1142.66
+1282,2025-06-23,287,Particulier,Licence,3,633.07
+1283,2024-10-14,331,Grand compte,Formation,3,497.25
+1284,2025-08-07,304,Particulier,Abonnement,3,116.57
+1285,2024-10-05,397,Particulier,Formation,3,344.3
+1286,2024-02-05,230,Particulier,Abonnement,2,85.18
+1287,2025-10-24,115,PME,Licence,4,948.15
+1288,2024-06-20,346,PME,Formation,2,312.21
+1289,2024-03-15,106,Particulier,Formation,3,326.81
+1290,2025-03-29,117,PME,Abonnement,3,143.43
+1291,2024-06-19,332,Particulier,Formation,4,457.89
+1292,2025-09-18,353,Particulier,Licence,5,901.92
+1293,2024-11-19,136,Grand compte,Support,4,358.06
+1294,2024-01-04,292,PME,Abonnement,1,54.65
+1295,2025-11-25,369,PME,Abonnement,4,178.9
+1296,2025-01-10,320,PME,Abonnement,2,95.02
+1297,2024-07-10,2,Grand compte,Abonnement,1,53.7
+1298,2025-05-09,266,Particulier,Licence,1,176.65
+1299,2025-01-22,68,Particulier,Support,5,281.11
+1300,2024-01-22,339,Particulier,Abonnement,3,115.68
+1301,2025-07-08,27,PME,Support,2,139.33
+1302,2024-10-19,398,PME,Abonnement,1,47.13
+1303,2025-05-25,71,PME,Abonnement,4,166.68
+1304,2025-10-15,169,Particulier,Formation,4,455.96
+1305,2025-03-21,94,Particulier,Abonnement,2,83.21
+1306,2025-05-05,326,PME,Formation,1,128.35
+1307,2024-07-04,158,Grand compte,Support,2,174.89
+1308,2024-06-22,298,Particulier,Licence,4,818.74
+1309,2024-10-29,27,Particulier,Abonnement,1,37.5
+1310,2025-09-14,182,Particulier,Support,2,123.28
+1311,2025-01-17,365,Particulier,Abonnement,1,35.13
+1312,2024-09-11,371,Particulier,Formation,3,385.59
+1313,2025-07-23,84,Particulier,Abonnement,1,41.17
+1314,2025-09-14,158,PME,Formation,1,144.64
+1315,2025-10-20,164,Particulier,Abonnement,1,43.6
+1316,2024-08-06,227,Particulier,Licence,4,778.92
+1317,2025-06-02,215,Particulier,Licence,3,570.34
+1318,2025-03-06,43,Grand compte,Abonnement,5,332.94
+1319,2024-11-23,306,Particulier,Support,2,137.67
+1320,2024-10-16,91,Particulier,Abonnement,2,75.56
+1321,2024-03-24,126,Particulier,Support,2,118.91
+1322,2024-07-19,337,PME,Abonnement,5,260.06
+1323,2025-02-05,276,Grand compte,Abonnement,3,178.87
+1324,2025-10-09,159,Particulier,Support,2,125.71
+1325,2025-09-24,365,Particulier,Formation,4,509.97
+1326,2024-05-16,158,Particulier,Formation,3,343.81
+1327,2025-05-10,227,PME,Formation,1,148.83
+1328,2024-03-02,99,Grand compte,Abonnement,4,239.88
+1329,2025-05-07,74,Particulier,Abonnement,1,36.11
+1330,2024-09-06,197,Particulier,Support,1,55.25
+1331,2024-11-24,226,PME,Support,4,272.97
+1332,2025-06-07,323,PME,Abonnement,3,154.7
+1333,2024-11-06,157,Particulier,Abonnement,2,86.15
+1334,2025-08-12,359,Particulier,Support,1,63.6
+1335,2025-01-24,243,Particulier,Support,3,186.34
+1336,2025-12-30,29,PME,Support,4,297.51
+1337,2025-04-10,296,PME,Formation,2,294.39
+1338,2024-08-04,230,PME,Formation,3,446.09
+1339,2025-07-19,156,PME,Formation,2,298.95
+1340,2024-10-24,187,Particulier,Abonnement,5,177.53
+1341,2025-01-24,121,Particulier,Abonnement,4,149.88
+1342,2024-04-09,246,Particulier,Abonnement,2,73.41
+1343,2024-03-28,227,Grand compte,Support,3,293.91
+1344,2025-02-23,179,PME,Abonnement,5,271.76
+1345,2024-05-16,115,Particulier,Support,2,99.18
+1346,2025-12-29,160,Particulier,Formation,1,135.02
+1347,2025-09-16,200,PME,Abonnement,2,96.67
+1348,2025-05-26,189,PME,Support,4,311.33
+1349,2025-06-20,124,PME,Support,5,374.59
+1350,2025-03-10,233,Particulier,Abonnement,2,89.22
+1351,2024-02-14,91,Grand compte,Support,1,91.51
+1352,2024-10-13,201,PME,Formation,1,128.29
+1353,2024-12-27,49,PME,Abonnement,3,142.78
+1354,2025-10-30,189,PME,Support,1,74.97
+1355,2024-06-09,314,Grand compte,Support,1,88.45
+1356,2024-12-28,328,Grand compte,Abonnement,4,252.63
+1357,2024-09-08,278,PME,Licence,5,1193.69
+1358,2024-04-08,299,Particulier,Support,2,114.28
+1359,2024-03-16,27,Particulier,Support,3,164.36
+1360,2024-09-23,137,PME,Abonnement,3,139.49
+1361,2024-03-01,262,PME,Abonnement,4,195.14
+1362,2024-02-19,321,Particulier,Formation,5,505.95
+1363,2024-09-13,234,Particulier,Support,5,281.28
+1364,2024-05-27,342,Grand compte,Formation,2,302.5
+1365,2025-02-09,110,Grand compte,Support,5,427.79
+1366,2024-01-13,62,Grand compte,Abonnement,1,65.75
+1367,2024-08-08,35,Particulier,Support,5,271.53
+1368,2024-11-26,234,PME,Support,1,76.05
+1369,2025-12-04,267,PME,Support,1,88.41
+1370,2025-04-08,115,Particulier,Support,1,66.98
+1371,2025-10-04,314,Particulier,Licence,1,202.14
+1372,2024-09-07,296,Grand compte,Abonnement,3,192.36
+1373,2024-11-24,145,Particulier,Support,4,213.7
+1374,2024-11-02,96,PME,Licence,4,839.16
+1375,2025-10-09,297,PME,Formation,1,144.33
+1376,2025-12-01,269,PME,Abonnement,2,99.06
+1377,2025-12-03,69,Particulier,Licence,1,217.51
+1378,2025-07-02,103,PME,Abonnement,1,45.82
+1379,2025-01-02,195,Particulier,Abonnement,4,162.48
+1380,2025-01-29,205,PME,Abonnement,4,194.44
+1381,2025-12-16,67,Particulier,Formation,2,237.48
+1382,2024-07-26,380,PME,Formation,2,286.33
+1383,2024-09-10,156,PME,Formation,5,670.77
+1384,2025-10-16,153,Particulier,Licence,3,613.43
+1385,2024-10-09,25,Particulier,Formation,2,243.74
+1386,2024-06-20,351,PME,Formation,5,694.66
+1387,2025-02-13,95,Particulier,Licence,1,210.65
+1388,2024-08-25,395,Particulier,Support,2,129.87
+1389,2025-10-12,199,Particulier,Abonnement,4,168.67
+1390,2025-10-25,350,Grand compte,Abonnement,3,164.99
+1391,2024-08-11,72,PME,Support,1,72.57
+1392,2025-01-21,67,Particulier,Support,5,278.13
+1393,2025-12-19,321,Grand compte,Formation,2,362.78
+1394,2025-06-25,328,Particulier,Abonnement,4,148.38
+1395,2024-06-06,218,Particulier,Support,2,132.26
+1396,2025-03-07,13,Particulier,Support,4,255.04
+1397,2025-03-28,378,Particulier,Formation,5,655.34
+1398,2025-04-22,158,Particulier,Licence,4,867.31
+1399,2024-01-19,375,PME,Support,5,352.21
+1400,2024-08-06,349,Particulier,Support,3,173.87
+1401,2025-09-15,341,PME,Support,1,82.03
+1402,2024-06-25,276,Particulier,Support,3,177.62
+1403,2024-08-06,270,Particulier,Formation,3,320.99
+1404,2024-08-23,214,Particulier,Formation,4,518.69
+1405,2024-05-09,10,PME,Support,2,145.66
+1406,2024-04-23,156,PME,Support,4,322.7
+1407,2024-09-10,293,Particulier,Formation,3,367.0
+1408,2025-09-30,325,Particulier,Abonnement,4,159.74
+1409,2024-01-02,224,Particulier,Support,3,201.98
+1410,2024-07-25,284,PME,Support,2,126.28
+1411,2024-02-14,9,Particulier,Abonnement,2,76.25
+1412,2025-02-13,188,PME,Abonnement,5,222.96
+1413,2024-07-01,204,Particulier,Abonnement,1,32.98
+1414,2025-08-01,357,Particulier,Licence,2,427.94
+1415,2025-03-03,125,PME,Licence,3,687.89
+1416,2025-07-26,92,Particulier,Formation,1,128.69
+1417,2025-04-08,141,Particulier,Formation,5,618.68
+1418,2024-11-16,69,Grand compte,Support,2,188.74
+1419,2025-09-20,224,Particulier,Formation,2,231.26
+1420,2024-12-13,258,Particulier,Licence,2,375.54
+1421,2025-11-24,321,Particulier,Abonnement,1,40.29
+1422,2025-12-27,389,Particulier,Abonnement,4,171.77
+1423,2025-03-05,30,PME,Formation,3,430.26
+1424,2025-05-07,99,Particulier,Abonnement,2,75.51
+1425,2024-07-05,121,Grand compte,Support,5,406.84
+1426,2025-08-17,100,PME,Support,4,
+1427,2025-05-05,331,Grand compte,Abonnement,3,172.02
+1428,2025-10-20,56,PME,Formation,3,429.52
+1429,2024-07-13,12,Grand compte,Support,4,353.12
+1430,2025-07-28,345,PME,Support,1,69.44
+1431,2024-12-09,385,Particulier,Formation,5,614.1
+1432,2024-05-15,91,Particulier,Abonnement,2,83.55
+1433,2024-05-04,134,PME,Formation,1,166.64
+1434,2025-02-14,202,Particulier,Formation,3,381.83
+1435,2024-08-21,211,PME,Support,5,405.9
+1436,2024-03-15,397,Particulier,Formation,4,448.57
+1437,2024-11-07,162,PME,Abonnement,2,83.7
+1438,2025-04-21,5,Particulier,Support,2,119.86
+1439,2024-08-20,170,Grand compte,Formation,3,577.07
+1440,2025-11-28,223,Particulier,Abonnement,2,84.49
+1441,2025-07-23,207,Particulier,Formation,5,658.15
+1442,2025-01-09,205,PME,Licence,2,382.6
+1443,2025-11-13,370,PME,Support,2,158.43
+1444,2024-11-12,323,PME,Abonnement,1,49.29
+1445,2024-04-11,101,Grand compte,Support,4,315.53
+1446,2024-01-27,143,Particulier,Abonnement,1,42.32
+1447,2025-11-15,268,PME,Formation,5,729.76
+1448,2025-12-01,165,Particulier,Formation,5,618.3
+1449,2025-06-23,172,Particulier,Abonnement,1,43.2
+1450,2024-03-16,68,Particulier,Abonnement,1,41.38
+1451,2024-08-02,102,Particulier,Licence,5,882.17
+1452,2024-01-30,297,PME,Abonnement,1,47.45
+1453,2024-02-07,338,PME,Support,3,188.05
+1454,2024-06-28,314,Particulier,Support,5,315.58
+1455,2025-02-21,124,Grand compte,Formation,1,200.13
+1456,2024-02-17,55,Particulier,Abonnement,4,144.11
+1457,2025-12-19,64,Particulier,Abonnement,2,75.7
+1458,2024-11-28,158,PME,Abonnement,3,133.84
+1459,2024-07-11,208,Particulier,Formation,5,578.21
+1460,2025-01-11,358,Particulier,Licence,4,826.4
+1461,2025-07-30,360,PME,Licence,2,462.99
+1462,2024-08-16,2,Particulier,Abonnement,5,210.44
+1463,2024-02-04,284,Particulier,Abonnement,3,130.23
+1464,2024-02-07,120,PME,Abonnement,1,52.23
+1465,2025-09-13,80,Particulier,Licence,2,
+1466,2024-03-22,223,PME,Abonnement,2,106.64
+1467,2025-04-08,14,PME,Abonnement,4,214.52
+1468,2024-10-07,134,Particulier,Support,5,337.26
+1469,2025-07-21,221,Particulier,Formation,1,118.48
+1470,2024-02-14,109,Particulier,Abonnement,4,150.38
+1471,2025-10-17,238,PME,Support,5,331.65
+1472,2025-05-24,185,Particulier,Abonnement,5,182.37
+1473,2024-11-23,320,Grand compte,Abonnement,4,240.22
+1474,2024-05-31,73,Particulier,Abonnement,2,85.43
+1475,2025-12-14,23,PME,Abonnement,1,53.02
+1476,2024-08-08,212,Particulier,Licence,5,961.16
+1477,2024-12-24,103,Particulier,Formation,3,358.89
+1478,2024-10-14,283,Particulier,Support,2,119.0
+1479,2024-06-17,38,PME,Abonnement,4,182.24
+1480,2024-10-31,231,Grand compte,Support,4,381.19
+1481,2024-04-20,396,Particulier,Licence,5,1029.03
+1482,2024-01-02,38,Particulier,Abonnement,5,202.27
+1483,2024-07-30,121,Particulier,Licence,5,1028.66
+1484,2024-03-22,338,Particulier,Support,1,62.95
+1485,2024-10-29,214,Grand compte,Support,1,94.36
+1486,2025-09-21,70,Grand compte,Abonnement,2,111.95
+1487,2024-04-28,86,Grand compte,Support,4,385.81
+1488,2024-01-01,306,Particulier,Formation,3,367.35
+1489,2024-03-22,345,Particulier,Licence,5,965.23
+1490,2025-01-05,145,PME,Licence,5,1222.49
+1491,2024-07-19,190,Particulier,Abonnement,5,205.51
+1492,2024-12-23,314,PME,Licence,1,260.77
+1493,2024-01-22,71,Particulier,Licence,4,733.05
+1494,2024-08-31,83,Particulier,Formation,5,663.6
+1495,2024-10-26,310,Grand compte,Abonnement,5,300.56
+1496,2024-11-10,75,Particulier,Abonnement,2,76.76
+1497,2025-02-06,309,Grand compte,Abonnement,4,229.69
+1498,2025-07-23,199,Particulier,Abonnement,3,110.39
+1499,2024-12-07,397,Particulier,Licence,1,172.15
+1500,2025-09-06,14,Particulier,Abonnement,2,84.34
+1501,2025-01-21,379,Particulier,Support,2,139.02
+1502,2024-07-09,91,Particulier,Support,5,261.18
+1503,2024-06-16,15,Particulier,Support,1,55.44
+1504,2024-08-23,290,PME,Abonnement,1,50.89
+1505,2025-03-12,214,Grand compte,Formation,3,538.03
+1506,2024-06-26,335,Particulier,Support,3,192.02
+1507,2025-10-29,44,Particulier,Formation,3,357.07
+1508,2024-12-16,33,Particulier,Abonnement,1,38.14
+1509,2025-09-22,227,PME,Support,3,212.1
+1510,2025-05-13,353,PME,Abonnement,5,194.26
+1511,2024-08-31,163,Particulier,Formation,1,109.02
+1512,2024-06-15,320,Particulier,Formation,4,516.41
+1513,2025-06-27,363,Particulier,Abonnement,1,43.81
+1514,2024-08-29,348,Particulier,Support,2,133.5
+1515,2024-06-29,204,Particulier,Abonnement,5,207.05
+1516,2025-11-10,280,Grand compte,Licence,2,491.71
+1517,2024-12-18,211,Particulier,Licence,3,569.52
+1518,2024-02-05,270,Particulier,Abonnement,2,88.48
+1519,2024-12-27,227,Particulier,Abonnement,4,180.78
+1520,2024-12-02,211,PME,Abonnement,3,159.7
+1521,2025-09-22,175,Particulier,Licence,3,588.66
+1522,2025-06-03,262,Particulier,Support,5,268.64
+1523,2024-05-19,301,Particulier,Abonnement,3,119.61
+1524,2024-04-19,368,PME,Formation,3,432.51
+1525,2025-03-16,246,Particulier,Abonnement,5,225.05
+1526,2024-02-04,41,Grand compte,Formation,3,549.84
+1527,2024-08-20,235,Particulier,Formation,5,600.8
+1528,2024-04-10,127,Particulier,Abonnement,4,160.94
+1529,2024-01-16,11,Grand compte,Support,5,464.39
+1530,2025-11-01,29,PME,Abonnement,3,151.22
+1531,2024-03-06,237,Particulier,Formation,3,339.13
+1532,2024-01-07,378,PME,Support,1,65.91
+1533,2025-11-12,203,Particulier,Licence,1,221.93
+1534,2024-05-17,179,Particulier,Formation,1,104.25
+1535,2025-08-19,36,PME,Licence,4,1085.78
+1536,2024-01-23,271,PME,Abonnement,2,81.33
+1537,2024-04-22,23,Particulier,Licence,2,381.29
+1538,2024-03-21,337,PME,Abonnement,4,206.93
+1539,2025-05-30,327,Particulier,Support,2,120.0
+1540,2025-03-28,397,Particulier,Abonnement,1,35.79
+1541,2024-12-13,114,Grand compte,Licence,3,930.7
+1542,2024-06-25,65,Particulier,Licence,3,603.22
+1543,2024-03-05,120,PME,Formation,1,141.51
+1544,2025-02-19,320,PME,Formation,2,273.62
+1545,2024-06-17,88,PME,Formation,2,287.2
+1546,2025-03-06,355,Particulier,Abonnement,4,152.55
+1547,2025-05-16,62,Grand compte,Support,2,215.06
+1548,2025-09-12,20,PME,Support,1,70.62
+1549,2024-12-26,88,PME,Formation,2,279.39
+1550,2024-01-04,302,Particulier,Abonnement,3,114.8
+1551,2024-07-23,241,Particulier,Licence,4,913.72
+1552,2025-09-14,142,Particulier,Abonnement,1,34.75
+1553,2025-01-24,263,Particulier,Support,5,308.63
+1554,2025-03-27,260,Particulier,Abonnement,2,78.47
+1555,2024-11-30,222,PME,Abonnement,2,85.07
+1556,2024-04-28,206,Grand compte,Abonnement,1,56.07
+1557,2025-10-16,41,Particulier,Abonnement,2,82.03
+1558,2025-07-18,104,Particulier,Support,3,167.55
+1559,2025-12-27,212,PME,Formation,4,587.96
+1560,2025-09-16,55,Particulier,Support,4,273.2
+1561,2024-07-31,191,Grand compte,Support,3,273.68
+1562,2024-07-04,47,Particulier,Abonnement,1,35.35
+1563,2024-06-30,315,Particulier,Abonnement,2,74.58
+1564,2025-11-01,42,Particulier,Support,4,234.52
+1565,2025-02-10,38,Grand compte,Support,4,349.86
+1566,2024-11-27,256,Particulier,Formation,3,364.38
+1567,2025-12-07,89,PME,Abonnement,3,147.6
+1568,2025-03-16,141,Particulier,Support,3,204.92
+1569,2025-10-25,126,Particulier,Abonnement,5,199.94
+1570,2025-12-19,87,Grand compte,Support,3,245.11
+1571,2024-02-27,305,Particulier,Abonnement,3,131.08
+1572,2024-09-20,277,Particulier,Support,2,132.13
+1573,2025-06-19,96,Particulier,Formation,3,366.69
+1574,2025-08-16,275,Grand compte,Support,4,352.9
+1575,2024-04-18,286,Particulier,Abonnement,5,209.96
+1576,2024-08-20,216,Particulier,Formation,4,471.89
+1577,2025-02-04,232,Grand compte,Abonnement,4,200.53
+1578,2025-08-06,374,PME,Support,4,300.98
+1579,2024-03-23,182,Grand compte,Abonnement,1,64.28
+1580,2025-03-14,155,PME,Abonnement,2,107.07
+1581,2024-08-04,216,PME,Support,2,135.58
+1582,2024-06-06,335,Particulier,Abonnement,4,162.89
+1583,2025-01-11,284,Particulier,Abonnement,4,163.17
+1584,2024-10-29,31,PME,Support,1,72.49
+1585,2025-04-09,184,PME,Support,1,72.66
+1586,2024-08-19,296,Grand compte,Licence,3,902.67
+1587,2025-08-23,90,PME,Abonnement,5,244.07
+1588,2024-02-27,396,Particulier,Formation,1,127.11
+1589,2025-09-21,324,Particulier,Support,5,329.29
+1590,2024-01-22,339,PME,Abonnement,1,45.1
+1591,2025-06-21,33,Particulier,Support,2,118.35
+1592,2024-09-09,232,PME,Abonnement,4,185.51
+1593,2024-10-06,212,PME,Licence,4,916.56
+1594,2024-01-14,251,Particulier,Support,5,261.22
+1595,2025-05-27,341,PME,Formation,1,144.28
+1596,2024-04-30,142,PME,Formation,1,149.52
+1597,2025-04-26,214,Grand compte,Abonnement,3,177.77
+1598,2025-06-13,272,Particulier,Abonnement,3,119.91
+1599,2025-09-09,302,PME,Support,2,148.82
+1600,2025-05-31,309,Particulier,Formation,4,534.19
+1601,2024-08-08,135,Particulier,Formation,2,231.94
+1602,2025-06-23,400,Particulier,Abonnement,5,181.25
+1603,2025-08-25,4,Grand compte,Support,1,89.35
+1604,2024-08-19,197,Grand compte,Abonnement,4,276.16
+1605,2024-03-31,244,Particulier,Abonnement,3,108.86
+1606,2025-10-11,25,PME,Licence,1,252.48
+1607,2024-04-17,181,Particulier,Formation,4,524.46
+1608,2025-03-09,239,PME,Formation,1,116.75
+1609,2024-06-21,244,Particulier,Licence,3,619.69
+1610,2024-04-01,48,PME,Abonnement,4,201.27
+1611,2025-07-20,112,Particulier,Licence,1,195.72
+1612,2024-04-14,98,PME,Support,2,136.55
+1613,2025-05-04,256,Particulier,Support,2,114.33
+1614,2025-05-20,132,PME,Abonnement,5,233.69
+1615,2024-02-13,229,PME,Abonnement,2,93.68
+1616,2024-05-06,293,Particulier,Formation,5,576.44
+1617,2025-08-02,319,Particulier,Abonnement,3,116.69
+1618,2025-01-05,74,PME,Abonnement,5,262.86
+1619,2024-03-29,362,PME,Formation,5,650.05
+1620,2025-12-24,67,Particulier,Support,2,103.21
+1621,2024-07-12,9,Particulier,Abonnement,3,131.59
+1622,2024-01-03,18,Particulier,Support,4,236.31
+1623,2025-11-05,81,PME,Licence,1,232.55
+1624,2024-01-13,350,PME,Support,4,285.44
+1625,2025-02-07,84,Particulier,Support,3,183.01
+1626,2025-12-25,278,PME,Support,1,68.98
+1627,2025-02-25,168,PME,Abonnement,5,249.71
+1628,2025-03-02,16,PME,Abonnement,2,88.61
+1629,2024-10-10,178,Particulier,Licence,5,975.85
+1630,2024-04-02,12,Particulier,Support,2,98.74
+1631,2025-02-22,191,Particulier,Support,3,196.88
+1632,2025-10-17,224,Particulier,Licence,2,394.37
+1633,2024-03-07,209,Particulier,Abonnement,5,210.72
+1634,2025-10-04,114,Particulier,Abonnement,5,207.63
+1635,2024-10-29,307,Particulier,Support,4,250.56
+1636,2025-01-26,239,PME,Abonnement,5,239.85
+1637,2024-04-30,102,Particulier,Formation,4,494.91
+1638,2025-03-29,174,PME,Support,2,132.93
+1639,2024-05-13,44,Particulier,Support,5,271.89
+1640,2024-07-18,370,PME,Abonnement,3,142.84
+1641,2025-06-10,302,Particulier,Support,2,113.47
+1642,2024-02-06,116,PME,Abonnement,1,53.47
+1643,2024-11-22,270,PME,Licence,4,988.81
+1644,2025-03-10,272,Particulier,Abonnement,2,75.41
+1645,2024-04-06,244,PME,Licence,4,939.15
+1646,2024-08-03,22,Particulier,Formation,1,121.28
+1647,2024-09-07,352,PME,Formation,4,572.87
+1648,2025-04-29,383,Particulier,Formation,4,490.44
+1649,2025-12-13,390,Particulier,Abonnement,3,120.66
+1650,2025-09-02,393,Particulier,Formation,4,426.6
+1651,2024-05-18,372,Grand compte,Support,5,372.57
+1652,2024-01-14,296,Particulier,Support,5,291.03
+1653,2024-02-07,23,PME,Abonnement,3,150.46
+1654,2025-03-10,187,Particulier,Support,5,291.3
+1655,2024-04-24,99,Particulier,Licence,5,1098.93
+1656,2024-06-17,88,Particulier,Support,1,59.77
+1657,2025-09-10,333,Grand compte,Formation,2,399.09
+1658,2025-09-29,326,PME,Abonnement,4,209.69
+1659,2025-09-04,209,Particulier,Licence,3,650.46
+1660,2024-07-04,295,PME,Abonnement,1,43.38
+1661,2025-03-28,52,Particulier,Abonnement,3,120.16
+1662,2025-03-21,89,Particulier,Support,2,131.74
+1663,2024-05-15,345,Particulier,Abonnement,4,163.49
+1664,2025-02-08,181,Particulier,Support,3,187.98
+1665,2025-01-18,219,Particulier,Abonnement,1,35.56
+1666,2024-10-16,186,PME,Support,1,83.05
+1667,2025-07-02,81,Particulier,Licence,2,374.68
+1668,2025-05-09,331,Grand compte,Licence,1,252.13
+1669,2025-01-23,304,PME,Licence,5,1166.29
+1670,2025-06-13,274,PME,Licence,2,386.02
+1671,2025-07-11,142,PME,Abonnement,4,175.33
+1672,2025-02-17,258,Grand compte,Licence,1,361.4
+1673,2024-07-14,382,Particulier,Licence,3,581.76
+1674,2025-07-07,260,Particulier,Formation,5,531.47
+1675,2025-06-07,198,Particulier,Formation,4,480.97
+1676,2025-12-18,109,Grand compte,Abonnement,2,111.38
+1677,2024-04-19,210,Particulier,Formation,4,513.2
+1678,2024-11-02,149,PME,Support,3,200.63
+1679,2025-11-05,245,PME,Formation,2,294.24
+1680,2025-01-10,19,Particulier,Formation,5,544.94
+1681,2025-11-19,77,Grand compte,Formation,5,1087.13
+1682,2024-01-10,315,Particulier,Abonnement,3,124.83
+1683,2024-01-26,153,Particulier,Licence,1,197.67
+1684,2025-08-04,174,PME,Abonnement,3,140.63
+1685,2024-09-18,218,Particulier,Abonnement,3,114.69
+1686,2025-01-14,176,Particulier,Abonnement,5,187.83
+1687,2024-11-08,304,Particulier,Licence,4,749.54
+1688,2024-10-24,99,Particulier,Licence,2,453.71
+1689,2025-11-16,304,PME,Abonnement,3,137.63
+1690,2024-03-09,84,Grand compte,Abonnement,1,49.78
+1691,2025-07-17,149,Particulier,Formation,3,326.42
+1692,2025-10-11,236,Particulier,Abonnement,3,128.91
+1693,2025-04-24,355,Particulier,Support,3,176.37
+1694,2024-10-15,94,Grand compte,Abonnement,3,178.07
+1695,2024-04-26,235,PME,Formation,3,472.43
+1696,2025-05-13,26,Particulier,Abonnement,4,150.05
+1697,2024-12-08,31,Particulier,Formation,3,378.21
+1698,2024-04-19,308,Grand compte,Formation,1,170.38
+1699,2024-09-19,288,Grand compte,Abonnement,4,251.06
+1700,2025-12-02,151,Particulier,Abonnement,4,154.99
+1701,2024-07-12,250,PME,Abonnement,4,188.29
+1702,2024-05-10,153,Particulier,Abonnement,4,170.5
+1703,2025-05-12,111,Particulier,Licence,1,211.97
+1704,2024-05-25,173,PME,Abonnement,5,236.82
+1705,2025-11-02,125,Particulier,Abonnement,5,192.45
+1706,2025-09-19,327,Particulier,Abonnement,1,45.12
+1707,2025-12-18,165,Grand compte,Support,2,188.49
+1708,2025-10-28,129,PME,Licence,2,464.98
+1709,2024-06-26,215,Particulier,Support,5,284.33
+1710,2024-06-03,304,PME,Support,5,389.52
+1711,2024-09-07,110,PME,Support,2,145.33
+1712,2024-12-08,376,PME,Formation,4,568.46
+1713,2025-10-04,186,Grand compte,Licence,2,605.52
+1714,2025-06-19,265,PME,Support,1,73.95
+1715,2025-04-15,383,Particulier,Abonnement,2,79.64
+1716,2025-10-03,173,Particulier,Formation,1,131.56
+1717,2025-04-16,80,PME,Abonnement,5,264.18
+1718,2024-10-03,300,Grand compte,Abonnement,4,250.21
+1719,2024-10-28,3,Particulier,Support,1,66.6
+1720,2025-01-12,184,Particulier,Abonnement,3,120.08
+1721,2024-03-05,392,PME,Support,2,151.95
+1722,2025-06-25,166,Particulier,Licence,3,648.21
+1723,2025-04-21,274,Particulier,Formation,5,648.91
+1724,2025-06-17,211,Grand compte,Abonnement,5,321.98
+1725,2025-01-24,86,PME,Support,5,378.18
+1726,2025-07-25,128,Grand compte,Support,2,208.18
+1727,2025-11-24,210,PME,Abonnement,1,45.93
+1728,2025-02-20,42,Particulier,Abonnement,1,39.5
+1729,2024-11-20,166,Grand compte,Support,1,88.46
+1730,2024-03-17,166,Particulier,Licence,4,776.44
+1731,2025-07-22,334,Particulier,Abonnement,4,134.54
+1732,2025-10-21,50,Grand compte,Abonnement,5,333.0
+1733,2025-05-25,338,PME,Licence,1,220.3
+1734,2025-09-23,165,Grand compte,Abonnement,2,121.63
+1735,2025-09-20,261,Particulier,Abonnement,4,141.8
+1736,2025-08-05,223,Grand compte,Formation,4,755.75
+1737,2025-01-02,120,PME,Abonnement,3,134.95
+1738,2024-03-13,373,PME,Abonnement,1,43.64
+1739,2024-01-03,90,Grand compte,Support,3,274.2
+1740,2024-05-29,15,Particulier,Support,1,56.64
+1741,2024-11-10,301,PME,Formation,3,412.16
+1742,2025-06-26,249,PME,Abonnement,5,243.3
+1743,2024-11-28,357,PME,Formation,1,153.22
+1744,2024-01-17,184,Grand compte,Support,1,84.11
+1745,2024-06-02,7,PME,Support,4,265.16
+1746,2025-12-15,9,Particulier,Support,1,60.11
+1747,2025-12-22,174,Particulier,Support,5,312.94
+1748,2024-10-02,100,Grand compte,Licence,4,1340.42
+1749,2025-08-10,369,Grand compte,Support,3,246.86
+1750,2025-06-09,48,Grand compte,Abonnement,2,116.95
+1751,2025-11-10,353,Particulier,Licence,2,437.63
+1752,2025-10-09,87,Particulier,Licence,2,463.14
+1753,2025-04-03,48,PME,Abonnement,5,220.93
+1754,2024-10-15,110,PME,Abonnement,4,180.65
+1755,2025-04-02,58,Particulier,Support,2,123.66
+1756,2024-08-20,161,PME,Formation,1,137.34
+1757,2024-09-11,133,Particulier,Support,3,169.07
+1758,2025-03-20,212,Particulier,Formation,4,489.39
+1759,2025-02-21,215,Particulier,Abonnement,4,179.83
+1760,2025-02-28,1,Particulier,Abonnement,2,71.62
+1761,2024-10-07,50,Particulier,Licence,3,671.92
+1762,2024-10-25,65,Grand compte,Abonnement,1,57.24
+1763,2024-01-08,78,PME,Support,3,221.98
+1764,2025-03-15,38,Grand compte,Abonnement,4,270.54
+1765,2025-02-24,126,Particulier,Formation,2,246.25
+1766,2025-11-13,220,Particulier,Formation,2,234.29
+1767,2025-01-03,124,Particulier,Abonnement,3,126.89
+1768,2024-12-07,132,PME,Support,5,355.01
+1769,2024-02-19,188,Particulier,Support,4,250.01
+1770,2024-05-23,220,PME,Abonnement,5,236.07
+1771,2024-09-03,133,PME,Abonnement,1,51.31
+1772,2024-10-02,89,Grand compte,Support,5,399.81
+1773,2024-09-21,164,Particulier,Support,1,55.14
+1774,2024-10-14,10,Particulier,Formation,2,212.95
+1775,2025-07-15,198,Particulier,Support,3,179.19
+1776,2024-04-05,377,Particulier,Abonnement,2,70.21
+1777,2024-08-30,160,PME,Abonnement,5,226.72
+1778,2024-04-28,44,Particulier,Support,5,273.42
+1779,2024-08-12,283,PME,Support,3,241.57
+1780,2025-05-14,51,Particulier,Support,3,165.73
+1781,2024-02-04,78,Grand compte,Abonnement,4,215.3
+1782,2024-09-04,59,Grand compte,Formation,4,734.3
+1783,2024-01-18,354,Particulier,Support,3,204.29
+1784,2025-11-28,393,Grand compte,Abonnement,5,297.21
+1785,2025-06-14,228,Particulier,Formation,1,119.63
+1786,2024-06-26,248,PME,Support,2,158.87
+1787,2024-05-24,259,Grand compte,Abonnement,1,64.22
+1788,2024-03-13,245,PME,Abonnement,1,49.63
+1789,2024-12-11,218,PME,Abonnement,1,45.76
+1790,2025-07-04,395,Particulier,Licence,4,829.18
+1791,2025-03-02,294,PME,Abonnement,5,213.87
+1792,2025-10-05,36,PME,Abonnement,3,136.82
+1793,2024-09-07,157,Particulier,Abonnement,3,133.74
+1794,2024-07-22,390,Particulier,Abonnement,2,88.33
+1795,2024-12-14,162,PME,Abonnement,1,49.68
+1796,2024-05-27,82,PME,Support,3,182.66
+1797,2025-12-13,348,Particulier,Abonnement,1,36.13
+1798,2024-05-15,250,Grand compte,Abonnement,4,226.95
+1799,2024-12-15,226,PME,Abonnement,3,142.02
+1800,2025-01-16,169,Particulier,Formation,2,215.99
+1801,2024-02-11,50,Particulier,Abonnement,1,39.21
+1802,2024-12-07,154,PME,Support,2,164.36
+1803,2024-11-27,175,PME,Support,1,74.31
+1804,2024-07-08,373,PME,Support,4,293.04
+1805,2024-04-03,123,Particulier,Abonnement,3,110.23
+1806,2024-02-02,60,PME,Licence,4,834.13
+1807,2024-01-07,172,PME,Support,3,194.78
+1808,2024-12-17,399,PME,Abonnement,5,207.76
+1809,2024-03-06,193,Particulier,Formation,4,482.88
+1810,2025-12-01,152,PME,Support,1,74.21
+1811,2024-06-27,267,Particulier,Abonnement,1,36.91
+1812,2025-04-21,260,Particulier,Abonnement,5,202.37
+1813,2025-05-06,120,PME,Support,2,160.92
+1814,2024-12-27,388,PME,Abonnement,4,222.07
+1815,2025-10-07,238,Particulier,Licence,4,849.31
+1816,2024-03-21,24,PME,Abonnement,4,189.31
+1817,2024-06-19,164,Particulier,Abonnement,2,84.72
+1818,2024-07-03,370,Particulier,Abonnement,2,88.65
+1819,2024-04-08,158,Particulier,Abonnement,3,100.73
+1820,2024-08-03,228,Particulier,Licence,1,223.71
+1821,2024-08-16,246,PME,Support,2,137.73
+1822,2025-07-12,282,PME,Licence,3,689.19
+1823,2024-08-08,349,PME,Formation,2,279.82
+1824,2025-10-01,60,Particulier,Formation,2,246.15
+1825,2025-07-18,207,Particulier,Abonnement,5,182.22
+1826,2025-10-20,214,Particulier,Abonnement,2,78.18
+1827,2024-03-17,61,PME,Licence,5,1250.43
+1828,2025-12-19,270,Particulier,Formation,5,610.49
+1829,2025-03-24,48,Particulier,Formation,4,494.62
+1830,2025-12-18,183,PME,Formation,1,140.27
+1831,2024-09-16,133,PME,Support,2,151.99
+1832,2025-11-26,62,Particulier,Abonnement,5,216.9
+1833,2025-03-05,329,Particulier,Support,1,64.78
+1834,2024-02-22,98,PME,Support,3,223.39
+1835,2024-10-26,103,Particulier,Support,3,193.52
+1836,2024-04-10,342,Particulier,Abonnement,5,213.94
+1837,2025-11-18,351,Grand compte,Abonnement,5,364.24
+1838,2024-08-10,14,Particulier,Formation,2,263.39
+1839,2024-06-11,112,Particulier,Licence,3,595.74
+1840,2025-02-07,284,Particulier,Licence,4,741.65
+1841,2024-11-06,312,Particulier,Formation,5,587.47
+1842,2024-03-11,400,Particulier,Abonnement,3,116.81
+1843,2025-08-19,222,Particulier,Abonnement,1,41.64
+1844,2025-09-09,3,PME,Support,5,339.83
+1845,2025-06-26,350,Particulier,Abonnement,3,131.44
+1846,2025-03-26,65,Grand compte,Formation,1,159.99
+1847,2024-10-20,49,Grand compte,Support,1,78.25
+1848,2025-01-30,270,Particulier,Abonnement,2,79.14
+1849,2025-01-15,242,Particulier,Abonnement,4,149.22
+1850,2024-04-30,24,PME,Abonnement,5,215.84
+1851,2024-02-29,68,Grand compte,Abonnement,3,170.83
+1852,2024-07-03,236,Grand compte,Support,1,84.52
+1853,2024-11-27,103,Particulier,Abonnement,5,200.16
+1854,2024-04-27,274,Particulier,Abonnement,4,152.06
+1855,2024-03-18,165,Particulier,Abonnement,3,114.82
+1856,2025-09-13,236,PME,Abonnement,1,47.98
+1857,2024-09-30,190,PME,Support,5,389.21
+1858,2025-03-02,147,Particulier,Support,1,67.06
+1859,2025-01-17,137,PME,Formation,4,582.81
+1860,2025-06-20,279,Particulier,Formation,3,366.5
+1861,2025-06-24,206,PME,Abonnement,3,141.89
+1862,2024-08-04,238,Particulier,Formation,3,373.86
+1863,2025-09-10,231,PME,Abonnement,2,99.0
+1864,2024-09-28,84,PME,Licence,3,796.37
+1865,2025-09-01,366,PME,Abonnement,2,81.49
+1866,2024-10-22,226,Particulier,Formation,3,353.25
+1867,2024-03-22,288,PME,Abonnement,4,197.21
+1868,2025-07-08,353,PME,Support,4,287.39
+1869,2024-01-23,370,Particulier,Abonnement,1,36.99
+1870,2025-07-17,267,Particulier,Licence,5,896.05
+1871,2024-02-01,315,PME,Abonnement,1,51.1
+1872,2024-05-30,189,Particulier,Support,2,112.73
+1873,2025-03-16,296,Particulier,Support,2,103.15
+1874,2025-11-18,129,Particulier,Abonnement,2,85.48
+1875,2024-10-25,285,Particulier,Abonnement,2,82.94
+1876,2024-03-29,35,Particulier,Abonnement,2,79.26
+1877,2024-06-19,366,PME,Support,3,
+1878,2025-10-16,98,Particulier,Licence,4,792.74
+1879,2025-06-14,263,PME,Abonnement,5,263.34
+1880,2024-03-14,5,Particulier,Abonnement,2,69.67
+1881,2024-10-07,63,Particulier,Abonnement,2,69.99
+1882,2024-07-12,395,Particulier,Abonnement,4,151.96
+1883,2024-05-09,334,PME,Support,1,71.85
+1884,2025-09-09,89,Grand compte,Abonnement,3,172.85
+1885,2025-03-26,53,Particulier,Abonnement,2,84.11
+1886,2024-05-11,326,Particulier,Licence,4,869.69
+1887,2025-04-20,397,Particulier,Support,1,61.34
+1888,2024-10-28,68,Particulier,Support,5,313.45
+1889,2024-02-14,266,PME,Abonnement,2,98.09
+1890,2024-11-24,114,Particulier,Licence,3,600.46
+1891,2024-05-15,298,Grand compte,Formation,3,484.12
+1892,2024-06-28,168,PME,Formation,3,396.47
+1893,2025-10-03,51,Particulier,Abonnement,3,107.03
+1894,2025-06-02,130,PME,Licence,2,474.3
+1895,2024-04-07,216,Particulier,Formation,4,488.92
+1896,2025-09-13,320,PME,Support,3,190.96
+1897,2025-02-23,9,Particulier,Support,2,120.7
+1898,2025-09-30,384,PME,Support,2,133.92
+1899,2025-06-29,260,Particulier,Support,3,164.6
+1900,2024-09-04,351,Particulier,Licence,5,949.97
+1901,2025-01-25,373,PME,Abonnement,5,218.49
+1902,2025-01-22,62,Particulier,Abonnement,2,83.88
+1903,2025-06-09,38,Particulier,Support,2,118.39
+1904,2024-06-30,311,PME,Formation,1,153.39
+1905,2024-08-31,76,Particulier,Formation,3,347.23
+1906,2024-06-27,60,Grand compte,Support,2,174.16
+1907,2024-08-04,188,PME,Formation,5,827.91
+1908,2024-04-27,366,PME,Support,3,187.95
+1909,2024-01-27,319,Particulier,Abonnement,2,88.22
+1910,2025-11-17,208,Particulier,Licence,5,1132.36
+1911,2024-02-24,79,Grand compte,Abonnement,5,318.38
+1912,2025-10-10,135,Particulier,Support,2,116.83
+1913,2024-01-03,276,Particulier,Licence,1,222.83
+1914,2025-07-21,63,Particulier,Abonnement,2,77.94
+1915,2024-08-27,210,Particulier,Abonnement,2,75.48
+1916,2025-01-12,5,PME,Abonnement,3,139.53
+1917,2024-07-25,131,PME,Formation,5,687.16
+1918,2024-12-24,100,PME,Formation,5,665.47
+1919,2024-11-25,273,Grand compte,Abonnement,4,261.31
+1920,2025-01-21,366,Particulier,Licence,5,938.12
+1921,2024-10-14,59,Particulier,Abonnement,1,39.91
+1922,2025-01-26,319,Particulier,Formation,1,106.14
+1923,2025-08-25,263,PME,Formation,5,721.77
+1924,2024-11-13,388,Particulier,Abonnement,4,145.2
+1925,2024-09-20,365,PME,Abonnement,2,86.93
+1926,2024-04-06,41,Particulier,Licence,4,793.01
+1927,2024-09-19,298,PME,Support,1,78.09
+1928,2024-04-01,237,PME,Abonnement,4,198.76
+1929,2024-05-13,46,Grand compte,Support,5,468.33
+1930,2025-11-26,103,Particulier,Formation,3,356.26
+1931,2024-03-06,371,Grand compte,Abonnement,4,233.56
+1932,2024-12-17,218,Particulier,Support,4,255.19
+1933,2025-09-01,136,Particulier,Formation,5,572.97
+1934,2025-11-26,129,Particulier,Abonnement,3,128.01
+1935,2024-04-17,336,Particulier,Licence,2,439.55
+1936,2024-04-29,114,PME,Abonnement,2,89.54
+1937,2024-09-28,64,Particulier,Abonnement,2,75.56
+1938,2025-02-08,230,Particulier,Abonnement,1,38.25
+1939,2025-12-01,398,PME,Support,4,254.2
+1940,2024-05-31,74,PME,Support,2,138.59
+1941,2024-04-30,103,PME,Licence,4,1059.95
+1942,2024-07-03,188,PME,Abonnement,1,43.98
+1943,2025-09-30,80,Particulier,Support,2,132.72
+1944,2024-01-22,261,PME,Formation,2,278.01
+1945,2024-10-04,102,Particulier,Abonnement,1,46.76
+1946,2024-03-27,52,Particulier,Abonnement,5,189.09
+1947,2024-04-24,105,Particulier,Support,3,177.93
+1948,2025-10-31,373,PME,Abonnement,5,222.52
+1949,2024-01-02,374,Particulier,Support,5,283.5
+1950,2024-08-22,203,PME,Formation,1,159.42
+1951,2025-10-30,161,Particulier,Abonnement,5,207.59
+1952,2025-03-19,328,Particulier,Licence,1,216.46
+1953,2024-02-22,78,Particulier,Support,5,268.43
+1954,2024-12-05,262,Particulier,Formation,4,505.15
+1955,2025-12-09,273,Particulier,Support,5,276.69
+1956,2024-10-19,285,PME,Formation,3,385.78
+1957,2025-01-20,88,Particulier,Support,1,61.15
+1958,2025-01-23,287,Particulier,Abonnement,1,40.73
+1959,2025-04-27,245,PME,Formation,1,144.61
+1960,2024-05-16,351,Particulier,Abonnement,5,211.48
+1961,2025-09-04,70,Particulier,Formation,3,385.16
+1962,2025-12-22,246,Particulier,Formation,2,268.22
+1963,2024-04-14,332,Particulier,Abonnement,1,36.19
+1964,2025-08-20,112,Particulier,Licence,1,224.03
+1965,2025-08-19,298,PME,Abonnement,2,110.46
+1966,2025-06-25,40,Particulier,Abonnement,4,155.31
+1967,2024-09-27,288,PME,Abonnement,5,207.96
+1968,2024-12-08,243,Particulier,Support,4,213.44
+1969,2025-09-04,78,PME,Abonnement,5,231.13
+1970,2024-04-21,27,PME,Formation,2,334.41
+1971,2025-08-27,299,Particulier,Support,2,120.16
+1972,2025-11-03,97,Particulier,Abonnement,4,152.1
+1973,2025-05-12,199,Particulier,Licence,1,189.03
+1974,2024-09-06,25,Grand compte,Abonnement,5,268.25
+1975,2025-02-12,386,Grand compte,Support,4,385.19
+1976,2024-02-06,220,Particulier,Abonnement,1,39.71
+1977,2025-11-11,373,PME,Support,1,84.1
+1978,2024-09-06,65,Particulier,Support,4,252.06
+1979,2024-02-11,83,Particulier,Abonnement,4,170.62
+1980,2025-08-02,245,PME,Abonnement,2,94.14
+1981,2025-04-25,242,Particulier,Abonnement,4,146.03
+1982,2025-03-30,317,Particulier,Abonnement,3,111.61
+1983,2024-02-09,372,PME,Licence,4,854.84
+1984,2025-07-02,329,Particulier,Formation,3,386.22
+1985,2025-04-10,57,PME,Support,3,209.35
+1986,2025-08-02,124,Particulier,Licence,2,430.48
+1987,2025-08-26,366,Particulier,Support,1,60.65
+1988,2024-06-03,220,Particulier,Support,1,58.59
+1989,2024-06-02,347,Grand compte,Abonnement,1,54.39
+1990,2025-11-05,226,Particulier,Abonnement,5,204.83
+1991,2025-01-22,20,Particulier,Abonnement,3,117.9
+1992,2024-11-15,190,PME,Abonnement,2,102.93
+1993,2024-07-28,330,Grand compte,Abonnement,5,282.83
+1994,2025-04-11,263,Grand compte,Abonnement,5,314.79
+1995,2025-07-04,54,PME,Abonnement,2,108.6
+1996,2024-01-02,85,Particulier,Formation,2,245.23
+1997,2025-02-07,342,PME,Abonnement,3,153.05
+1998,2025-12-26,392,PME,Abonnement,5,250.98
+1999,2024-07-23,302,Grand compte,Abonnement,4,276.44
+2000,2024-07-24,40,PME,Formation,3,444.84
+2001,2025-10-03,248,Particulier,Support,2,
+2002,2024-02-15,332,Particulier,Support,2,119.65
+2003,2024-10-17,257,PME,Abonnement,1,45.03
+2004,2024-11-30,238,Particulier,Abonnement,4,144.54
+2005,2025-08-05,187,Particulier,Abonnement,5,220.27
+2006,2024-04-04,98,Particulier,Abonnement,4,147.09
+2007,2024-11-12,113,PME,Abonnement,2,101.73
+2008,2024-04-21,299,Grand compte,Licence,3,929.95
+2009,2025-07-28,28,PME,Abonnement,5,257.62
+2010,2025-04-06,34,Grand compte,Abonnement,3,172.59
+2011,2024-12-28,159,PME,Support,5,337.23
+2012,2024-10-13,310,PME,Formation,3,445.08
+2013,2024-04-21,263,Particulier,Abonnement,3,117.19
+2014,2025-11-03,236,PME,Abonnement,3,129.82
+2015,2025-04-17,214,Particulier,Licence,2,462.03
+2016,2024-08-20,45,Particulier,Abonnement,3,112.4
+2017,2024-10-29,133,Particulier,Support,2,110.46
+2018,2025-06-14,32,PME,Support,4,282.42
+2019,2025-06-09,304,PME,Abonnement,4,211.24
+2020,2024-12-02,301,Grand compte,Support,2,148.8
+2021,2024-08-09,104,Grand compte,Abonnement,5,
+2022,2025-04-26,118,Grand compte,Abonnement,3,166.87
+2023,2025-04-25,127,Particulier,Abonnement,5,204.23
+2024,2025-03-13,356,Grand compte,Licence,4,1135.1
+2025,2024-02-23,196,PME,Abonnement,5,278.24
+2026,2024-12-11,305,Grand compte,Abonnement,5,302.99
+2027,2025-03-24,180,Particulier,Licence,2,377.34
+2028,2025-11-24,280,Particulier,Abonnement,2,78.07
+2029,2025-01-18,212,Grand compte,Licence,5,1510.76
+2030,2024-09-07,112,Particulier,Support,2,121.71
+2031,2025-02-09,351,Particulier,Formation,4,
+2032,2024-05-09,284,Particulier,Support,1,59.99
+2033,2024-03-07,308,Particulier,Support,5,266.95
+2034,2025-05-10,380,Particulier,Abonnement,4,155.64
+2035,2025-12-20,100,Grand compte,Licence,3,943.68
+2036,2025-09-09,37,Grand compte,Licence,3,851.77
+2037,2025-03-02,233,Grand compte,Licence,4,1264.59
+2038,2024-01-30,131,Particulier,Support,2,120.3
+2039,2025-12-22,175,Particulier,Formation,2,235.82
+2040,2024-11-24,94,Particulier,Formation,2,262.93
+2041,2024-07-30,160,Particulier,Abonnement,1,34.44
+2042,2025-10-13,158,Particulier,Formation,5,567.58
+2043,2025-06-28,141,PME,Support,4,316.4
+2044,2025-07-01,297,Grand compte,Support,3,309.53
+2045,2024-07-21,238,Particulier,Abonnement,5,236.58
+2046,2025-12-25,190,Particulier,Formation,4,481.93
+2047,2024-11-26,46,Particulier,Support,3,186.59
+2048,2025-01-22,229,Particulier,Formation,1,127.85
+2049,2025-07-02,71,Particulier,Licence,3,661.2
+2050,2025-04-26,126,Particulier,Support,1,61.5
+2051,2024-05-05,166,Particulier,Abonnement,4,171.85
+2052,2024-08-08,57,Particulier,Abonnement,1,41.47
+2053,2024-09-20,156,PME,Support,3,225.02
+2054,2025-11-22,107,Particulier,Formation,2,222.37
+2055,2025-06-05,340,Particulier,Support,1,58.42
+2056,2024-09-24,344,Particulier,Abonnement,3,114.98
+2057,2025-06-20,2,Particulier,Abonnement,2,72.39
+2058,2025-06-23,241,PME,Abonnement,2,83.32
+2059,2024-10-14,257,PME,Support,5,347.8
+2060,2024-10-21,152,Grand compte,Licence,2,587.33
+2061,2025-10-14,188,PME,Licence,3,726.05
+2062,2025-02-14,316,Particulier,Formation,1,125.34
+2063,2024-04-19,152,Particulier,Support,2,121.81
+2064,2025-06-09,26,Particulier,Abonnement,2,78.36
+2065,2025-03-06,150,Particulier,Formation,4,444.86
+2066,2025-01-06,102,Grand compte,Licence,1,321.05
+2067,2025-06-13,154,Particulier,Abonnement,5,198.37
+2068,2025-10-24,93,Particulier,Licence,1,193.06
+2069,2024-08-29,60,Particulier,Abonnement,4,157.61
+2070,2024-11-02,395,Particulier,Abonnement,1,37.66
+2071,2024-05-18,52,Grand compte,Formation,5,861.79
+2072,2025-04-17,283,Particulier,Licence,4,764.0
+2073,2024-10-20,288,Particulier,Abonnement,5,195.4
+2074,2024-09-06,248,Particulier,Support,5,315.74
+2075,2025-05-23,365,PME,Abonnement,5,247.82
+2076,2024-10-24,2,Particulier,Support,4,269.7
+2077,2024-12-04,121,PME,Formation,5,789.8
+2078,2024-11-17,74,Particulier,Abonnement,1,46.26
+2079,2024-07-07,231,Particulier,Support,4,250.74
+2080,2024-04-01,255,Grand compte,Support,5,469.55
+2081,2025-08-26,360,Particulier,Formation,2,230.64
+2082,2024-03-07,152,Particulier,Abonnement,5,213.22
+2083,2024-08-25,95,PME,Abonnement,3,136.44
+2084,2025-05-02,370,Particulier,Licence,3,529.42
+2085,2024-04-05,270,Particulier,Support,2,134.65
+2086,2025-04-23,306,PME,Support,1,64.8
+2087,2025-06-19,178,Particulier,Support,5,310.53
+2088,2025-04-28,179,Particulier,Support,4,223.1
+2089,2024-08-10,156,Particulier,Abonnement,3,130.82
+2090,2024-01-15,300,PME,Formation,5,792.75
+2091,2025-10-09,85,Particulier,Support,1,62.54
+2092,2024-08-26,391,Particulier,Abonnement,4,175.95
+2093,2025-08-10,71,PME,Abonnement,3,144.08
+2094,2024-05-24,185,PME,Support,4,339.48
+2095,2024-04-28,126,Grand compte,Licence,1,317.91
+2096,2025-07-22,258,Particulier,Support,4,222.71
+2097,2025-11-17,273,Particulier,Abonnement,4,160.89
+2098,2025-09-20,368,Particulier,Licence,5,987.8
+2099,2025-07-02,316,PME,Abonnement,2,94.08
+2100,2024-06-29,100,Particulier,Abonnement,1,34.7
+2101,2025-10-28,83,PME,Licence,1,247.43
+2102,2025-05-02,355,Particulier,Support,1,53.35
+2103,2024-05-05,196,PME,Licence,2,383.02
+2104,2024-04-04,40,PME,Support,5,350.09
+2105,2025-09-27,330,Particulier,Support,1,56.37
+2106,2024-07-19,260,Grand compte,Abonnement,1,55.86
+2107,2025-07-13,11,Grand compte,Abonnement,1,45.11
+2108,2024-04-11,314,Particulier,Licence,2,372.77
+2109,2024-07-23,243,Particulier,Licence,4,788.89
+2110,2024-07-25,246,PME,Abonnement,2,91.13
+2111,2024-07-24,346,Particulier,Abonnement,3,123.72
+2112,2025-05-07,199,Particulier,Abonnement,2,88.91
+2113,2025-10-29,185,Particulier,Abonnement,5,208.26
+2114,2025-10-26,247,Grand compte,Licence,1,324.63
+2115,2025-06-25,80,Particulier,Abonnement,2,87.1
+2116,2024-05-27,61,PME,Formation,3,396.79
+2117,2025-12-02,338,Particulier,Licence,5,1035.13
+2118,2025-01-30,87,Particulier,Formation,3,388.66
+2119,2025-02-02,202,Grand compte,Formation,1,173.72
+2120,2025-05-27,108,Particulier,Abonnement,3,112.41
+2121,2025-07-15,93,Particulier,Abonnement,2,83.39
+2122,2025-11-26,240,Particulier,Abonnement,2,70.52
+2123,2025-03-01,321,PME,Abonnement,5,219.11
+2124,2025-03-21,177,Particulier,Abonnement,5,189.33
+2125,2025-06-28,56,Particulier,Abonnement,2,82.88
+2126,2024-07-05,98,Particulier,Abonnement,3,122.1
+2127,2024-08-12,66,Particulier,Abonnement,3,129.91
+2128,2025-04-01,354,Particulier,Licence,5,926.25
+2129,2024-02-16,128,Particulier,Abonnement,5,184.39
+2130,2024-08-21,150,Particulier,Abonnement,2,83.35
+2131,2025-06-08,29,Particulier,Licence,1,187.22
+2132,2025-12-13,179,PME,Abonnement,1,45.68
+2133,2025-01-14,366,PME,Formation,1,122.61
+2134,2024-10-18,164,Particulier,Support,4,245.58
+2135,2024-11-17,261,Particulier,Formation,4,539.19
+2136,2025-05-15,73,Particulier,Abonnement,5,183.53
+2137,2025-02-01,58,Grand compte,Support,1,97.36
+2138,2024-01-17,293,Particulier,Support,1,59.71
+2139,2025-01-28,27,Particulier,Abonnement,1,34.35
+2140,2024-10-19,180,Particulier,Abonnement,4,148.55
+2141,2025-05-26,127,Particulier,Abonnement,1,36.94
+2142,2025-09-30,7,Particulier,Support,4,233.92
+2143,2025-12-03,213,Particulier,Abonnement,5,
+2144,2025-03-21,386,PME,Abonnement,1,55.1
+2145,2024-09-21,28,PME,Formation,4,510.05
+2146,2024-11-20,327,PME,Licence,3,692.08
+2147,2024-05-08,216,PME,Abonnement,5,222.8
+2148,2025-11-14,290,Particulier,Abonnement,2,71.88
+2149,2025-09-10,39,Grand compte,Formation,2,362.75
+2150,2025-09-15,348,PME,Support,1,72.01
+2151,2024-08-27,5,PME,Formation,4,492.42
+2152,2024-08-23,363,PME,Licence,5,1201.74
+2153,2025-09-17,264,Particulier,Abonnement,1,36.14
+2154,2025-02-01,135,Particulier,Abonnement,3,120.11
+2155,2025-05-29,3,Particulier,Abonnement,4,
+2156,2024-12-23,245,Particulier,Abonnement,4,165.93
+2157,2024-11-19,35,Particulier,Formation,5,608.52
+2158,2025-04-06,244,Particulier,Support,4,229.85
+2159,2025-08-16,310,Particulier,Abonnement,5,201.07
+2160,2024-08-31,107,Grand compte,Support,5,470.28
+2161,2025-08-13,96,PME,Abonnement,5,
+2162,2024-06-27,89,PME,Formation,3,428.57
+2163,2024-10-21,90,Particulier,Abonnement,3,122.09
+2164,2025-10-28,46,PME,Formation,3,386.5
+2165,2025-11-27,100,Grand compte,Abonnement,5,282.38
+2166,2025-11-05,264,PME,Licence,2,507.17
+2167,2024-08-18,122,PME,Licence,4,1024.67
+2168,2025-09-07,313,Particulier,Support,4,241.8
+2169,2025-11-14,328,Particulier,Licence,1,223.66
+2170,2025-12-15,305,PME,Abonnement,3,149.85
+2171,2024-01-16,216,Grand compte,Formation,1,176.64
+2172,2025-06-27,127,Particulier,Abonnement,4,144.39
+2173,2025-12-28,372,Particulier,Licence,3,669.06
+2174,2025-07-12,83,Particulier,Abonnement,2,84.93
+2175,2024-06-19,186,Particulier,Abonnement,1,45.75
+2176,2025-07-10,182,Grand compte,Support,1,105.6
+2177,2024-03-17,299,PME,Abonnement,4,172.23
+2178,2024-12-16,219,Particulier,Support,5,269.18
+2179,2025-04-02,320,Particulier,Abonnement,2,61.68
+2180,2024-11-29,368,Particulier,Support,5,322.04
+2181,2025-05-25,157,Particulier,Licence,3,631.51
+2182,2024-06-24,350,Particulier,Support,2,120.94
+2183,2025-03-18,68,PME,Abonnement,3,129.87
+2184,2025-04-15,367,PME,Abonnement,4,190.63
+2185,2025-04-07,72,Particulier,Abonnement,5,202.96
+2186,2024-07-30,341,PME,Abonnement,3,153.02
+2187,2024-08-10,157,PME,Formation,2,294.29
+2188,2024-07-07,386,Particulier,Abonnement,4,168.5
+2189,2024-12-03,52,PME,Abonnement,3,142.57
+2190,2025-03-03,187,PME,Abonnement,2,105.07
+2191,2024-09-21,361,PME,Licence,3,756.39
+2192,2024-10-26,19,Particulier,Abonnement,3,108.61
+2193,2024-07-28,107,Particulier,Abonnement,1,44.45
+2194,2024-06-08,34,Particulier,Formation,1,131.77
+2195,2025-04-24,129,Particulier,Abonnement,4,165.96
+2196,2025-08-18,157,Particulier,Licence,1,204.49
+2197,2024-07-31,248,PME,Abonnement,3,163.11
+2198,2025-09-20,104,Particulier,Support,4,208.64
+2199,2025-02-20,64,Particulier,Support,2,131.92
+2200,2024-05-02,68,Grand compte,Support,2,173.14
+2201,2024-09-24,376,Particulier,Support,5,326.28
+2202,2024-01-06,382,Particulier,Support,1,60.58
+2203,2024-01-29,89,PME,Formation,4,518.73
+2204,2024-09-02,79,Particulier,Formation,1,115.23
+2205,2024-11-27,22,Particulier,Support,5,324.52
+2206,2025-08-05,384,PME,Formation,3,424.74
+2207,2024-04-08,283,Particulier,Formation,1,114.03
+2208,2025-09-04,305,Particulier,Abonnement,4,151.96
+2209,2024-06-20,117,Particulier,Abonnement,1,42.06
+2210,2024-04-10,257,PME,Abonnement,2,109.44
+2211,2025-05-25,24,Particulier,Abonnement,3,99.45
+2212,2025-07-19,271,PME,Formation,4,705.06
+2213,2025-03-17,232,Particulier,Abonnement,3,121.96
+2214,2024-03-25,133,PME,Formation,5,753.42
+2215,2024-03-25,285,Particulier,Support,3,173.72
+2216,2024-10-11,259,Particulier,Formation,2,239.93
+2217,2024-11-24,176,Particulier,Support,2,121.85
+2218,2025-12-29,75,PME,Abonnement,5,219.86
+2219,2024-07-28,10,Particulier,Abonnement,4,149.69
+2220,2024-05-20,376,Particulier,Support,1,65.69
+2221,2025-11-21,113,Particulier,Support,4,210.19
+2222,2024-04-22,121,Particulier,Support,3,186.35
+2223,2024-01-20,273,PME,Support,2,139.73
+2224,2024-11-04,103,Particulier,Support,1,55.39
+2225,2024-10-19,151,Particulier,Support,5,347.33
+2226,2025-03-28,285,Particulier,Support,1,55.42
+2227,2025-10-02,239,Particulier,Support,5,272.88
+2228,2025-11-12,263,Particulier,Abonnement,1,39.4
+2229,2024-07-30,2,Particulier,Abonnement,3,112.62
+2230,2025-12-16,181,Particulier,Abonnement,1,40.02
+2231,2025-04-06,191,Grand compte,Formation,3,546.71
+2232,2024-02-20,253,Particulier,Support,5,305.63
+2233,2025-11-16,61,PME,Abonnement,3,142.57
+2234,2024-04-10,64,Particulier,Abonnement,3,113.26
+2235,2025-03-05,305,Particulier,Support,1,63.09
+2236,2025-07-31,270,Particulier,Abonnement,5,198.21
+2237,2024-07-01,325,Particulier,Support,2,115.24
+2238,2024-07-16,109,PME,Abonnement,3,161.05
+2239,2024-12-13,400,PME,Abonnement,5,237.67
+2240,2025-10-07,110,PME,Formation,4,626.32
+2241,2024-06-12,261,PME,Abonnement,4,210.84
+2242,2025-04-29,65,Particulier,Abonnement,1,44.12
+2243,2024-11-26,368,Particulier,Abonnement,3,
+2244,2024-03-22,133,PME,Abonnement,3,143.99
+2245,2025-06-02,321,Particulier,Abonnement,1,39.8
+2246,2025-08-30,133,Particulier,Support,2,117.66
+2247,2025-02-24,317,Grand compte,Abonnement,5,247.99
+2248,2024-05-08,182,Grand compte,Abonnement,5,317.25
+2249,2024-04-23,25,PME,Abonnement,5,244.69
+2250,2024-11-05,77,Particulier,Licence,5,1066.04
+2251,2025-01-04,274,PME,Support,5,356.63
+2252,2025-02-07,78,Particulier,Licence,1,210.64
+2253,2024-06-26,111,Particulier,Licence,5,889.8
+2254,2024-12-31,217,Particulier,Abonnement,4,145.03
+2255,2024-08-03,102,Grand compte,Support,5,360.86
+2256,2025-05-15,52,Grand compte,Abonnement,4,237.42
+2257,2025-08-04,250,PME,Licence,1,225.17
+2258,2025-04-21,276,Particulier,Formation,3,333.98
+2259,2024-01-01,294,Particulier,Abonnement,4,164.28
+2260,2025-12-25,378,Particulier,Licence,1,193.19
+2261,2024-01-18,50,Grand compte,Support,3,239.05
+2262,2025-12-30,171,Particulier,Licence,4,962.87
+2263,2024-01-24,94,Particulier,Abonnement,3,119.64
+2264,2025-01-12,361,PME,Abonnement,4,175.36
+2265,2024-03-18,216,Particulier,Abonnement,1,37.86
+2266,2024-03-10,40,PME,Formation,2,284.01
+2267,2025-05-13,277,Particulier,Formation,5,591.59
+2268,2025-06-15,18,PME,Abonnement,3,159.0
+2269,2024-03-27,110,Particulier,Support,1,59.62
+2270,2025-12-13,289,Particulier,Abonnement,1,45.94
+2271,2024-08-21,203,Particulier,Support,3,173.77
+2272,2024-08-20,305,Particulier,Licence,5,1034.11
+2273,2024-08-04,229,PME,Support,1,77.89
+2274,2024-12-02,338,Particulier,Abonnement,1,43.82
+2275,2024-05-09,226,Particulier,Abonnement,2,88.4
+2276,2024-11-06,23,PME,Abonnement,2,93.91
+2277,2024-06-02,29,Particulier,Support,1,59.97
+2278,2024-02-07,311,PME,Formation,2,230.87
+2279,2024-09-26,16,PME,Abonnement,4,188.99
+2280,2025-05-05,151,Particulier,Licence,5,1087.3
+2281,2025-07-11,7,PME,Support,2,154.33
+2282,2024-09-14,122,Particulier,Support,4,238.34
+2283,2024-08-24,239,Particulier,Formation,5,681.56
+2284,2025-07-28,70,Particulier,Licence,1,193.86
+2285,2025-05-12,187,PME,Abonnement,5,226.25
+2286,2025-08-30,399,PME,Abonnement,1,46.2
+2287,2025-10-23,29,Particulier,Licence,4,728.16
+2288,2025-08-22,26,Grand compte,Licence,4,1259.75
+2289,2025-11-14,109,Particulier,Formation,5,613.85
+2290,2024-10-31,331,Grand compte,Abonnement,3,188.78
+2291,2024-10-15,163,PME,Abonnement,4,185.64
+2292,2024-08-22,256,Grand compte,Support,1,89.58
+2293,2024-06-20,14,Grand compte,Support,3,222.95
+2294,2025-06-30,295,Grand compte,Abonnement,5,309.03
+2295,2025-06-05,27,Particulier,Abonnement,1,40.32
+2296,2025-08-08,285,PME,Support,1,65.66
+2297,2024-05-02,60,PME,Support,4,285.59
+2298,2024-12-24,344,PME,Formation,3,423.09
+2299,2024-06-11,119,Particulier,Formation,3,410.81
+2300,2025-10-13,74,Grand compte,Licence,2,549.07
+2301,2024-07-14,135,Particulier,Abonnement,1,41.06
+2302,2024-04-15,1,Particulier,Formation,4,438.11
+2303,2025-02-20,67,Particulier,Support,2,114.64
+2304,2025-10-03,240,Particulier,Formation,4,490.63
+2305,2025-10-30,121,PME,Licence,3,707.83
+2306,2024-03-11,142,Particulier,Support,2,119.94
+2307,2024-08-25,323,PME,Formation,2,295.67
+2308,2024-04-22,50,PME,Abonnement,4,184.42
+2309,2024-08-12,159,Particulier,Support,2,128.49
+2310,2025-01-24,75,PME,Abonnement,5,234.13
+2311,2024-07-23,194,Particulier,Abonnement,3,119.06
+2312,2024-02-19,133,PME,Formation,5,740.81
+2313,2025-01-07,19,Grand compte,Formation,3,549.81
+2314,2024-02-08,29,Particulier,Licence,3,630.92
+2315,2024-06-14,341,PME,Support,3,221.48
+2316,2024-01-01,23,Particulier,Support,3,186.75
+2317,2024-03-04,314,Particulier,Abonnement,3,116.88
+2318,2024-11-14,367,PME,Formation,5,658.44
+2319,2025-09-13,187,Particulier,Licence,4,708.63
+2320,2025-07-19,125,PME,Formation,1,124.75
+2321,2024-03-13,311,Particulier,Support,1,68.46
+2322,2024-01-26,393,Particulier,Formation,1,98.76
+2323,2024-09-03,49,Grand compte,Abonnement,4,262.92
+2324,2025-04-21,386,Particulier,Formation,2,224.24
+2325,2025-06-29,378,PME,Abonnement,2,105.11
+2326,2025-08-23,58,Particulier,Abonnement,5,164.76
+2327,2024-09-06,22,PME,Abonnement,1,47.1
+2328,2024-05-02,286,PME,Abonnement,1,53.58
+2329,2024-01-20,32,Particulier,Abonnement,1,42.28
+2330,2024-04-17,241,Particulier,Licence,2,389.21
+2331,2024-02-17,26,Particulier,Abonnement,1,33.78
+2332,2025-09-20,277,Grand compte,Support,4,321.91
+2333,2024-07-14,93,Particulier,Formation,4,533.34
+2334,2025-08-23,39,Particulier,Abonnement,1,38.89
+2335,2025-02-07,27,PME,Abonnement,3,143.17
+2336,2025-01-28,76,Particulier,Licence,2,409.07
+2337,2024-11-27,217,Particulier,Support,1,53.75
+2338,2025-08-21,31,Particulier,Licence,3,619.55
+2339,2024-02-01,321,Particulier,Abonnement,4,154.63
+2340,2024-03-08,242,PME,Support,2,147.38
+2341,2024-11-05,119,Grand compte,Support,4,343.35
+2342,2024-10-14,395,Grand compte,Licence,5,1311.23
+2343,2025-02-02,264,Grand compte,Abonnement,1,57.95
+2344,2025-06-22,269,Particulier,Licence,1,210.25
+2345,2025-03-04,70,Particulier,Abonnement,2,82.52
+2346,2024-07-06,285,PME,Support,5,360.89
+2347,2024-08-26,224,Grand compte,Formation,1,192.93
+2348,2025-07-03,394,PME,Formation,3,424.96
+2349,2024-05-27,192,Particulier,Abonnement,3,120.54
+2350,2025-01-03,272,PME,Support,1,69.24
+2351,2025-01-28,137,PME,Abonnement,1,51.67
+2352,2025-07-01,17,Grand compte,Formation,1,184.2
+2353,2025-06-05,52,PME,Formation,1,137.58
+2354,2024-12-05,347,Particulier,Support,3,158.56
+2355,2024-08-13,296,Particulier,Formation,5,653.04
+2356,2024-09-25,146,Particulier,Support,2,112.86
+2357,2024-10-27,280,Particulier,Formation,2,241.38
+2358,2024-06-09,2,Grand compte,Support,2,213.88
+2359,2025-04-01,15,Particulier,Support,5,319.24
+2360,2024-06-01,203,Particulier,Support,5,338.67
+2361,2025-04-18,250,Particulier,Support,4,229.67
+2362,2025-07-02,375,PME,Formation,3,469.01
+2363,2025-12-03,304,Particulier,Abonnement,1,40.09
+2364,2024-03-27,103,Particulier,Support,5,308.78
+2365,2025-07-08,327,Grand compte,Abonnement,1,69.7
+2366,2024-03-03,197,Particulier,Abonnement,1,39.11
+2367,2024-09-03,331,Particulier,Support,4,240.37
+2368,2024-05-08,70,Particulier,Formation,1,111.33
+2369,2024-04-28,11,PME,Formation,1,154.24
+2370,2024-05-08,24,PME,Licence,3,687.71
+2371,2024-02-02,397,Grand compte,Abonnement,1,64.91
+2372,2025-08-23,33,Particulier,Abonnement,2,69.44
+2373,2024-02-14,376,Grand compte,Abonnement,4,250.53
+2374,2024-10-17,291,PME,Abonnement,1,45.53
+2375,2025-05-25,59,Particulier,Support,4,254.03
+2376,2025-12-23,346,Particulier,Support,1,59.93
+2377,2025-09-15,58,Particulier,Formation,4,459.44
+2378,2024-04-10,58,Grand compte,Abonnement,1,58.14
+2379,2025-12-22,231,Particulier,Formation,4,447.35
+2380,2025-04-22,116,Particulier,Abonnement,4,170.72
+2381,2024-05-11,117,PME,Support,4,263.84
+2382,2024-11-23,79,Grand compte,Support,2,176.15
+2383,2025-11-01,244,PME,Abonnement,2,98.65
+2384,2024-10-13,11,PME,Support,5,406.47
+2385,2024-05-14,99,Particulier,Support,4,239.82
+2386,2025-09-30,222,Grand compte,Abonnement,1,58.84
+2387,2025-11-26,195,Particulier,Support,1,61.31
+2388,2025-12-13,280,Particulier,Support,2,100.09
+2389,2025-11-28,87,Grand compte,Abonnement,4,216.99
+2390,2025-09-29,260,Particulier,Abonnement,2,77.6
+2391,2024-11-27,304,Particulier,Support,5,282.89
+2392,2024-05-20,156,PME,Licence,3,627.79
+2393,2025-03-26,103,Particulier,Formation,5,641.17
+2394,2024-06-10,223,Particulier,Formation,5,612.47
+2395,2024-12-11,232,PME,Support,3,218.42
+2396,2025-04-23,38,PME,Formation,5,680.03
+2397,2025-11-22,227,PME,Abonnement,3,144.91
+2398,2024-07-30,62,Particulier,Abonnement,1,41.65
+2399,2024-07-02,228,PME,Licence,2,469.83
+2400,2025-06-20,373,PME,Support,3,223.68
+2401,2024-01-05,215,Particulier,Licence,5,936.32
+2402,2025-02-17,305,Particulier,Abonnement,5,201.56
+2403,2025-06-28,124,Particulier,Formation,1,130.97
+2404,2025-02-06,370,Particulier,Formation,1,131.83
+2405,2024-10-07,326,Particulier,Abonnement,3,132.74
+2406,2025-08-27,367,PME,Abonnement,3,147.29
+2407,2024-09-27,297,Grand compte,Support,4,360.91
+2408,2025-06-02,260,Particulier,Support,2,115.69
+2409,2024-12-04,211,PME,Support,5,307.94
+2410,2024-01-20,372,Particulier,Abonnement,3,107.09
+2411,2025-01-22,340,Particulier,Formation,2,236.77
+2412,2024-02-06,167,PME,Abonnement,3,142.75
+2413,2025-11-10,35,Particulier,Abonnement,5,222.6
+2414,2025-03-15,2,Grand compte,Formation,2,397.87
+2415,2024-09-28,94,Particulier,Abonnement,3,113.41
+2416,2024-12-20,26,Particulier,Licence,5,1065.47
+2417,2025-03-28,85,Particulier,Formation,1,115.42
+2418,2024-07-08,44,Particulier,Abonnement,3,126.55
+2419,2024-07-29,393,Grand compte,Abonnement,4,255.48
+2420,2024-11-01,39,PME,Support,5,395.77
+2421,2024-07-07,251,Particulier,Abonnement,1,38.42
+2422,2025-07-07,141,Particulier,Abonnement,4,172.98
+2423,2024-03-16,70,PME,Formation,5,612.13
+2424,2025-08-26,281,PME,Abonnement,2,105.95
+2425,2024-09-11,389,Particulier,Support,4,239.52
+2426,2025-02-13,317,Particulier,Formation,3,359.89
+2427,2024-04-25,391,Particulier,Abonnement,4,133.92
+2428,2024-10-08,237,Particulier,Support,2,116.27
+2429,2025-07-04,270,Particulier,Formation,1,133.01
+2430,2024-07-16,59,Particulier,Support,5,289.76
+2431,2024-04-06,341,Particulier,Abonnement,2,84.57
+2432,2025-01-16,300,Particulier,Support,1,60.17
+2433,2024-04-28,102,Particulier,Abonnement,5,217.0
+2434,2024-08-17,142,Grand compte,Formation,5,913.79
+2435,2024-11-24,245,PME,Abonnement,4,177.69
+2436,2025-02-15,6,Particulier,Licence,3,602.71
+2437,2025-04-11,328,Particulier,Abonnement,2,90.25
+2438,2025-05-08,113,Particulier,Licence,4,831.85
+2439,2025-09-08,30,Grand compte,Licence,4,1188.82
+2440,2024-02-18,133,PME,Formation,3,509.96
+2441,2024-09-21,335,Particulier,Abonnement,4,174.84
+2442,2024-01-01,110,Grand compte,Abonnement,3,191.76
+2443,2024-01-07,216,PME,Licence,5,1230.46
+2444,2024-06-03,325,PME,Support,4,304.83
+2445,2025-03-12,14,Particulier,Formation,2,254.64
+2446,2025-10-14,304,Particulier,Abonnement,4,132.06
+2447,2025-07-18,116,PME,Support,2,148.55
+2448,2025-04-16,279,Particulier,Abonnement,2,78.97
+2449,2025-07-22,76,PME,Abonnement,5,230.4
+2450,2024-05-05,56,PME,Abonnement,3,141.75
+2451,2025-09-05,316,Particulier,Formation,1,105.06
+2452,2025-10-11,324,Particulier,Licence,2,342.25
+2453,2024-03-10,393,Particulier,Support,5,329.92
+2454,2024-12-09,271,Particulier,Abonnement,4,165.92
+2455,2025-08-28,187,PME,Abonnement,5,193.67
+2456,2024-12-13,78,PME,Support,3,206.04
+2457,2025-09-05,119,Particulier,Formation,1,128.45
+2458,2025-11-13,260,PME,Abonnement,1,46.92
+2459,2024-12-12,139,Particulier,Abonnement,1,43.98
+2460,2024-02-13,194,PME,Support,4,312.19
+2461,2024-09-05,68,Particulier,Licence,4,713.17
+2462,2024-06-06,176,PME,Support,3,213.52
+2463,2024-12-12,96,PME,Abonnement,4,185.12
+2464,2025-03-03,45,Particulier,Support,3,159.99
+2465,2024-12-04,53,PME,Abonnement,4,169.66
+2466,2024-05-22,208,Grand compte,Licence,4,1122.62
+2467,2024-08-07,147,Particulier,Abonnement,3,113.85
+2468,2025-05-11,40,PME,Abonnement,4,196.35
+2469,2024-01-20,206,Grand compte,Formation,2,390.07
+2470,2024-06-05,66,Grand compte,Abonnement,4,249.86
+2471,2025-10-13,7,Particulier,Abonnement,5,212.01
+2472,2024-03-13,54,PME,Formation,2,281.86
+2473,2024-10-29,180,Grand compte,Support,4,377.37
+2474,2024-05-31,382,PME,Support,1,71.15
+2475,2024-03-17,97,Particulier,Abonnement,2,77.17
+2476,2024-11-04,114,Particulier,Abonnement,4,184.28
+2477,2025-01-15,98,PME,Formation,2,234.31
+2478,2024-05-08,143,Particulier,Formation,2,204.03
+2479,2024-02-26,287,Particulier,Abonnement,2,82.45
+2480,2024-04-08,129,Particulier,Licence,1,195.76
+2481,2025-04-20,264,PME,Licence,4,849.64
+2482,2025-09-20,360,Particulier,Abonnement,1,36.63
+2483,2024-05-11,379,Grand compte,Support,2,166.69
+2484,2024-08-21,226,PME,Support,2,154.28
+2485,2024-09-07,286,Grand compte,Abonnement,5,329.1
+2486,2024-09-20,368,Grand compte,Support,5,509.02
+2487,2024-06-27,315,Particulier,Abonnement,1,34.92
+2488,2024-02-10,120,PME,Abonnement,1,42.75
+2489,2025-01-18,53,Particulier,Licence,4,708.12
+2490,2024-09-17,46,Grand compte,Support,2,198.56
+2491,2024-09-06,353,Particulier,Abonnement,4,165.34
+2492,2024-07-12,223,PME,Formation,5,724.62
+2493,2025-11-09,119,PME,Licence,1,244.41
+2494,2025-03-21,139,Particulier,Formation,5,597.27
+2495,2024-11-01,113,PME,Licence,1,218.47
+2496,2024-05-29,321,Particulier,Licence,2,416.42
+2497,2025-08-07,245,Particulier,Abonnement,3,118.21
+2498,2025-10-10,352,Particulier,Support,5,271.19
+2499,2024-01-24,121,Particulier,Support,3,188.27
+2500,2025-11-09,190,PME,Support,1,69.55
+2501,2025-05-25,49,Grand compte,Abonnement,2,122.18
+2502,2024-03-13,389,Particulier,Abonnement,4,158.4
+2503,2025-07-03,205,PME,Abonnement,3,154.27
+2504,2024-03-19,222,Grand compte,Support,1,91.59
+2505,2024-02-07,166,PME,Support,3,200.73
+2506,2024-03-25,109,Particulier,Support,3,184.64
+2507,2024-12-01,380,Grand compte,Formation,1,185.11
+2508,2025-03-28,196,Particulier,Abonnement,2,83.27
+2509,2024-10-24,270,PME,Abonnement,5,259.89
+2510,2024-03-30,15,PME,Support,4,273.81
+2511,2024-05-25,111,PME,Formation,1,151.69
+2512,2025-09-14,322,Particulier,Support,1,51.72
+2513,2025-12-03,36,Particulier,Abonnement,2,79.23
+2514,2025-07-04,41,PME,Formation,3,422.51
+2515,2024-03-16,324,Particulier,Licence,3,669.5
+2516,2025-08-21,124,Particulier,Abonnement,4,158.0
+2517,2025-05-20,110,PME,Abonnement,1,50.33
+2518,2025-01-19,227,PME,Support,1,61.85
+2519,2024-04-14,78,Particulier,Formation,4,466.49
+2520,2025-12-28,18,Particulier,Licence,5,932.29
+2521,2024-11-19,2,Grand compte,Licence,1,359.41
+2522,2024-02-02,32,Particulier,Support,2,113.6
+2523,2024-06-02,64,Particulier,Abonnement,4,160.94
+2524,2024-10-19,279,Particulier,Formation,1,121.22
+2525,2024-02-15,120,Particulier,Licence,5,872.84
+2526,2024-08-24,29,Grand compte,Formation,2,344.85
+2527,2024-12-07,6,Particulier,Licence,3,619.43
+2528,2025-11-23,191,Particulier,Support,2,120.82
+2529,2024-03-04,337,Particulier,Abonnement,4,130.55
+2530,2025-02-25,136,Particulier,Formation,1,114.56
+2531,2025-10-30,26,Particulier,Support,1,64.9
+2532,2025-08-11,92,Grand compte,Abonnement,3,188.47
+2533,2025-11-06,200,PME,Abonnement,5,263.39
+2534,2024-05-04,76,Particulier,Support,4,221.08
+2535,2025-08-07,392,Particulier,Abonnement,4,176.4
+2536,2025-12-15,306,Particulier,Abonnement,3,119.57
+2537,2024-08-26,138,Particulier,Support,1,67.64
+2538,2024-12-30,381,PME,Support,3,216.06
+2539,2025-01-22,131,Particulier,Formation,5,501.72
+2540,2024-12-26,57,PME,Licence,4,1025.22
+2541,2024-07-30,376,Grand compte,Licence,4,1157.42
+2542,2025-12-09,384,Particulier,Formation,2,232.78
+2543,2025-11-29,126,Grand compte,Abonnement,3,159.08
+2544,2024-10-04,238,Particulier,Support,4,271.15
+2545,2025-08-10,70,Particulier,Abonnement,4,153.33
+2546,2024-10-17,257,PME,Support,5,405.36
+2547,2025-08-03,277,Particulier,Formation,4,463.44
+2548,2025-03-02,284,PME,Abonnement,2,88.87
+2549,2024-12-09,228,PME,Formation,2,318.4
+2550,2024-04-03,282,Particulier,Formation,4,477.18
+2551,2025-04-22,223,Grand compte,Licence,5,1492.37
+2552,2024-08-22,328,Particulier,Abonnement,5,179.49
+2553,2024-06-07,72,PME,Licence,4,924.85
+2554,2024-05-21,194,Particulier,Abonnement,3,124.12
+2555,2025-12-17,167,Particulier,Support,5,268.82
+2556,2024-03-16,214,Particulier,Licence,5,956.87
+2557,2025-08-05,57,Grand compte,Abonnement,1,57.98
+2558,2025-09-24,130,Particulier,Abonnement,2,80.43
+2559,2024-01-23,382,Grand compte,Support,2,201.31
+2560,2025-03-06,43,Particulier,Support,3,175.68
+2561,2025-02-25,255,Particulier,Abonnement,2,75.58
+2562,2024-09-18,266,Particulier,Formation,2,292.73
+2563,2025-05-01,190,Particulier,Support,1,57.92
+2564,2024-10-25,14,Grand compte,Abonnement,1,59.08
+2565,2024-11-16,14,Particulier,Support,3,174.85
+2566,2024-11-11,111,PME,Formation,5,704.06
+2567,2025-08-07,42,PME,Abonnement,2,96.6
+2568,2025-04-07,38,Particulier,Support,2,128.84
+2569,2024-10-03,65,PME,Abonnement,2,99.1
+2570,2025-11-07,77,Grand compte,Licence,5,1629.25
+2571,2025-08-08,336,PME,Formation,4,624.11
+2572,2025-11-11,256,Particulier,Formation,4,488.01
+2573,2025-06-17,13,PME,Formation,1,148.34
+2574,2024-10-12,252,PME,Formation,5,783.86
+2575,2025-07-18,55,Particulier,Support,1,54.67
+2576,2024-08-28,169,PME,Support,5,431.95
+2577,2024-07-16,16,Particulier,Support,5,287.7
+2578,2024-11-25,37,PME,Formation,3,419.87
+2579,2025-12-08,54,Grand compte,Abonnement,5,270.91
+2580,2025-02-18,174,Grand compte,Abonnement,5,271.63
+2581,2024-10-07,186,PME,Support,3,232.83
+2582,2024-12-03,142,PME,Formation,4,680.61
+2583,2024-07-31,249,PME,Formation,3,412.4
+2584,2025-04-25,289,Particulier,Formation,3,370.0
+2585,2024-09-12,292,Particulier,Formation,2,244.23
+2586,2025-02-08,232,Particulier,Support,4,259.2
+2587,2024-09-26,219,Particulier,Support,2,141.3
+2588,2024-08-22,197,Grand compte,Licence,1,336.5
+2589,2025-12-09,96,Grand compte,Abonnement,2,117.71
+2590,2024-09-09,195,Particulier,Formation,1,125.08
+2591,2024-02-21,5,Particulier,Abonnement,5,210.05
+2592,2024-10-03,387,PME,Support,2,143.77
+2593,2025-01-23,149,Particulier,Support,4,218.96
+2594,2024-03-10,303,PME,Formation,3,404.39
+2595,2024-08-11,383,Grand compte,Support,2,196.53
+2596,2024-05-01,199,Particulier,Formation,2,264.03
+2597,2024-12-31,345,Particulier,Abonnement,5,196.68
+2598,2025-06-11,192,Particulier,Formation,3,367.52
+2599,2025-12-07,53,Particulier,Abonnement,3,131.49
+2600,2024-10-11,11,Particulier,Licence,4,690.93
+2601,2025-09-22,55,Particulier,Support,5,289.29
+2602,2024-06-05,378,Particulier,Support,4,278.74
+2603,2025-07-23,191,Particulier,Licence,3,614.37
+2604,2025-02-14,128,Particulier,Support,5,272.9
+2605,2025-07-07,179,PME,Formation,5,726.76
+2606,2025-07-05,103,Particulier,Abonnement,5,216.34
+2607,2025-01-23,349,Grand compte,Abonnement,1,47.78
+2608,2024-07-06,400,Particulier,Licence,5,1014.1
+2609,2025-01-19,34,Particulier,Licence,1,194.04
+2610,2025-08-26,288,Particulier,Support,4,208.47
+2611,2025-12-09,135,PME,Abonnement,4,193.26
+2612,2025-11-08,19,Particulier,Abonnement,2,79.13
+2613,2024-05-12,369,Particulier,Licence,1,199.61
+2614,2025-03-12,25,Particulier,Abonnement,5,194.43
+2615,2024-03-17,83,Grand compte,Formation,5,826.46
+2616,2025-05-03,11,Particulier,Abonnement,1,35.34
+2617,2025-12-25,189,Particulier,Abonnement,4,151.16
+2618,2024-02-08,240,Grand compte,Support,1,96.19
+2619,2025-04-24,129,Particulier,Licence,3,611.19
+2620,2025-11-21,29,Particulier,Support,2,119.34
+2621,2025-09-10,47,PME,Formation,4,528.09
+2622,2024-10-13,374,Particulier,Formation,3,349.23
+2623,2024-03-16,323,Particulier,Licence,3,635.38
+2624,2025-11-05,375,Particulier,Formation,4,499.38
+2625,2025-11-03,213,Particulier,Formation,3,346.26
+2626,2025-02-26,219,Grand compte,Support,1,71.2
+2627,2025-12-15,315,PME,Abonnement,3,136.23
+2628,2024-01-04,247,PME,Abonnement,4,184.59
+2629,2025-03-26,175,Particulier,Licence,3,
+2630,2024-01-29,117,PME,Support,1,69.62
+2631,2025-11-14,195,PME,Abonnement,1,51.14
+2632,2025-05-11,26,Particulier,Abonnement,2,79.76
+2633,2025-10-28,77,Grand compte,Licence,4,1295.01
+2634,2025-02-14,295,PME,Support,2,126.62
+2635,2024-03-01,348,PME,Support,5,351.21
+2636,2024-01-20,41,Particulier,Abonnement,2,67.59
+2637,2024-09-01,39,Particulier,Licence,3,579.52
+2638,2025-06-26,35,PME,Licence,4,879.69
+2639,2024-04-20,317,PME,Formation,4,635.04
+2640,2025-09-14,125,Particulier,Abonnement,1,41.31
+2641,2024-06-23,131,Particulier,Support,1,64.87
+2642,2024-12-28,5,PME,Support,1,69.53
+2643,2024-05-28,390,Particulier,Support,5,275.53
+2644,2024-12-06,174,Particulier,Licence,1,183.17
+2645,2024-11-26,319,PME,Support,1,73.53
+2646,2024-01-04,284,Particulier,Abonnement,4,183.17
+2647,2025-02-18,57,Particulier,Formation,4,495.84
+2648,2025-07-28,321,Particulier,Support,5,291.01
+2649,2025-11-14,221,Grand compte,Abonnement,2,118.19
+2650,2024-08-29,242,Particulier,Abonnement,4,159.6
+2651,2025-10-04,81,PME,Support,1,83.67
+2652,2025-10-03,339,Grand compte,Formation,3,593.29
+2653,2025-12-22,373,PME,Support,1,73.5
+2654,2024-09-29,163,Particulier,Abonnement,5,201.76
+2655,2025-09-13,37,Particulier,Abonnement,3,122.87
+2656,2025-02-16,340,Particulier,Abonnement,2,83.16
+2657,2024-02-12,355,PME,Support,5,348.1
+2658,2024-07-16,203,Grand compte,Support,1,83.92
+2659,2025-05-05,232,PME,Formation,4,623.56
+2660,2024-04-27,90,Particulier,Formation,3,360.63
+2661,2024-11-13,27,Particulier,Abonnement,4,172.14
+2662,2025-07-19,378,Grand compte,Support,2,203.7
+2663,2024-04-19,194,Particulier,Licence,5,1041.65
+2664,2024-12-28,110,PME,Support,3,222.2
+2665,2024-06-05,278,Particulier,Abonnement,3,150.72
+2666,2025-01-26,11,PME,Support,3,219.58
+2667,2024-06-24,32,PME,Abonnement,2,87.62
+2668,2025-12-05,98,Particulier,Abonnement,2,78.2
+2669,2024-02-25,181,Particulier,Abonnement,1,44.97
+2670,2025-12-04,147,PME,Abonnement,3,129.09
+2671,2025-08-01,75,Particulier,Abonnement,3,112.78
+2672,2025-09-16,141,Particulier,Support,2,130.62
+2673,2025-09-13,134,Particulier,Abonnement,5,195.65
+2674,2024-05-16,210,Particulier,Support,1,59.47
+2675,2025-11-10,226,PME,Licence,5,1303.04
+2676,2025-03-09,354,Particulier,Formation,5,565.59
+2677,2025-12-03,323,Particulier,Formation,1,105.9
+2678,2025-10-03,117,Grand compte,Support,4,320.0
+2679,2025-02-27,362,Particulier,Abonnement,2,83.72
+2680,2024-09-30,209,Particulier,Formation,1,122.49
+2681,2024-03-26,76,PME,Formation,5,680.11
+2682,2024-03-14,137,Grand compte,Support,1,81.66
+2683,2024-10-11,297,PME,Support,2,140.88
+2684,2025-08-15,329,PME,Support,1,78.43
+2685,2025-01-03,150,Particulier,Support,1,55.99
+2686,2024-12-17,64,Particulier,Formation,1,113.64
+2687,2024-06-27,77,Grand compte,Support,5,407.14
+2688,2025-02-16,42,Grand compte,Licence,1,291.18
+2689,2025-04-10,280,PME,Formation,4,591.58
+2690,2025-12-17,202,Particulier,Licence,1,233.84
+2691,2025-06-16,181,Particulier,Licence,5,1017.42
+2692,2025-03-19,269,Particulier,Formation,5,597.42
+2693,2025-10-26,332,Grand compte,Abonnement,4,256.57
+2694,2024-11-06,319,PME,Abonnement,5,253.37
+2695,2025-11-13,55,Particulier,Support,2,114.45
+2696,2024-09-27,236,Particulier,Abonnement,4,189.47
+2697,2024-04-03,354,Particulier,Formation,2,239.53
+2698,2024-10-31,310,Particulier,Support,4,244.54
+2699,2024-04-03,132,PME,Licence,5,1252.93
+2700,2024-03-27,158,PME,Support,4,295.97
+2701,2025-10-05,357,Particulier,Support,2,134.64
+2702,2025-08-03,14,PME,Formation,4,548.82
+2703,2024-06-10,211,Grand compte,Abonnement,5,318.8
+2704,2025-09-03,47,Particulier,Support,5,303.95
+2705,2024-02-20,358,Particulier,Abonnement,4,172.58
+2706,2024-07-26,16,Particulier,Formation,4,471.74
+2707,2025-05-30,10,Particulier,Licence,4,777.57
+2708,2024-08-09,132,Particulier,Formation,4,508.11
+2709,2025-06-17,81,PME,Support,1,74.06
+2710,2025-09-30,199,Particulier,Support,5,280.31
+2711,2024-02-18,120,Particulier,Support,1,66.46
+2712,2024-01-18,143,Grand compte,Formation,3,571.64
+2713,2025-11-17,226,Particulier,Formation,2,238.58
+2714,2025-01-14,225,PME,Abonnement,2,92.4
+2715,2025-01-04,374,PME,Support,2,148.19
+2716,2024-12-04,193,PME,Abonnement,1,50.54
+2717,2024-11-12,226,PME,Formation,3,376.91
+2718,2025-05-18,272,PME,Support,3,222.49
+2719,2025-02-27,70,PME,Abonnement,3,151.52
+2720,2024-04-29,267,Particulier,Formation,1,97.42
+2721,2025-04-02,345,Particulier,Abonnement,4,162.51
+2722,2025-05-02,128,Particulier,Abonnement,1,42.22
+2723,2024-03-23,72,Particulier,Abonnement,5,209.29
+2724,2024-10-02,139,Particulier,Abonnement,1,42.57
+2725,2025-07-31,111,Particulier,Licence,1,194.76
+2726,2025-03-27,235,Particulier,Licence,2,366.72
+2727,2024-04-09,346,Particulier,Support,3,154.08
+2728,2024-01-30,239,Particulier,Support,5,326.21
+2729,2025-02-28,51,PME,Support,3,228.15
+2730,2024-12-03,126,PME,Licence,2,524.87
+2731,2025-12-02,276,PME,Formation,5,678.23
+2732,2025-01-16,133,Particulier,Abonnement,2,85.14
+2733,2025-11-10,235,Grand compte,Support,5,395.9
+2734,2024-06-05,278,PME,Licence,3,
+2735,2024-11-22,132,Particulier,Abonnement,2,80.81
+2736,2024-04-11,259,Grand compte,Formation,2,379.1
+2737,2025-02-23,160,Particulier,Abonnement,1,45.37
+2738,2024-05-17,55,PME,Abonnement,4,188.31
+2739,2024-12-25,149,PME,Support,3,201.04
+2740,2024-09-08,177,Particulier,Abonnement,4,148.26
+2741,2024-05-15,1,PME,Licence,4,907.17
+2742,2024-03-11,358,Particulier,Support,1,70.66
+2743,2025-01-08,212,Particulier,Abonnement,5,212.11
+2744,2025-11-22,15,Particulier,Support,3,196.02
+2745,2024-05-25,348,Particulier,Support,4,235.41
+2746,2024-10-22,343,Particulier,Formation,1,119.98
+2747,2024-06-12,5,PME,Formation,4,608.22
+2748,2025-08-13,66,Particulier,Support,4,
+2749,2024-10-29,146,Particulier,Formation,2,
+2750,2025-12-12,203,PME,Abonnement,5,227.05
+2751,2024-06-27,291,Particulier,Abonnement,4,154.27
+2752,2024-02-28,170,Particulier,Abonnement,5,200.78
+2753,2025-03-01,245,PME,Support,5,336.33
+2754,2025-04-20,5,Grand compte,Abonnement,2,122.75
+2755,2025-12-24,264,Particulier,Support,5,306.83
+2756,2025-09-28,367,Particulier,Formation,4,473.12
+2757,2025-10-07,211,PME,Support,1,67.23
+2758,2025-04-07,182,Grand compte,Formation,4,726.05
+2759,2024-09-19,119,Particulier,Licence,3,575.76
+2760,2024-11-09,382,Particulier,Licence,5,1003.73
+2761,2024-04-07,14,Particulier,Abonnement,1,43.51
+2762,2024-11-10,115,PME,Support,2,129.57
+2763,2024-09-23,56,Grand compte,Abonnement,2,140.87
+2764,2024-01-27,347,PME,Support,3,214.75
+2765,2024-05-29,194,Particulier,Support,4,247.91
+2766,2025-01-25,369,PME,Abonnement,2,90.22
+2767,2024-09-26,267,PME,Abonnement,4,209.54
+2768,2025-12-26,223,Particulier,Formation,1,118.79
+2769,2024-12-15,207,PME,Support,2,139.46
+2770,2025-11-30,82,Particulier,Support,4,228.95
+2771,2025-04-27,225,Particulier,Abonnement,2,78.28
+2772,2024-01-30,275,PME,Abonnement,3,148.82
+2773,2024-05-28,387,Particulier,Formation,4,486.64
+2774,2025-05-30,220,Grand compte,Formation,2,358.85
+2775,2025-02-01,376,Particulier,Abonnement,5,188.62
+2776,2024-08-08,378,Particulier,Abonnement,5,187.69
+2777,2025-01-16,210,Particulier,Licence,5,963.13
+2778,2025-10-21,176,Particulier,Formation,3,373.26
+2779,2024-10-10,58,Particulier,Support,2,126.36
+2780,2024-02-02,108,PME,Formation,5,765.91
+2781,2024-08-15,352,Particulier,Formation,4,479.94
+2782,2025-11-14,56,Particulier,Support,4,247.36
+2783,2025-07-10,159,PME,Abonnement,1,47.35
+2784,2025-09-03,280,Particulier,Abonnement,5,172.12
+2785,2025-10-27,97,PME,Licence,3,707.56
+2786,2024-03-26,390,Particulier,Licence,4,775.98
+2787,2024-07-25,260,Particulier,Support,5,275.06
+2788,2024-02-13,12,PME,Abonnement,1,
+2789,2024-01-04,99,PME,Abonnement,1,48.52
+2790,2025-09-01,297,PME,Abonnement,1,43.65
+2791,2025-11-14,346,Particulier,Licence,4,754.51
+2792,2024-04-23,371,Particulier,Support,5,337.15
+2793,2025-06-11,341,PME,Formation,1,125.54
+2794,2025-01-25,30,PME,Licence,1,236.48
+2795,2024-02-20,292,PME,Abonnement,3,130.56
+2796,2025-10-30,45,PME,Formation,2,270.68
+2797,2025-09-28,31,PME,Abonnement,1,47.24
+2798,2025-02-18,277,Particulier,Abonnement,4,147.36
+2799,2025-05-31,192,PME,Licence,5,1255.1
+2800,2024-10-16,260,Particulier,Licence,2,443.24
+2801,2025-08-01,341,Particulier,Abonnement,1,42.69
+2802,2024-11-20,28,PME,Abonnement,2,103.87
+2803,2025-12-23,212,Particulier,Formation,1,106.75
+2804,2024-02-16,334,Particulier,Abonnement,3,117.67
+2805,2024-05-05,177,Grand compte,Formation,1,186.73
+2806,2025-12-08,210,PME,Formation,2,308.07
+2807,2024-07-29,200,Particulier,Abonnement,1,45.61
+2808,2024-08-14,363,Grand compte,Abonnement,4,260.53
+2809,2025-07-31,20,Particulier,Abonnement,3,128.61
+2810,2024-05-18,352,PME,Licence,1,290.57
+2811,2025-01-09,327,Particulier,Abonnement,1,40.31
+2812,2024-07-27,326,Particulier,Formation,3,351.68
+2813,2024-05-24,165,Particulier,Abonnement,3,121.7
+2814,2025-12-04,207,Particulier,Support,1,55.61
+2815,2024-05-25,148,Particulier,Abonnement,2,80.43
+2816,2024-03-09,101,Particulier,Abonnement,4,137.9
+2817,2025-05-06,351,PME,Support,3,206.85
+2818,2025-09-25,203,Particulier,Support,1,59.45
+2819,2024-04-03,290,Particulier,Abonnement,2,86.08
+2820,2025-05-31,41,Grand compte,Abonnement,1,65.33
+2821,2025-01-29,316,PME,Licence,5,1107.49
+2822,2025-08-28,264,Grand compte,Abonnement,5,349.82
+2823,2024-04-02,400,Particulier,Abonnement,2,80.95
+2824,2025-12-13,54,Particulier,Formation,2,244.61
+2825,2025-03-27,217,PME,Abonnement,1,41.79
+2826,2025-09-06,205,PME,Support,4,273.71
+2827,2024-09-21,216,Particulier,Support,5,325.2
+2828,2025-11-19,22,Grand compte,Formation,2,364.89
+2829,2025-04-02,190,PME,Support,4,290.48
+2830,2024-04-02,120,PME,Formation,2,293.23
+2831,2025-11-04,247,Particulier,Support,5,265.36
+2832,2025-08-03,93,PME,Abonnement,2,95.26
+2833,2024-08-07,175,Particulier,Abonnement,1,44.51
+2834,2025-02-02,249,Grand compte,Support,5,489.12
+2835,2024-10-10,26,Particulier,Abonnement,5,198.0
+2836,2025-01-31,315,Particulier,Abonnement,2,90.01
+2837,2025-12-05,287,Particulier,Abonnement,5,
+2838,2025-10-18,23,PME,Support,2,132.81
+2839,2024-06-06,26,Grand compte,Abonnement,2,137.89
+2840,2025-12-10,341,Grand compte,Support,3,282.48
+2841,2024-11-15,114,PME,Support,4,281.34
+2842,2025-05-29,345,Grand compte,Support,2,179.2
+2843,2025-07-11,200,PME,Abonnement,4,179.61
+2844,2024-12-18,137,Particulier,Support,4,245.31
+2845,2024-11-29,110,PME,Abonnement,1,48.76
+2846,2024-11-29,264,Particulier,Licence,5,1001.59
+2847,2025-09-21,44,Particulier,Support,1,54.43
+2848,2024-10-09,162,Particulier,Abonnement,3,122.54
+2849,2024-07-23,139,Particulier,Support,3,172.38
+2850,2024-09-20,62,Grand compte,Formation,3,497.41
+2851,2024-05-22,142,Grand compte,Formation,1,198.24
+2852,2024-10-12,212,Particulier,Formation,2,281.66
+2853,2024-03-24,272,PME,Support,1,83.19
+2854,2024-03-06,35,Particulier,Support,5,315.6
+2855,2025-06-12,349,Particulier,Licence,1,195.75
+2856,2024-02-26,352,Particulier,Abonnement,3,119.32
+2857,2025-02-18,277,Particulier,Support,2,123.89
+2858,2025-07-23,370,Particulier,Support,1,57.98
+2859,2025-06-12,172,Particulier,Support,2,132.66
+2860,2024-11-21,329,Particulier,Formation,5,502.29
+2861,2024-05-21,291,Particulier,Abonnement,3,117.16
+2862,2025-11-10,226,Grand compte,Support,5,478.84
+2863,2025-09-01,72,Particulier,Abonnement,5,186.48
+2864,2025-03-22,224,Particulier,Abonnement,3,117.69
+2865,2024-03-04,361,Particulier,Formation,5,628.49
+2866,2024-01-26,394,Particulier,Abonnement,2,89.72
+2867,2024-08-18,180,Particulier,Abonnement,3,107.58
+2868,2024-04-24,100,Particulier,Abonnement,4,142.49
+2869,2025-09-20,300,PME,Support,3,199.65
+2870,2024-05-30,31,PME,Licence,5,1052.4
+2871,2024-07-25,61,PME,Formation,1,127.11
+2872,2025-12-13,225,PME,Abonnement,3,132.79
+2873,2025-08-20,397,Particulier,Support,4,263.68
+2874,2024-06-08,132,Particulier,Abonnement,2,78.0
+2875,2024-10-06,178,Particulier,Licence,5,1002.51
+2876,2025-01-11,129,Particulier,Formation,2,221.66
+2877,2025-04-29,177,Particulier,Abonnement,2,84.05
+2878,2025-11-14,3,Particulier,Formation,2,276.01
+2879,2025-09-27,238,PME,Abonnement,4,178.37
+2880,2025-12-14,239,Particulier,Support,1,68.28
+2881,2024-01-30,127,Particulier,Abonnement,1,41.17
+2882,2024-06-21,106,PME,Licence,4,961.3
+2883,2025-02-14,305,Particulier,Support,2,123.84
+2884,2024-02-05,76,PME,Licence,1,247.5
+2885,2024-09-16,19,Grand compte,Licence,2,689.14
+2886,2024-04-22,17,Grand compte,Abonnement,2,124.99
+2887,2025-11-12,353,Particulier,Formation,1,125.19
+2888,2024-02-16,146,Particulier,Support,5,289.88
+2889,2024-04-18,41,PME,Abonnement,1,51.22
+2890,2024-05-22,352,PME,Abonnement,3,132.98
+2891,2024-04-18,60,PME,Abonnement,2,96.84
+2892,2025-02-19,135,Particulier,Abonnement,2,98.45
+2893,2024-09-22,9,Particulier,Licence,1,159.93
+2894,2025-10-28,272,Particulier,Formation,5,611.19
+2895,2024-07-09,280,Particulier,Support,5,306.52
+2896,2025-01-27,303,Particulier,Licence,1,196.35
+2897,2025-04-26,106,Grand compte,Abonnement,1,59.02
+2898,2025-04-01,132,Particulier,Support,5,302.19
+2899,2025-08-04,376,PME,Abonnement,3,141.1
+2900,2024-05-27,329,Grand compte,Abonnement,1,61.07
+2901,2025-01-05,15,Particulier,Abonnement,1,38.44
+2902,2025-08-07,277,Particulier,Abonnement,3,139.41
+2903,2025-09-22,326,PME,Formation,3,423.29
+2904,2025-03-26,224,Particulier,Formation,4,501.87
+2905,2025-04-20,256,Particulier,Abonnement,1,37.86
+2906,2025-09-22,1,PME,Abonnement,2,103.17
+2907,2025-04-01,13,PME,Support,2,152.45
+2908,2025-11-23,15,PME,Abonnement,3,148.83
+2909,2024-04-03,64,Grand compte,Support,2,165.21
+2910,2024-09-10,397,Particulier,Licence,2,375.92
+2911,2024-03-22,254,PME,Support,5,408.56
+2912,2024-03-07,313,PME,Formation,3,405.61
+2913,2024-12-10,119,PME,Support,3,227.07
+2914,2024-06-13,376,PME,Support,1,66.56
+2915,2024-10-24,80,PME,Licence,1,259.36
+2916,2024-11-15,361,Grand compte,Licence,4,1134.11
+2917,2025-03-29,13,Particulier,Formation,5,553.77
+2918,2025-11-21,9,PME,Support,3,203.69
+2919,2025-09-12,32,Particulier,Support,1,57.34
+2920,2024-10-03,317,PME,Abonnement,3,148.66
+2921,2024-08-25,103,PME,Formation,2,289.6
+2922,2025-07-16,181,PME,Support,1,65.69
+2923,2024-03-31,189,Particulier,Support,1,59.87
+2924,2025-01-29,316,Particulier,Abonnement,3,109.02
+2925,2024-11-04,140,Particulier,Abonnement,3,126.18
+2926,2024-05-13,3,Particulier,Abonnement,3,127.94
+2927,2025-03-26,155,Particulier,Formation,4,479.08
+2928,2024-08-22,116,Grand compte,Licence,2,613.04
+2929,2024-05-15,293,Particulier,Licence,2,456.07
+2930,2025-04-21,301,Grand compte,Abonnement,4,236.97
+2931,2024-05-07,37,Particulier,Abonnement,1,36.98
+2932,2025-05-06,318,PME,Support,1,75.34
+2933,2024-04-28,29,PME,Support,5,327.38
+2934,2024-11-13,248,PME,Formation,2,283.15
+2935,2025-08-12,156,PME,Abonnement,1,45.7
+2936,2024-06-15,121,PME,Abonnement,4,181.22
+2937,2025-07-14,194,Grand compte,Support,3,264.6
+2938,2025-06-10,125,PME,Support,1,77.18
+2939,2025-10-20,318,Particulier,Abonnement,5,217.69
+2940,2024-05-03,387,Particulier,Licence,2,429.64
+2941,2025-06-06,327,PME,Support,4,295.75
+2942,2025-11-14,176,Particulier,Licence,4,783.51
+2943,2025-07-11,202,Particulier,Formation,5,486.82
+2944,2024-05-17,179,PME,Formation,4,592.94
+2945,2025-08-23,318,Particulier,Licence,4,654.12
+2946,2024-03-19,221,PME,Licence,1,203.07
+2947,2025-03-05,188,PME,Licence,5,1184.48
+2948,2024-12-29,164,PME,Support,1,73.52
+2949,2025-01-22,151,PME,Formation,2,277.61
+2950,2025-01-14,222,Grand compte,Abonnement,3,202.11
+2951,2024-01-23,276,PME,Abonnement,2,99.55
+2952,2025-01-05,173,Grand compte,Licence,3,882.04
+2953,2025-11-14,323,Particulier,Abonnement,1,44.44
+2954,2024-11-14,331,PME,Support,3,243.05
+2955,2024-07-21,172,PME,Licence,2,499.68
+2956,2025-12-27,364,Particulier,Licence,4,750.38
+2957,2024-03-13,70,Particulier,Licence,3,573.59
+2958,2024-12-20,373,PME,Formation,4,509.33
+2959,2025-01-09,118,Particulier,Formation,1,119.59
+2960,2024-12-14,226,Grand compte,Licence,5,1374.0
+2961,2025-11-03,114,Particulier,Abonnement,2,77.89
+2962,2024-11-03,177,Particulier,Abonnement,2,81.67
+2963,2025-12-11,137,PME,Licence,3,605.74
+2964,2024-02-18,283,Particulier,Support,1,53.93
+2965,2025-06-19,33,Particulier,Formation,5,575.67
+2966,2025-03-08,336,PME,Abonnement,2,95.6
+2967,2024-06-24,362,Particulier,Formation,5,576.29
+2968,2024-06-15,226,Particulier,Licence,1,195.67
+2969,2025-06-09,219,PME,Support,5,339.66
+2970,2025-04-10,280,PME,Formation,2,254.61
+2971,2025-03-22,80,PME,Formation,4,551.36
+2972,2024-02-07,300,Particulier,Licence,5,982.95
+2973,2025-03-12,88,Particulier,Licence,1,195.03
+2974,2025-12-17,271,Grand compte,Formation,2,363.22
+2975,2024-01-13,123,PME,Support,5,372.06
+2976,2024-12-08,299,Particulier,Abonnement,1,42.18
+2977,2024-12-26,317,PME,Formation,1,136.7
+2978,2025-10-16,84,Particulier,Abonnement,3,104.87
+2979,2024-07-25,247,PME,Formation,1,158.65
+2980,2024-12-13,200,PME,Formation,5,742.2
+2981,2025-06-07,118,Grand compte,Abonnement,5,277.09
+2982,2024-02-14,236,Grand compte,Abonnement,1,61.33
+2983,2025-08-07,398,Particulier,Abonnement,1,43.42
+2984,2025-08-23,1,PME,Abonnement,4,218.56
+2985,2025-06-09,383,Particulier,Support,3,183.61
+2986,2025-04-18,343,PME,Abonnement,5,260.35
+2987,2025-06-29,212,PME,Abonnement,5,216.78
+2988,2025-07-24,245,Particulier,Licence,3,598.28
+2989,2025-10-21,148,Particulier,Abonnement,2,77.86
+2990,2024-11-08,52,Particulier,Licence,4,821.92
+2991,2024-11-28,229,Particulier,Support,4,270.93
+2992,2025-04-10,327,Particulier,Support,3,183.6
+2993,2024-05-20,93,Grand compte,Formation,2,332.99
+2994,2025-09-17,287,Particulier,Abonnement,2,71.91
+2995,2025-07-16,300,PME,Support,3,
+2996,2025-04-05,304,PME,Support,3,224.88
+2997,2024-08-08,137,PME,Abonnement,3,149.16
+2998,2024-09-10,157,Particulier,Support,1,58.35
+2999,2024-11-13,167,Grand compte,Formation,5,919.29
+3000,2025-04-28,342,PME,Licence,4,884.2
+3001,2025-07-21,361,PME,Support,5,371.15
+3002,2025-05-05,166,Grand compte,Abonnement,5,271.8
+3003,2025-11-09,388,PME,Licence,4,932.41
+3004,2025-12-02,229,Particulier,Licence,2,379.43
+3005,2025-05-29,155,Grand compte,Support,4,266.19
+3006,2024-09-27,1,Particulier,Abonnement,3,116.67
+3007,2025-03-13,245,PME,Support,5,334.11
+3008,2024-11-06,258,Particulier,Support,2,117.98
+3009,2025-04-04,388,Particulier,Abonnement,1,40.01
+3010,2025-08-15,288,Particulier,Licence,1,228.29
+3011,2024-09-26,12,Particulier,Formation,1,122.93
+3012,2025-01-04,227,Grand compte,Licence,4,1232.07
+3013,2024-02-03,298,Particulier,Support,1,62.38
+3014,2025-06-21,199,PME,Abonnement,1,51.35
+3015,2024-12-23,172,Particulier,Licence,2,414.54
+3016,2024-12-01,324,Grand compte,Formation,4,736.23
+3017,2025-01-23,245,Particulier,Formation,3,380.48
+3018,2024-06-06,273,Particulier,Formation,2,193.41
+3019,2025-03-12,186,Particulier,Abonnement,2,93.37
+3020,2025-06-27,112,PME,Support,5,405.78
+3021,2024-09-12,208,Grand compte,Formation,3,549.38
+3022,2024-04-05,384,Grand compte,Licence,2,532.18
+3023,2024-10-09,242,Particulier,Licence,4,877.46
+3024,2024-05-24,283,Particulier,Support,2,113.34
+3025,2024-09-29,50,Particulier,Abonnement,2,83.42
+3026,2025-04-02,396,Particulier,Support,4,215.37
+3027,2024-03-23,98,PME,Abonnement,2,113.1
+3028,2025-06-29,389,Particulier,Support,3,159.23
+3029,2024-06-12,179,PME,Formation,4,579.18
+3030,2025-10-15,368,Grand compte,Licence,2,498.14
+3031,2025-06-18,357,Particulier,Abonnement,1,39.87
+3032,2024-07-17,303,Particulier,Abonnement,5,193.2
+3033,2025-02-15,367,Particulier,Licence,2,436.39
+3034,2024-03-21,244,Particulier,Formation,2,231.83
+3035,2024-03-13,340,Particulier,Licence,3,654.65
+3036,2025-11-28,69,PME,Licence,1,220.34
+3037,2025-08-08,29,Particulier,Formation,1,117.29
+3038,2024-04-22,218,PME,Formation,3,422.95
+3039,2024-07-25,324,Grand compte,Formation,5,935.68
+3040,2024-05-24,307,Grand compte,Support,3,277.96
+3041,2024-10-15,212,PME,Licence,3,761.6
+3042,2024-07-31,209,Particulier,Abonnement,4,163.42
+3043,2024-08-27,244,Particulier,Support,5,315.87
+3044,2025-01-21,348,Particulier,Abonnement,5,185.63
+3045,2024-05-18,337,Grand compte,Support,1,92.8
+3046,2025-10-06,44,Grand compte,Support,3,304.74
+3047,2025-06-15,239,Particulier,Licence,3,519.36
+3048,2025-07-09,153,Particulier,Formation,2,249.39
+3049,2024-05-03,320,Particulier,Abonnement,5,210.83
+3050,2025-05-31,203,Particulier,Abonnement,2,89.35
+3051,2025-09-02,397,Grand compte,Abonnement,5,317.43
+3052,2024-05-07,173,Particulier,Abonnement,1,40.32
+3053,2025-07-02,272,Particulier,Licence,4,827.52
+3054,2024-09-18,44,Particulier,Formation,4,451.77
+3055,2025-07-28,373,Particulier,Abonnement,3,116.28
+3056,2024-12-15,62,Particulier,Support,1,53.59
+3057,2025-08-08,152,Grand compte,Abonnement,1,67.14
+3058,2024-04-17,336,Particulier,Abonnement,4,165.76
+3059,2024-10-11,387,PME,Licence,5,1112.05
+3060,2024-07-18,194,Particulier,Abonnement,3,122.61
+3061,2024-06-30,194,Particulier,Formation,1,131.13
+3062,2024-08-13,20,Particulier,Formation,4,518.12
+3063,2024-10-06,392,Particulier,Abonnement,3,111.09
+3064,2024-04-02,7,Particulier,Abonnement,1,29.97
+3065,2025-05-31,11,Particulier,Abonnement,2,82.53
+3066,2025-02-05,190,PME,Abonnement,2,89.19
+3067,2025-08-28,2,PME,Licence,5,1259.74
+3068,2025-05-29,66,Grand compte,Formation,5,968.42
+3069,2024-04-18,252,Particulier,Formation,1,130.69
+3070,2024-02-21,283,PME,Abonnement,3,164.1
+3071,2024-11-04,120,PME,Licence,1,263.74
+3072,2024-12-17,319,Particulier,Abonnement,3,136.8
+3073,2024-06-24,244,Particulier,Licence,1,222.06
+3074,2025-07-25,92,Particulier,Abonnement,4,178.77
+3075,2025-02-28,285,PME,Licence,1,239.22
+3076,2025-06-30,237,Particulier,Abonnement,5,179.37
+3077,2024-03-20,325,Particulier,Abonnement,2,95.89
+3078,2025-08-18,62,Grand compte,Formation,2,361.81
+3079,2024-05-30,93,Particulier,Abonnement,5,219.66
+3080,2024-11-23,122,Grand compte,Support,5,430.19
+3081,2024-11-16,137,PME,Support,1,77.55
+3082,2025-08-22,356,PME,Support,1,57.92
+3083,2024-07-21,294,PME,Abonnement,5,232.12
+3084,2024-06-24,218,Particulier,Support,5,297.64
+3085,2024-09-04,217,PME,Abonnement,3,149.33
+3086,2024-09-20,355,PME,Licence,1,260.58
+3087,2024-05-12,179,PME,Support,1,65.7
+3088,2024-05-08,91,Particulier,Formation,2,252.67
+3089,2024-06-17,55,Particulier,Licence,4,878.51
+3090,2024-12-07,133,Particulier,Formation,1,142.52
+3091,2024-09-07,262,Particulier,Formation,4,507.13
+3092,2024-10-13,189,PME,Abonnement,5,231.18
+3093,2025-06-08,169,PME,Support,1,64.67
+3094,2024-06-24,193,PME,Abonnement,5,275.12
+3095,2025-10-26,390,PME,Abonnement,5,254.16
+3096,2025-07-02,400,Particulier,Support,2,119.79
+3097,2024-05-07,65,Particulier,Abonnement,1,34.82
+3098,2024-08-17,46,Particulier,Support,2,111.06
+3099,2024-05-13,98,Particulier,Abonnement,2,84.04
+3100,2024-07-18,341,Particulier,Formation,2,246.79
+3101,2024-09-23,184,Particulier,Licence,5,844.29
+3102,2024-04-05,346,Particulier,Abonnement,1,42.02
+3103,2024-01-11,259,PME,Support,2,125.93
+3104,2024-11-16,222,Particulier,Support,4,266.0
+3105,2025-05-26,113,Particulier,Licence,1,203.34
+3106,2024-08-09,138,Particulier,Abonnement,1,38.52
+3107,2025-09-20,60,PME,Support,2,155.41
+3108,2024-09-26,208,PME,Formation,5,740.36
+3109,2025-10-19,113,Particulier,Formation,5,663.6
+3110,2024-06-21,117,Particulier,Abonnement,5,201.29
+3111,2025-01-28,16,Grand compte,Abonnement,5,303.33
+3112,2025-07-11,320,PME,Formation,1,140.71
+3113,2024-02-13,376,PME,Abonnement,3,147.03
+3114,2025-11-09,200,Particulier,Formation,3,408.9
+3115,2024-09-23,215,PME,Support,1,69.1
+3116,2024-12-29,371,Grand compte,Formation,5,946.65
+3117,2025-04-03,205,Particulier,Abonnement,4,148.73
+3118,2025-04-14,250,PME,Abonnement,5,200.32
+3119,2024-01-18,172,Particulier,Formation,2,243.98
+3120,2025-09-25,206,PME,Support,4,296.53
+3121,2025-03-31,209,Particulier,Licence,1,198.24
+3122,2025-12-30,285,Particulier,Formation,1,105.64
+3123,2024-12-10,242,Grand compte,Support,4,368.76
+3124,2025-03-23,202,Grand compte,Abonnement,1,61.28
+3125,2024-11-17,31,Particulier,Licence,2,371.56
+3126,2025-10-11,362,Grand compte,Abonnement,4,214.01
+3127,2025-08-30,356,Particulier,Abonnement,3,117.58
+3128,2025-10-25,74,Particulier,Abonnement,2,84.18
+3129,2025-01-03,118,Grand compte,Abonnement,2,124.0
+3130,2025-07-31,390,Particulier,Support,4,223.09
+3131,2024-09-18,129,Particulier,Abonnement,5,202.19
+3132,2024-12-02,325,PME,Abonnement,4,205.63
+3133,2025-07-08,315,Particulier,Abonnement,2,72.49
+3134,2024-02-29,345,Particulier,Licence,3,603.03
+3135,2025-06-02,7,Particulier,Support,1,66.43
+3136,2024-01-12,194,PME,Licence,1,215.52
+3137,2025-02-27,227,Particulier,Licence,2,436.98
+3138,2024-12-14,335,Particulier,Licence,2,451.81
+3139,2024-12-08,90,PME,Formation,5,707.2
+3140,2024-12-26,123,Particulier,Abonnement,5,194.51
+3141,2024-12-25,72,Particulier,Abonnement,1,43.31
+3142,2024-10-24,305,PME,Abonnement,2,94.57
+3143,2024-11-25,400,PME,Support,1,58.45
+3144,2025-02-18,57,Particulier,Abonnement,1,39.68
+3145,2025-07-11,94,Grand compte,Abonnement,2,124.52
+3146,2025-02-07,123,PME,Support,5,381.31
+3147,2025-04-14,356,Particulier,Abonnement,1,37.18
+3148,2025-09-02,179,PME,Abonnement,4,187.86
+3149,2025-12-23,113,PME,Abonnement,2,103.5
+3150,2024-03-20,129,PME,Support,3,214.96
+3151,2025-06-04,240,PME,Abonnement,5,210.65
+3152,2024-06-13,155,PME,Abonnement,5,263.76
+3153,2024-05-23,57,Grand compte,Abonnement,5,294.86
+3154,2025-08-01,329,PME,Support,3,234.86
+3155,2024-02-20,169,PME,Abonnement,1,42.64
+3156,2025-09-10,103,PME,Abonnement,5,237.68
+3157,2025-07-16,292,Grand compte,Licence,5,1561.17
+3158,2025-12-27,299,Grand compte,Licence,5,1489.54
+3159,2025-05-02,63,Particulier,Abonnement,3,108.64
+3160,2025-09-29,30,Particulier,Abonnement,2,64.72
+3161,2024-03-27,19,PME,Abonnement,1,53.85
+3162,2025-10-11,307,Particulier,Support,2,122.38
+3163,2024-04-27,251,PME,Abonnement,2,104.96
+3164,2024-08-17,317,PME,Licence,2,515.66
+3165,2024-04-03,251,Grand compte,Support,5,471.49
+3166,2024-10-20,161,Particulier,Formation,4,467.66
+3167,2025-06-30,236,PME,Abonnement,2,99.76
+3168,2024-07-14,289,Particulier,Licence,4,891.68
+3169,2025-08-23,160,Particulier,Support,4,241.59
+3170,2025-03-18,367,Particulier,Support,3,207.38
+3171,2025-04-04,360,Particulier,Abonnement,5,176.01
+3172,2025-11-16,321,Particulier,Support,5,261.43
+3173,2024-11-11,397,PME,Support,3,233.07
+3174,2024-09-08,157,PME,Licence,3,672.84
+3175,2025-12-27,46,Particulier,Formation,2,279.23
+3176,2025-02-10,194,Particulier,Formation,4,531.35
+3177,2025-03-24,299,Particulier,Formation,5,676.2
+3178,2024-08-04,312,Grand compte,Support,4,385.47
+3179,2024-06-06,156,Grand compte,Licence,2,555.76
+3180,2024-05-03,118,Particulier,Formation,3,312.21
+3181,2024-06-12,179,Particulier,Abonnement,4,
+3182,2024-05-22,322,Particulier,Abonnement,1,35.2
+3183,2025-06-29,25,PME,Support,3,243.39
+3184,2024-02-12,132,Particulier,Licence,4,842.86
+3185,2025-04-04,92,Particulier,Abonnement,3,119.27
+3186,2025-11-23,323,Particulier,Abonnement,4,165.66
+3187,2025-07-12,188,Particulier,Licence,5,1037.22
+3188,2024-10-21,35,Particulier,Formation,1,118.06
+3189,2024-02-13,105,Particulier,Abonnement,3,133.69
+3190,2025-08-31,18,PME,Abonnement,4,
+3191,2024-01-03,191,Particulier,Formation,5,607.47
+3192,2025-05-12,400,Particulier,Abonnement,3,114.24
+3193,2025-05-04,227,PME,Support,5,397.61
+3194,2024-05-20,348,Particulier,Formation,2,201.17
+3195,2025-06-24,298,PME,Support,3,223.67
+3196,2024-05-08,354,Grand compte,Support,5,476.62
+3197,2024-06-13,125,Particulier,Abonnement,3,112.05
+3198,2025-08-15,381,Grand compte,Abonnement,2,129.35
+3199,2025-12-15,96,PME,Abonnement,3,143.7
+3200,2024-07-12,176,PME,Abonnement,4,183.62
+3201,2025-11-03,273,Particulier,Support,5,323.12
+3202,2025-10-28,115,Particulier,Abonnement,4,146.1
+3203,2025-07-15,106,Particulier,Support,1,64.17
+3204,2024-04-12,53,Grand compte,Abonnement,1,50.48
+3205,2024-08-06,2,PME,Abonnement,5,245.49
+3206,2025-05-09,201,Particulier,Abonnement,3,120.42
+3207,2025-12-30,395,Particulier,Formation,2,229.64
+3208,2025-08-17,89,Particulier,Support,2,123.74
+3209,2024-11-02,177,Particulier,Support,1,59.62
+3210,2024-06-20,375,PME,Abonnement,1,52.05
+3211,2025-12-02,309,Particulier,Support,4,250.75
+3212,2024-07-20,2,PME,Support,4,298.43
+3213,2024-09-06,201,PME,Abonnement,3,147.36
+3214,2025-12-05,58,PME,Abonnement,1,46.19
+3215,2025-02-14,99,PME,Abonnement,4,187.36
+3216,2024-07-12,99,Particulier,Abonnement,5,203.97
+3217,2024-01-04,245,PME,Licence,5,1183.36
+3218,2024-11-09,80,PME,Abonnement,2,104.54
+3219,2025-12-20,101,Particulier,Formation,4,483.59
+3220,2024-11-11,91,Particulier,Support,2,123.61
+3221,2025-05-25,143,Particulier,Abonnement,5,177.56
+3222,2024-07-03,263,Particulier,Support,5,322.64
+3223,2025-07-20,160,Particulier,Abonnement,2,76.28
+3224,2025-07-20,132,Particulier,Formation,3,329.97
+3225,2025-03-20,208,PME,Abonnement,2,108.64
+3226,2025-07-17,247,Particulier,Abonnement,4,168.93
+3227,2025-02-26,7,Particulier,Abonnement,2,86.25
+3228,2024-10-03,357,Particulier,Support,4,248.73
+3229,2025-06-22,367,Particulier,Support,5,297.76
+3230,2025-09-01,242,Grand compte,Support,5,439.93
+3231,2025-09-05,230,Particulier,Abonnement,1,42.49
+3232,2024-06-04,278,Particulier,Licence,1,218.12
+3233,2025-05-08,177,Particulier,Abonnement,5,198.91
+3234,2024-01-04,147,Particulier,Support,1,69.95
+3235,2025-02-21,142,PME,Support,3,212.59
+3236,2025-02-20,64,PME,Formation,5,639.71
+3237,2024-09-22,337,Particulier,Formation,3,310.42
+3238,2025-12-26,129,PME,Support,1,62.28
+3239,2025-10-06,114,Particulier,Support,5,290.07
+3240,2024-01-29,386,PME,Abonnement,4,188.44
+3241,2024-06-01,203,PME,Support,2,151.86
+3242,2024-05-31,249,Particulier,Abonnement,4,159.63
+3243,2025-10-17,99,PME,Formation,4,614.86
+3244,2025-01-13,112,PME,Support,3,216.78
+3245,2025-06-16,292,Particulier,Support,5,300.32
+3246,2025-08-14,181,Grand compte,Formation,4,686.74
+3247,2025-07-14,60,Grand compte,Abonnement,2,133.66
+3248,2024-03-06,335,Particulier,Formation,5,526.49
+3249,2024-04-12,162,PME,Abonnement,5,245.79
+3250,2024-10-15,268,PME,Formation,1,141.91
+3251,2024-09-04,137,Particulier,Formation,2,255.01
+3252,2025-06-29,225,Particulier,Support,4,239.6
+3253,2024-04-24,311,Grand compte,Abonnement,5,300.21
+3254,2024-09-28,355,PME,Abonnement,4,187.9
+3255,2024-06-21,83,Particulier,Formation,3,400.13
+3256,2024-05-17,269,Particulier,Abonnement,2,80.02
+3257,2024-05-06,366,Particulier,Abonnement,1,46.3
+3258,2024-05-22,258,Grand compte,Abonnement,5,306.53
+3259,2025-02-15,58,PME,Formation,3,432.75
+3260,2024-10-26,76,Particulier,Abonnement,3,118.6
+3261,2024-11-13,82,Grand compte,Formation,5,940.63
+3262,2024-12-15,43,PME,Licence,1,228.7
+3263,2025-06-24,302,Particulier,Formation,2,242.8
+3264,2025-09-21,387,Particulier,Abonnement,5,200.13
+3265,2025-01-19,207,PME,Abonnement,2,98.5
+3266,2025-04-13,240,Particulier,Abonnement,5,205.6
+3267,2025-06-23,310,Particulier,Formation,5,619.3
+3268,2025-05-18,167,PME,Support,1,72.55
+3269,2024-04-08,189,Grand compte,Abonnement,3,202.59
+3270,2025-12-18,236,Particulier,Abonnement,4,165.41
+3271,2024-04-30,122,Grand compte,Abonnement,3,217.53
+3272,2024-10-27,25,Grand compte,Abonnement,2,120.48
+3273,2025-04-21,228,Particulier,Licence,1,215.34
+3274,2024-10-21,329,Particulier,Abonnement,1,37.68
+3275,2024-06-26,30,PME,Abonnement,1,53.38
+3276,2025-11-05,87,PME,Abonnement,2,90.59
+3277,2024-02-22,106,Particulier,Abonnement,2,82.92
+3278,2024-06-28,322,PME,Abonnement,5,234.92
+3279,2025-12-25,202,PME,Formation,3,447.62
+3280,2025-06-16,214,PME,Abonnement,1,47.1
+3281,2024-03-04,259,PME,Abonnement,1,44.97
+3282,2025-07-04,111,Particulier,Support,1,58.7
+3283,2025-12-08,286,Particulier,Formation,2,269.6
+3284,2024-03-12,13,Particulier,Abonnement,4,165.98
+3285,2024-10-29,46,Grand compte,Licence,1,269.07
+3286,2024-12-07,327,Grand compte,Abonnement,3,195.77
+3287,2024-04-05,264,PME,Licence,3,668.65
+3288,2024-05-26,71,Particulier,Licence,1,211.89
+3289,2024-05-06,176,PME,Formation,1,150.37
+3290,2024-05-15,21,Particulier,Abonnement,2,83.94
+3291,2024-10-21,269,Particulier,Support,1,68.9
+3292,2024-12-04,303,Particulier,Abonnement,4,149.39
+3293,2024-06-22,112,PME,Abonnement,5,251.73
+3294,2024-07-30,141,Particulier,Formation,4,528.37
+3295,2024-05-20,95,PME,Formation,4,546.35
+3296,2025-08-04,156,Grand compte,Licence,4,1128.41
+3297,2024-06-03,109,PME,Support,5,351.73
+3298,2025-10-24,99,Particulier,Licence,1,205.2
+3299,2025-01-28,173,Grand compte,Support,5,399.22
+3300,2025-08-08,344,PME,Support,3,225.53
+3301,2025-04-09,306,Particulier,Formation,3,319.44
+3302,2024-07-13,119,PME,Licence,4,1059.33
+3303,2025-03-14,378,Grand compte,Licence,3,936.99
+3304,2024-07-19,85,Particulier,Support,2,138.37
+3305,2024-03-27,365,Particulier,Support,1,63.21
+3306,2024-07-04,124,Particulier,Formation,1,117.07
+3307,2024-07-20,217,Particulier,Abonnement,1,37.44
+3308,2024-04-08,82,PME,Licence,2,489.17
+3309,2024-01-18,305,Particulier,Abonnement,4,159.61
+3310,2025-11-19,128,Particulier,Abonnement,2,87.59
+3311,2025-01-09,350,Particulier,Formation,3,333.26
+3312,2024-10-20,34,Particulier,Formation,1,139.4
+3313,2025-11-09,201,Particulier,Formation,3,396.71
+3314,2024-06-13,64,PME,Abonnement,5,236.09
+3315,2024-10-21,356,Particulier,Abonnement,2,91.51
+3316,2025-09-10,167,Particulier,Abonnement,3,112.48
+3317,2025-04-06,270,Grand compte,Abonnement,5,304.93
+3318,2024-10-18,352,Grand compte,Abonnement,4,215.49
+3319,2024-07-05,215,Particulier,Support,2,137.73
+3320,2024-01-26,23,Particulier,Abonnement,1,34.73
+3321,2024-03-03,89,Particulier,Abonnement,5,176.95
+3322,2024-04-28,86,Particulier,Abonnement,4,151.88
+3323,2025-07-28,366,Particulier,Formation,1,132.69
+3324,2025-04-11,364,Grand compte,Licence,3,968.75
+3325,2024-11-12,191,PME,Abonnement,5,242.34
+3326,2025-07-25,357,Particulier,Abonnement,5,216.3
+3327,2024-04-27,99,Grand compte,Support,1,89.17
+3328,2024-06-02,272,Particulier,Abonnement,3,124.06
+3329,2024-10-13,157,Particulier,Support,5,339.64
+3330,2025-10-31,97,Particulier,Licence,4,784.22
+3331,2025-03-24,101,Particulier,Support,3,168.96
+3332,2025-09-13,168,Grand compte,Licence,2,622.58
+3333,2024-06-30,136,Particulier,Formation,4,508.43
+3334,2025-09-11,85,PME,Formation,3,435.82
+3335,2024-02-22,134,Particulier,Abonnement,3,129.63
+3336,2024-06-15,52,Grand compte,Abonnement,5,295.17
+3337,2025-01-16,388,PME,Abonnement,2,96.98
+3338,2024-02-06,152,Particulier,Formation,4,494.38
+3339,2025-09-18,43,Particulier,Formation,1,122.76
+3340,2025-09-25,231,Grand compte,Abonnement,4,270.97
+3341,2025-01-30,354,Particulier,Support,3,185.32
+3342,2024-08-11,144,Particulier,Abonnement,5,195.14
+3343,2024-03-13,339,Grand compte,Abonnement,2,125.07
+3344,2025-03-27,245,Particulier,Abonnement,5,216.14
+3345,2025-01-27,296,Particulier,Support,3,191.15
+3346,2025-07-08,119,Particulier,Formation,2,253.8
+3347,2025-03-15,15,Particulier,Support,1,52.81
+3348,2024-04-03,139,Particulier,Abonnement,1,32.02
+3349,2024-03-29,370,Particulier,Formation,2,264.49
+3350,2025-07-24,317,Particulier,Licence,3,621.07
+3351,2024-04-26,314,Particulier,Abonnement,5,199.65
+3352,2025-11-16,352,Particulier,Formation,5,633.33
+3353,2024-03-18,150,Grand compte,Abonnement,4,277.0
+3354,2025-06-15,129,PME,Abonnement,3,160.28
+3355,2025-12-12,371,Particulier,Formation,4,516.95
+3356,2024-11-18,229,Particulier,Abonnement,2,74.32
+3357,2024-02-11,120,PME,Formation,2,270.56
+3358,2025-10-01,112,Particulier,Licence,3,485.45
+3359,2024-05-16,351,Particulier,Abonnement,5,210.14
+3360,2025-01-20,22,PME,Abonnement,1,52.26
+3361,2025-12-19,25,Particulier,Support,1,65.71
+3362,2025-06-27,296,PME,Formation,1,151.78
+3363,2024-02-03,1,Grand compte,Licence,2,592.6
+3364,2025-08-21,69,PME,Abonnement,1,45.83
+3365,2024-04-27,397,Particulier,Support,1,56.04
+3366,2025-07-01,171,Particulier,Licence,1,197.39
+3367,2025-03-29,292,Particulier,Abonnement,2,73.74
+3368,2024-07-29,195,PME,Support,4,328.46
+3369,2024-11-05,37,Grand compte,Support,1,80.62
+3370,2024-03-27,74,Grand compte,Support,2,177.16
+3371,2025-12-21,305,Particulier,Abonnement,5,169.02
+3372,2024-06-22,38,PME,Formation,1,147.42
+3373,2024-08-13,238,Particulier,Abonnement,5,199.96
+3374,2025-01-02,140,PME,Licence,3,699.45
+3375,2025-05-05,149,Particulier,Abonnement,4,148.06
+3376,2025-01-03,381,Particulier,Abonnement,2,80.02
+3377,2025-01-03,243,Particulier,Licence,2,382.58
+3378,2025-03-01,247,Grand compte,Abonnement,2,118.69
+3379,2025-09-18,141,Particulier,Formation,1,138.79
+3380,2024-10-15,153,Particulier,Abonnement,2,81.1
+3381,2025-08-30,275,Particulier,Support,5,312.79
+3382,2025-07-28,16,Particulier,Abonnement,1,38.51
+3383,2025-12-02,95,Grand compte,Formation,3,506.11
+3384,2025-10-28,241,Particulier,Formation,4,479.12
+3385,2025-08-05,250,Particulier,Abonnement,1,48.01
+3386,2024-06-29,37,PME,Abonnement,1,46.9
+3387,2025-07-19,316,Particulier,Abonnement,3,123.47
+3388,2025-06-21,218,Particulier,Support,2,112.05
+3389,2024-07-30,96,Particulier,Abonnement,5,155.92
+3390,2025-05-09,301,Particulier,Abonnement,1,37.47
+3391,2024-07-03,397,Particulier,Abonnement,1,47.62
+3392,2025-01-16,170,Particulier,Formation,2,251.43
+3393,2025-08-04,114,Particulier,Support,2,135.75
+3394,2024-05-17,120,PME,Formation,1,139.99
+3395,2024-09-02,238,Grand compte,Licence,4,973.74
+3396,2025-08-03,19,Grand compte,Support,2,164.03
+3397,2024-11-27,194,Particulier,Support,3,185.72
+3398,2025-12-02,10,Particulier,Support,2,122.28
+3399,2024-01-06,16,Grand compte,Abonnement,1,59.95
+3400,2025-06-10,173,PME,Licence,1,229.82
+3401,2025-08-17,299,Particulier,Support,1,64.51
+3402,2025-11-01,354,Particulier,Formation,5,575.94
+3403,2024-04-24,36,Particulier,Abonnement,2,81.97
+3404,2025-12-19,98,Particulier,Abonnement,2,81.25
+3405,2024-10-13,169,Particulier,Support,3,174.69
+3406,2024-09-13,230,Particulier,Formation,1,111.54
+3407,2024-09-16,395,Grand compte,Support,4,347.69
+3408,2025-04-10,274,PME,Abonnement,3,165.58
+3409,2025-04-26,216,PME,Formation,4,627.26
+3410,2024-12-11,25,Particulier,Abonnement,1,43.27
+3411,2024-02-21,33,PME,Abonnement,1,44.98
+3412,2025-12-21,62,PME,Abonnement,4,169.92
+3413,2024-06-11,265,Particulier,Support,2,130.53
+3414,2024-03-09,133,PME,Formation,1,154.42
+3415,2025-03-12,97,PME,Licence,3,727.91
+3416,2024-10-28,269,PME,Support,3,209.6
+3417,2025-03-25,327,Particulier,Support,5,264.87
+3418,2025-10-01,176,Grand compte,Formation,5,962.45
+3419,2024-03-12,353,Particulier,Support,3,197.08
+3420,2024-07-26,294,Particulier,Licence,1,189.13
+3421,2025-01-12,287,Particulier,Support,4,225.36
+3422,2025-07-29,348,Particulier,Abonnement,2,87.94
+3423,2025-03-14,74,Particulier,Support,5,284.6
+3424,2024-10-06,304,Particulier,Abonnement,4,182.77
+3425,2025-03-21,384,PME,Abonnement,2,95.16
+3426,2025-12-16,397,Particulier,Support,5,290.72
+3427,2024-12-16,232,Grand compte,Support,3,270.97
+3428,2025-10-06,302,Particulier,Abonnement,2,77.53
+3429,2025-07-23,356,PME,Abonnement,1,52.32
+3430,2024-08-07,341,Grand compte,Licence,4,1285.04
+3431,2024-07-01,360,PME,Abonnement,2,104.36
+3432,2025-07-16,333,PME,Abonnement,1,48.71
+3433,2024-05-31,153,PME,Support,1,69.37
+3434,2024-09-02,293,Particulier,Support,4,239.83
+3435,2024-06-20,165,Particulier,Formation,5,579.57
+3436,2025-03-18,321,Particulier,Formation,2,268.16
+3437,2024-08-02,325,Particulier,Abonnement,2,86.41
+3438,2025-04-25,374,Particulier,Abonnement,4,158.83
+3439,2025-11-13,236,Particulier,Support,1,55.55
+3440,2025-08-28,191,Grand compte,Support,1,101.09
+3441,2025-11-23,67,Grand compte,Abonnement,4,242.62
+3442,2024-01-18,256,PME,Abonnement,3,142.5
+3443,2024-11-28,227,PME,Abonnement,1,53.95
+3444,2024-06-09,206,Particulier,Abonnement,2,76.74
+3445,2025-11-01,271,Particulier,Abonnement,1,38.98
+3446,2025-06-03,341,PME,Abonnement,4,188.46
+3447,2024-08-21,60,PME,Support,4,257.67
+3448,2025-02-15,173,Particulier,Abonnement,4,164.04
+3449,2025-03-17,289,Particulier,Support,1,56.34
+3450,2024-12-27,328,Particulier,Formation,5,572.61
+3451,2024-12-12,312,Particulier,Support,2,113.24
+3452,2024-02-10,320,Particulier,Licence,5,953.03
+3453,2024-11-26,343,Particulier,Abonnement,5,186.58
+3454,2024-09-11,385,PME,Abonnement,3,146.85
+3455,2025-08-20,244,Grand compte,Support,4,355.52
+3456,2025-09-23,100,Particulier,Abonnement,4,160.61
+3457,2025-07-01,226,PME,Abonnement,4,228.15
+3458,2024-01-23,284,PME,Abonnement,1,47.4
+3459,2025-09-06,41,Particulier,Licence,1,209.68
+3460,2024-10-16,303,PME,Abonnement,5,253.8
+3461,2024-10-30,218,Particulier,Formation,4,477.59
+3462,2025-11-20,375,PME,Formation,4,588.62
+3463,2025-09-25,85,Particulier,Support,2,120.2
+3464,2024-02-07,363,Grand compte,Abonnement,3,182.92
+3465,2024-09-19,180,Grand compte,Licence,2,571.85
+3466,2025-07-01,230,Particulier,Support,3,172.88
+3467,2025-01-28,265,Particulier,Formation,4,480.65
+3468,2024-07-07,232,Particulier,Abonnement,4,134.76
+3469,2025-01-18,362,PME,Support,2,161.23
+3470,2025-09-24,67,PME,Support,5,422.23
+3471,2024-06-12,292,Particulier,Abonnement,1,40.55
+3472,2025-06-28,390,PME,Abonnement,5,252.78
+3473,2025-06-20,89,Particulier,Abonnement,4,173.84
+3474,2025-10-08,103,Particulier,Abonnement,3,107.28
+3475,2024-08-05,191,Particulier,Abonnement,2,85.94
+3476,2024-06-06,290,Particulier,Abonnement,2,77.27
+3477,2025-02-03,384,Particulier,Abonnement,2,94.66
+3478,2025-01-22,319,Particulier,Licence,5,984.94
+3479,2024-10-25,318,Particulier,Support,1,64.36
+3480,2025-07-22,177,Grand compte,Support,4,354.86
+3481,2025-08-06,259,Particulier,Support,5,352.72
+3482,2024-06-28,85,Grand compte,Support,3,258.93
+3483,2025-08-03,186,PME,Abonnement,4,209.9
+3484,2024-06-17,76,PME,Support,3,226.83
+3485,2024-10-24,11,Particulier,Abonnement,3,123.88
+3486,2024-01-20,343,PME,Formation,4,586.55
+3487,2024-09-05,322,Particulier,Licence,5,946.64
+3488,2025-11-30,205,Particulier,Licence,4,634.49
+3489,2024-11-19,6,Particulier,Abonnement,5,217.19
+3490,2025-06-02,37,Particulier,Support,3,172.96
+3491,2024-03-19,45,Grand compte,Abonnement,4,262.46
+3492,2025-04-08,287,Grand compte,Abonnement,5,308.44
+3493,2024-09-28,82,PME,Abonnement,2,105.22
+3494,2025-06-27,101,Particulier,Abonnement,5,212.83
+3495,2025-11-08,345,Grand compte,Support,4,289.02
+3496,2025-01-23,351,PME,Abonnement,3,151.08
+3497,2024-03-16,306,Particulier,Abonnement,4,155.6
+3498,2024-12-13,124,Particulier,Licence,1,218.64
+3499,2024-03-30,232,PME,Formation,4,603.24
+3500,2024-11-24,81,Particulier,Abonnement,3,125.79
+3501,2024-02-14,344,Particulier,Formation,5,586.93
+3502,2025-04-12,34,PME,Formation,4,533.95
+3503,2024-08-14,298,Particulier,Formation,3,347.53
+3504,2024-05-27,205,Particulier,Support,3,154.08
+3505,2024-01-13,303,Particulier,Licence,3,571.66
+3506,2025-10-10,181,PME,Abonnement,5,211.89
+3507,2025-09-03,64,Grand compte,Formation,4,637.19
+3508,2025-08-15,301,PME,Abonnement,1,48.45
+3509,2024-02-12,253,PME,Licence,3,750.76
+3510,2024-09-12,186,PME,Abonnement,2,95.76
+3511,2025-12-10,150,PME,Abonnement,1,46.08
+3512,2025-02-26,138,Particulier,Licence,5,924.21
+3513,2024-04-03,193,Particulier,Formation,5,584.77
+3514,2024-04-12,105,PME,Abonnement,5,224.21
+3515,2024-07-11,113,PME,Abonnement,2,95.52
+3516,2025-12-10,112,Particulier,Abonnement,3,105.39
+3517,2024-05-03,6,Grand compte,Licence,4,1267.33
+3518,2025-10-21,372,PME,Formation,1,137.47
+3519,2025-05-09,95,Particulier,Abonnement,1,41.2
+3520,2025-11-03,67,Particulier,Formation,3,385.55
+3521,2025-08-25,61,Particulier,Formation,4,492.59
+3522,2024-08-30,396,Particulier,Abonnement,3,127.67
+3523,2025-08-27,191,Particulier,Licence,2,333.87
+3524,2024-05-03,131,Particulier,Abonnement,3,115.27
+3525,2024-07-31,162,Particulier,Licence,5,1088.25
+3526,2024-06-03,36,Particulier,Support,2,124.89
+3527,2024-04-07,126,PME,Abonnement,3,165.29
+3528,2024-03-06,100,PME,Support,2,163.63
+3529,2024-05-16,322,Particulier,Support,2,122.88
+3530,2024-03-28,24,Particulier,Support,4,235.16
+3531,2024-10-04,171,Particulier,Formation,2,221.6
+3532,2024-02-22,317,Particulier,Abonnement,4,153.91
+3533,2024-02-14,334,Particulier,Abonnement,1,38.69
+3534,2025-12-23,206,Particulier,Support,4,228.61
+3535,2024-03-05,90,Particulier,Abonnement,1,37.06
+3536,2024-02-24,135,Grand compte,Abonnement,2,123.86
+3537,2024-01-22,89,Particulier,Formation,5,681.44
+3538,2024-04-06,265,PME,Abonnement,2,103.17
+3539,2025-01-20,118,Particulier,Support,4,233.81
+3540,2025-08-26,253,Particulier,Support,2,129.73
+3541,2025-06-20,263,Grand compte,Support,5,462.48
+3542,2025-02-27,376,Particulier,Abonnement,5,199.35
+3543,2024-03-03,149,PME,Formation,5,714.06
+3544,2025-07-19,385,Grand compte,Support,2,177.12
+3545,2024-01-28,161,PME,Abonnement,2,101.0
+3546,2025-04-05,273,Particulier,Support,4,242.68
+3547,2024-10-25,265,Particulier,Formation,5,565.04
+3548,2025-10-05,328,Particulier,Abonnement,3,112.54
+3549,2024-08-12,188,Particulier,Abonnement,4,163.92
+3550,2025-04-11,317,Particulier,Support,5,310.29
+3551,2024-11-17,143,Grand compte,Abonnement,4,233.99
+3552,2025-01-16,197,PME,Licence,2,436.53
+3553,2025-11-16,200,Particulier,Formation,2,264.02
+3554,2025-06-04,282,Particulier,Abonnement,3,129.97
+3555,2024-10-29,248,PME,Support,3,181.66
+3556,2024-11-22,32,Grand compte,Formation,5,996.45
+3557,2025-05-29,324,Particulier,Abonnement,2,78.66
+3558,2024-09-09,304,Particulier,Licence,1,203.04
+3559,2024-05-02,42,Grand compte,Support,2,196.39
+3560,2024-12-07,385,Grand compte,Formation,3,611.39
+3561,2024-02-19,265,Grand compte,Support,2,194.44
+3562,2024-05-03,34,Particulier,Formation,2,244.63
+3563,2024-11-03,197,Particulier,Formation,2,213.59
+3564,2025-08-04,335,Particulier,Abonnement,5,167.58
+3565,2025-07-24,112,Particulier,Abonnement,3,128.43
+3566,2024-07-09,374,Grand compte,Formation,4,797.3
+3567,2024-11-04,168,Particulier,Formation,3,336.54
+3568,2024-04-22,91,PME,Support,1,70.45
+3569,2025-07-05,143,Grand compte,Formation,2,343.95
+3570,2024-06-28,210,Grand compte,Formation,5,857.96
+3571,2025-08-06,276,PME,Support,3,234.58
+3572,2025-09-06,372,Grand compte,Licence,4,1220.96
+3573,2025-05-18,78,Particulier,Abonnement,4,157.07
+3574,2024-08-29,385,Particulier,Licence,3,727.56
+3575,2025-11-26,212,Particulier,Support,3,159.34
+3576,2025-05-15,52,Grand compte,Abonnement,2,125.26
+3577,2025-04-16,371,Grand compte,Abonnement,2,109.93
+3578,2025-09-17,140,Particulier,Abonnement,1,39.5
+3579,2025-10-05,249,Particulier,Support,2,121.43
+3580,2024-02-26,280,Particulier,Formation,4,512.43
+3581,2025-10-05,6,Particulier,Formation,5,587.46
+3582,2025-07-12,89,PME,Support,3,209.66
+3583,2024-05-30,275,Particulier,Abonnement,4,156.43
+3584,2024-08-12,130,PME,Abonnement,5,219.26
+3585,2025-07-03,4,PME,Licence,4,1008.56
+3586,2024-06-07,10,Particulier,Licence,2,409.0
+3587,2024-11-26,331,Particulier,Support,2,124.18
+3588,2025-05-17,62,Grand compte,Abonnement,4,238.66
+3589,2025-04-19,41,PME,Abonnement,2,94.52
+3590,2025-10-26,225,Particulier,Abonnement,2,87.52
+3591,2024-03-22,48,Particulier,Formation,3,389.43
+3592,2024-08-03,262,Grand compte,Abonnement,4,267.16
+3593,2025-12-19,218,PME,Licence,2,494.31
+3594,2025-02-19,260,PME,Support,1,79.79
+3595,2024-06-30,197,PME,Formation,4,556.83
+3596,2024-07-30,312,Grand compte,Abonnement,2,118.07
+3597,2024-09-04,258,Particulier,Abonnement,4,175.3
+3598,2025-02-08,167,PME,Formation,1,153.72
+3599,2024-07-26,7,Particulier,Support,2,117.21
+3600,2025-03-29,110,PME,Abonnement,4,175.93
+3601,2024-11-21,53,Grand compte,Support,1,88.53
+3602,2025-03-21,7,Grand compte,Abonnement,2,113.43
+3603,2024-04-23,110,Particulier,Abonnement,4,182.07
+3604,2025-03-31,83,PME,Licence,4,1018.37
+3605,2025-11-06,31,Grand compte,Abonnement,2,112.65
+3606,2024-04-08,125,Grand compte,Abonnement,1,54.98
+3607,2024-08-27,203,PME,Support,1,67.52
+3608,2025-05-21,72,Particulier,Abonnement,3,114.64
+3609,2025-03-26,110,Particulier,Abonnement,4,157.87
+3610,2025-05-07,9,Grand compte,Abonnement,3,196.05
+3611,2025-02-12,21,PME,Abonnement,3,132.87
+3612,2025-05-13,63,PME,Formation,1,170.38
+3613,2025-03-20,182,PME,Abonnement,2,88.76
+3614,2024-02-24,267,Particulier,Support,1,53.24
+3615,2025-07-02,316,Particulier,Licence,3,681.04
+3616,2024-11-22,252,PME,Abonnement,2,106.15
+3617,2024-02-07,247,Particulier,Abonnement,1,39.42
+3618,2024-10-25,375,PME,Abonnement,4,197.86
+3619,2024-11-13,103,PME,Abonnement,2,99.12
+3620,2024-03-04,320,PME,Abonnement,5,242.62
+3621,2025-12-28,375,Particulier,Support,3,161.33
+3622,2024-06-11,228,PME,Abonnement,1,38.47
+3623,2024-08-29,337,Particulier,Formation,4,447.56
+3624,2024-11-17,56,Particulier,Support,4,274.87
+3625,2025-08-30,352,Particulier,Support,5,344.53
+3626,2025-06-26,226,Particulier,Abonnement,4,156.65
+3627,2025-07-16,89,Grand compte,Abonnement,2,110.8
+3628,2024-06-22,25,Grand compte,Licence,4,1226.7
+3629,2025-09-09,288,Particulier,Abonnement,4,165.62
+3630,2025-08-28,173,PME,Support,3,226.38
+3631,2024-12-04,125,Particulier,Support,4,191.48
+3632,2025-02-02,157,PME,Formation,5,901.89
+3633,2024-01-28,397,Grand compte,Abonnement,4,261.74
+3634,2025-07-09,172,PME,Abonnement,3,141.72
+3635,2025-12-02,32,Particulier,Formation,3,339.31
+3636,2024-12-10,112,Particulier,Formation,5,647.39
+3637,2025-01-29,59,Particulier,Support,5,311.89
+3638,2024-12-30,275,Grand compte,Support,2,181.33
+3639,2024-03-01,321,PME,Licence,1,248.8
+3640,2025-03-28,337,Particulier,Licence,5,990.98
+3641,2025-06-10,254,Particulier,Support,2,123.86
+3642,2025-11-08,308,Grand compte,Abonnement,5,317.43
+3643,2025-11-09,167,Particulier,Formation,1,123.3
+3644,2024-12-25,252,PME,Support,5,368.38
+3645,2025-12-01,43,PME,Formation,4,640.18
+3646,2025-01-20,216,Particulier,Abonnement,2,69.78
+3647,2025-04-13,223,Particulier,Formation,1,112.34
+3648,2025-03-15,13,Particulier,Abonnement,5,200.42
+3649,2025-12-30,220,Particulier,Abonnement,1,37.66
+3650,2025-06-22,290,PME,Support,1,69.72
+3651,2024-03-28,148,PME,Formation,4,635.34
+3652,2024-02-22,218,Particulier,Formation,4,474.28
+3653,2024-10-26,115,Particulier,Formation,1,102.44
+3654,2025-01-11,109,Particulier,Formation,2,231.87
+3655,2025-05-03,52,Particulier,Abonnement,4,160.74
+3656,2024-12-17,132,PME,Formation,4,577.83
+3657,2025-01-10,322,PME,Abonnement,2,100.27
+3658,2025-11-03,375,PME,Support,3,224.2
+3659,2024-09-01,255,Particulier,Abonnement,1,39.56
+3660,2024-12-26,250,PME,Licence,1,217.09
+3661,2025-02-10,246,Particulier,Support,5,289.41
+3662,2024-12-07,191,Grand compte,Formation,2,342.06
+3663,2025-12-07,170,PME,Abonnement,5,234.53
+3664,2025-12-03,249,Grand compte,Abonnement,1,63.32
+3665,2025-01-09,314,Particulier,Support,5,309.7
+3666,2024-11-24,166,Particulier,Support,3,191.87
+3667,2025-03-05,227,PME,Support,5,348.94
+3668,2024-05-12,189,Particulier,Licence,5,1120.67
+3669,2024-11-06,115,PME,Formation,2,303.5
+3670,2024-06-07,117,Particulier,Support,4,242.15
+3671,2024-04-15,32,Grand compte,Formation,2,377.38
+3672,2024-03-10,176,Particulier,Support,4,227.03
+3673,2025-03-04,285,Grand compte,Formation,5,748.17
+3674,2024-01-01,275,Particulier,Support,5,285.44
+3675,2025-04-16,395,Particulier,Abonnement,4,169.57
+3676,2024-11-11,16,Particulier,Abonnement,2,80.51
+3677,2024-09-24,305,Particulier,Abonnement,1,39.56
+3678,2025-07-15,319,Grand compte,Licence,3,838.96
+3679,2025-01-28,175,Grand compte,Formation,1,151.84
+3680,2025-06-19,114,Grand compte,Abonnement,3,200.52
+3681,2025-06-01,143,Grand compte,Formation,5,885.03
+3682,2024-01-24,274,PME,Formation,1,139.05
+3683,2024-06-06,345,Particulier,Licence,5,946.27
+3684,2025-02-20,258,Grand compte,Licence,3,990.33
+3685,2025-12-13,206,Particulier,Support,1,64.23
+3686,2024-04-22,262,PME,Support,4,265.71
+3687,2024-03-18,29,Particulier,Abonnement,1,43.73
+3688,2025-11-17,244,PME,Abonnement,4,189.77
+3689,2025-12-06,17,Particulier,Formation,3,342.42
+3690,2024-05-02,384,Particulier,Support,4,234.36
+3691,2024-10-20,356,Particulier,Abonnement,2,74.99
+3692,2025-04-02,204,Particulier,Support,1,53.66
+3693,2024-05-22,150,Particulier,Abonnement,2,84.97
+3694,2024-08-26,293,Particulier,Abonnement,4,157.17
+3695,2024-10-15,256,Particulier,Abonnement,5,209.88
+3696,2025-04-13,283,PME,Support,2,147.31
+3697,2024-08-12,207,Particulier,Support,2,125.27
+3698,2024-10-27,95,PME,Formation,5,602.15
+3699,2024-07-30,30,Particulier,Support,2,111.68
+3700,2025-07-08,114,PME,Support,2,150.56
+3701,2024-04-21,212,Particulier,Abonnement,5,179.6
+3702,2024-06-17,170,Particulier,Support,3,185.37
+3703,2024-07-01,203,PME,Abonnement,3,127.98
+3704,2025-10-23,112,PME,Formation,3,432.57
+3705,2025-11-20,376,Particulier,Abonnement,4,180.61
+3706,2024-12-31,147,Particulier,Formation,2,254.87
+3707,2024-04-24,339,Particulier,Formation,4,408.93
+3708,2025-07-05,157,Particulier,Abonnement,2,85.43
+3709,2024-12-25,178,Particulier,Formation,3,412.48
+3710,2025-09-12,242,PME,Support,1,88.11
+3711,2024-09-19,106,Particulier,Support,1,62.28
+3712,2025-12-30,88,PME,Abonnement,3,128.28
+3713,2025-08-12,152,Particulier,Abonnement,1,41.39
+3714,2024-06-12,322,Particulier,Abonnement,5,225.54
+3715,2025-06-13,58,Particulier,Support,5,295.51
+3716,2024-07-28,176,Particulier,Licence,2,433.38
+3717,2024-09-12,269,Particulier,Abonnement,2,74.63
+3718,2024-07-01,283,PME,Support,3,222.43
+3719,2025-05-13,174,PME,Formation,2,230.64
+3720,2024-07-10,33,Particulier,Licence,5,923.97
+3721,2025-04-11,7,Particulier,Abonnement,1,39.98
+3722,2025-03-01,188,Grand compte,Formation,3,524.3
+3723,2025-07-02,325,Particulier,Formation,1,107.51
+3724,2025-12-26,12,Particulier,Abonnement,5,192.01
+3725,2024-01-07,355,Grand compte,Abonnement,1,61.58
+3726,2025-12-23,271,Particulier,Abonnement,3,119.17
+3727,2024-03-20,4,Particulier,Formation,5,602.93
+3728,2025-01-19,138,Particulier,Support,3,190.54
+3729,2024-09-05,89,PME,Support,1,70.02
+3730,2025-04-11,380,Particulier,Abonnement,1,44.35
+3731,2025-06-10,222,PME,Licence,4,884.02
+3732,2025-09-19,130,Particulier,Abonnement,1,46.17
+3733,2024-10-20,112,Particulier,Licence,2,435.62
+3734,2025-11-12,226,Particulier,Abonnement,4,155.44
+3735,2024-08-23,3,PME,Support,2,140.67
+3736,2024-05-28,103,Particulier,Licence,5,1016.54
+3737,2024-10-03,67,PME,Support,4,301.79
+3738,2025-01-20,249,Particulier,Support,1,65.25
+3739,2025-05-02,268,Particulier,Abonnement,5,178.55
+3740,2025-08-30,187,Particulier,Support,5,310.5
+3741,2024-06-13,57,Particulier,Formation,2,199.36
+3742,2024-08-09,149,Particulier,Formation,2,236.6
+3743,2025-11-16,338,PME,Licence,2,535.83
+3744,2024-11-17,82,Grand compte,Abonnement,3,159.59
+3745,2024-06-25,66,PME,Formation,3,376.73
+3746,2025-12-20,45,PME,Licence,5,1221.2
+3747,2024-11-23,327,Particulier,Abonnement,4,177.76
+3748,2025-12-20,48,PME,Abonnement,5,246.25
+3749,2025-11-02,233,Particulier,Abonnement,2,67.81
+3750,2025-10-23,400,PME,Support,3,186.92
+3751,2025-02-28,257,Grand compte,Licence,1,302.35
+3752,2025-08-05,165,Particulier,Abonnement,2,72.45
+3753,2025-12-02,83,Grand compte,Support,3,272.95
+3754,2024-07-15,1,PME,Formation,1,146.26
+3755,2024-01-28,63,Particulier,Support,5,288.25
+3756,2024-08-22,382,Grand compte,Support,2,206.13
+3757,2025-04-09,58,Particulier,Licence,1,209.45
+3758,2025-02-03,8,Particulier,Abonnement,4,175.51
+3759,2024-02-28,327,Particulier,Abonnement,1,42.95
+3760,2025-02-13,168,PME,Formation,2,284.54
+3761,2024-05-07,143,Particulier,Formation,1,118.13
+3762,2025-01-04,287,Grand compte,Formation,4,702.86
+3763,2025-02-24,210,Particulier,Abonnement,5,210.9
+3764,2025-04-09,366,Particulier,Abonnement,1,37.92
+3765,2024-10-28,188,PME,Licence,3,819.36
+3766,2024-10-25,286,Particulier,Abonnement,3,112.84
+3767,2025-05-10,352,PME,Formation,4,585.88
+3768,2025-06-30,186,Particulier,Support,2,117.8
+3769,2025-08-12,114,Grand compte,Abonnement,3,173.51
+3770,2024-08-31,390,PME,Abonnement,3,169.03
+3771,2024-11-05,91,Particulier,Abonnement,1,38.6
+3772,2024-08-29,16,Particulier,Formation,3,351.22
+3773,2025-01-20,232,Particulier,Abonnement,3,113.62
+3774,2024-04-02,395,Grand compte,Support,5,451.48
+3775,2024-11-09,35,PME,Abonnement,3,142.83
+3776,2024-05-17,340,Particulier,Abonnement,5,182.09
+3777,2025-01-23,333,Particulier,Abonnement,2,77.28
+3778,2025-09-12,372,Grand compte,Abonnement,4,251.71
+3779,2025-12-20,169,Particulier,Abonnement,5,216.43
+3780,2024-11-21,102,PME,Licence,1,240.46
+3781,2024-02-11,205,PME,Abonnement,3,144.68
+3782,2024-06-15,57,Particulier,Formation,5,582.67
+3783,2024-03-17,338,Particulier,Formation,3,345.53
+3784,2025-07-08,266,Particulier,Support,5,277.93
+3785,2025-12-19,194,Particulier,Support,3,157.58
+3786,2025-02-08,207,Grand compte,Abonnement,5,283.14
+3787,2024-05-09,285,PME,Support,4,308.83
+3788,2024-01-16,210,PME,Abonnement,3,139.11
+3789,2025-12-13,336,Particulier,Support,2,116.68
+3790,2024-08-18,370,Particulier,Abonnement,1,38.83
+3791,2024-03-22,380,PME,Support,2,158.34
+3792,2024-05-09,249,Particulier,Support,4,222.18
+3793,2024-07-05,298,Particulier,Support,3,183.99
+3794,2025-04-23,125,Particulier,Abonnement,2,79.56
+3795,2025-10-13,16,PME,Support,3,217.17
+3796,2024-07-19,161,PME,Support,2,146.81
+3797,2025-05-16,349,Particulier,Formation,5,602.74
+3798,2024-02-17,54,Grand compte,Abonnement,2,127.61
+3799,2024-01-08,219,Particulier,Abonnement,3,119.72
+3800,2024-02-10,77,Particulier,Abonnement,3,136.75
+3801,2025-11-04,172,Particulier,Support,4,240.85
+3802,2025-02-28,58,PME,Formation,2,248.75
+3803,2025-08-10,294,Particulier,Support,1,63.06
+3804,2024-01-16,325,Particulier,Support,4,247.53
+3805,2024-01-17,304,Particulier,Support,3,180.47
+3806,2025-09-11,282,PME,Support,4,282.02
+3807,2024-03-15,95,PME,Support,3,179.46
+3808,2024-04-23,213,Particulier,Formation,3,303.93
+3809,2025-01-13,42,Grand compte,Abonnement,5,339.54
+3810,2025-03-18,150,Particulier,Support,1,57.19
+3811,2024-06-16,203,Particulier,Licence,1,215.45
+3812,2024-11-20,268,PME,Formation,5,627.67
+3813,2025-05-07,39,PME,Licence,5,1099.5
+3814,2024-11-19,326,Particulier,Licence,3,632.57
+3815,2024-10-06,184,PME,Formation,3,428.46
+3816,2024-02-22,353,Particulier,Support,3,187.74
+3817,2024-11-25,211,PME,Support,5,359.61
+3818,2025-08-09,219,PME,Abonnement,3,141.61
+3819,2025-04-02,278,Grand compte,Abonnement,4,226.94
+3820,2025-10-13,328,Particulier,Formation,2,217.08
+3821,2024-04-02,64,PME,Support,2,160.16
+3822,2024-01-09,205,PME,Abonnement,4,216.07
+3823,2025-02-04,12,Particulier,Support,2,110.03
+3824,2024-05-10,190,Particulier,Support,1,54.7
+3825,2025-03-09,326,Grand compte,Support,1,87.5
+3826,2025-10-21,347,Particulier,Abonnement,5,205.45
+3827,2024-09-03,114,PME,Formation,2,283.81
+3828,2025-02-05,155,Particulier,Abonnement,1,41.6
+3829,2025-05-12,221,PME,Abonnement,5,239.05
+3830,2024-04-19,159,Particulier,Abonnement,5,198.17
+3831,2025-10-17,72,Grand compte,Abonnement,3,214.75
+3832,2024-05-28,122,PME,Abonnement,4,183.93
+3833,2025-08-13,162,Particulier,Formation,4,542.97
+3834,2025-04-26,208,PME,Formation,1,160.67
+3835,2024-04-12,369,PME,Abonnement,2,99.87
+3836,2025-06-13,218,Particulier,Licence,3,507.55
+3837,2024-05-23,155,Particulier,Formation,3,360.89
+3838,2025-03-13,265,PME,Licence,2,460.24
+3839,2025-12-01,310,PME,Support,1,72.12
+3840,2025-11-26,173,Particulier,Abonnement,5,182.99
+3841,2025-09-28,196,Grand compte,Licence,4,1272.6
+3842,2024-12-26,88,Particulier,Licence,4,863.04
+3843,2025-02-12,346,Particulier,Support,3,196.85
+3844,2024-08-07,347,PME,Formation,3,418.79
+3845,2025-11-03,70,Particulier,Formation,3,329.49
+3846,2024-12-14,139,Particulier,Formation,3,370.13
+3847,2025-07-17,109,Particulier,Support,4,273.72
+3848,2024-09-19,370,Particulier,Formation,5,603.33
+3849,2025-06-24,27,Particulier,Abonnement,4,165.79
+3850,2024-06-12,83,PME,Abonnement,4,188.39
+3851,2025-06-19,126,Particulier,Abonnement,1,38.39
+3852,2024-02-03,225,PME,Abonnement,3,151.58
+3853,2024-03-17,100,PME,Abonnement,5,237.96
+3854,2024-09-14,215,Particulier,Licence,2,412.91
+3855,2024-12-17,299,Particulier,Abonnement,3,124.87
+3856,2025-06-03,332,PME,Abonnement,2,98.67
+3857,2024-09-19,40,Particulier,Abonnement,1,41.79
+3858,2024-01-14,56,Particulier,Formation,4,447.24
+3859,2024-08-25,39,PME,Support,2,133.47
+3860,2024-11-16,364,PME,Formation,3,430.53
+3861,2025-01-31,261,PME,Licence,3,718.93
+3862,2025-04-15,213,Particulier,Licence,5,
+3863,2024-06-29,317,Particulier,Support,5,305.78
+3864,2025-03-21,235,Particulier,Support,3,193.08
+3865,2025-04-06,95,PME,Abonnement,1,52.56
+3866,2025-07-20,205,Particulier,Formation,3,
+3867,2025-01-16,282,Particulier,Abonnement,5,178.96
+3868,2025-08-14,15,Particulier,Support,3,163.25
+3869,2024-06-10,243,PME,Abonnement,3,140.66
+3870,2025-06-03,199,PME,Abonnement,4,193.23
+3871,2024-02-03,28,Particulier,Abonnement,3,117.71
+3872,2024-03-16,106,Particulier,Support,3,172.04
+3873,2025-09-23,180,Particulier,Support,3,175.62
+3874,2024-12-12,138,Particulier,Abonnement,5,207.73
+3875,2025-03-29,117,Particulier,Formation,3,321.71
+3876,2025-03-16,260,Particulier,Abonnement,2,95.0
+3877,2025-05-22,162,PME,Support,3,216.36
+3878,2024-06-28,200,PME,Abonnement,4,208.14
+3879,2024-05-10,320,Grand compte,Abonnement,5,286.08
+3880,2024-02-01,38,Grand compte,Support,5,470.68
+3881,2025-09-23,144,Particulier,Formation,4,483.84
+3882,2024-06-12,30,Particulier,Support,4,256.45
+3883,2025-02-23,371,Particulier,Formation,3,354.28
+3884,2024-11-28,75,PME,Licence,2,539.58
+3885,2024-04-28,328,Particulier,Abonnement,3,105.68
+3886,2024-10-29,77,Particulier,Abonnement,4,172.15
+3887,2024-03-01,130,Particulier,Licence,3,605.7
+3888,2024-05-08,244,Particulier,Abonnement,2,73.48
+3889,2024-04-11,333,PME,Support,1,83.24
+3890,2025-08-24,72,PME,Abonnement,1,55.1
+3891,2025-02-18,86,Particulier,Formation,3,300.27
+3892,2025-11-06,353,Grand compte,Abonnement,4,243.39
+3893,2024-11-14,129,Particulier,Formation,4,507.1
+3894,2024-05-26,84,Particulier,Support,5,310.6
+3895,2025-03-20,298,Particulier,Abonnement,4,179.4
+3896,2025-11-09,37,PME,Abonnement,1,53.02
+3897,2025-01-23,347,PME,Abonnement,5,245.09
+3898,2024-01-14,351,Particulier,Abonnement,5,236.43
+3899,2024-08-09,343,Grand compte,Abonnement,5,322.48
+3900,2025-11-06,119,Particulier,Licence,3,583.13
+3901,2025-01-13,46,Particulier,Abonnement,2,76.46
+3902,2025-11-25,171,PME,Formation,5,791.62
+3903,2025-01-06,134,Grand compte,Formation,1,168.58
+3904,2024-01-09,384,PME,Abonnement,4,185.71
+3905,2025-09-29,253,Grand compte,Abonnement,5,
+3906,2025-07-11,378,Particulier,Support,5,308.54
+3907,2025-06-06,301,PME,Support,3,212.66
+3908,2025-12-09,286,PME,Support,5,322.07
+3909,2024-05-23,45,Particulier,Formation,5,655.78
+3910,2025-10-23,28,Particulier,Support,5,290.29
+3911,2024-06-18,19,Grand compte,Licence,2,696.96
+3912,2025-12-09,238,Particulier,Licence,4,819.46
+3913,2024-05-19,81,Particulier,Licence,5,1101.38
+3914,2025-02-05,396,Grand compte,Abonnement,2,126.06
+3915,2025-07-30,54,Grand compte,Licence,2,663.12
+3916,2024-02-27,379,Grand compte,Support,2,188.21
+3917,2024-02-18,268,Grand compte,Support,2,183.39
+3918,2025-09-12,43,Particulier,Support,4,260.99
+3919,2024-02-14,24,Grand compte,Licence,5,1798.32
+3920,2025-03-24,159,Particulier,Formation,1,117.41
+3921,2025-11-15,136,PME,Support,2,153.16
+3922,2025-03-24,127,Particulier,Support,5,299.87
+3923,2024-12-17,212,PME,Support,3,224.74
+3924,2024-10-31,52,PME,Support,2,144.49
+3925,2025-04-10,52,PME,Abonnement,4,158.86
+3926,2025-02-21,278,Particulier,Abonnement,5,196.8
+3927,2025-01-01,397,Particulier,Abonnement,2,86.4
+3928,2024-04-22,110,Particulier,Support,3,168.98
+3929,2025-04-28,373,Particulier,Support,4,257.68
+3930,2025-06-24,138,PME,Support,5,365.29
+3931,2025-06-01,135,Particulier,Support,3,177.24
+3932,2024-02-24,37,PME,Formation,5,772.17
+3933,2025-05-28,170,Particulier,Abonnement,4,168.72
+3934,2025-06-16,200,Particulier,Support,3,186.06
+3935,2024-05-13,266,PME,Licence,3,778.52
+3936,2025-09-11,64,Particulier,Support,4,243.9
+3937,2025-01-17,76,Particulier,Licence,1,173.69
+3938,2024-12-10,173,Particulier,Licence,2,387.9
+3939,2025-06-11,28,Particulier,Abonnement,2,68.45
+3940,2025-01-07,58,PME,Support,5,378.93
+3941,2025-02-01,252,Particulier,Formation,5,643.02
+3942,2024-08-15,382,Particulier,Formation,5,645.2
+3943,2025-11-08,230,PME,Abonnement,1,49.88
+3944,2025-12-08,58,Particulier,Abonnement,2,86.19
+3945,2024-04-05,397,PME,Abonnement,2,83.89
+3946,2025-06-19,209,Particulier,Support,1,59.48
+3947,2024-01-18,287,Grand compte,Abonnement,2,106.42
+3948,2024-09-26,79,Particulier,Formation,3,349.68
+3949,2025-12-09,232,Particulier,Formation,5,677.58
+3950,2024-05-07,31,Grand compte,Formation,1,195.74
+3951,2024-10-02,251,PME,Licence,5,1263.58
+3952,2024-06-09,81,PME,Formation,5,709.54
+3953,2025-06-15,364,Grand compte,Abonnement,1,55.23
+3954,2024-12-04,22,Particulier,Licence,2,405.98
+3955,2025-03-08,262,PME,Support,3,235.19
+3956,2025-11-19,56,PME,Support,5,371.8
+3957,2025-01-15,275,Particulier,Support,4,209.55
+3958,2025-06-19,198,Particulier,Abonnement,5,201.67
+3959,2024-03-12,387,Particulier,Support,2,101.63
+3960,2024-06-06,261,Grand compte,Abonnement,5,319.3
+3961,2025-11-22,149,Particulier,Formation,5,566.74
+3962,2025-09-19,35,Particulier,Abonnement,3,108.26
+3963,2025-04-24,239,PME,Support,1,76.71
+3964,2024-10-03,177,PME,Abonnement,2,100.3
+3965,2024-05-25,22,Particulier,Abonnement,1,40.74
+3966,2025-09-13,233,PME,Abonnement,5,282.08
+3967,2025-07-27,84,Particulier,Support,2,126.1
+3968,2024-06-25,94,PME,Abonnement,4,182.09
+3969,2025-03-06,4,Particulier,Formation,2,249.97
+3970,2025-03-27,149,Particulier,Abonnement,5,195.42
+3971,2024-12-14,88,PME,Support,4,317.19
+3972,2025-11-07,29,Particulier,Abonnement,2,81.8
+3973,2024-03-31,174,Particulier,Licence,3,618.24
+3974,2024-07-07,89,Particulier,Abonnement,1,35.38
+3975,2024-03-10,54,PME,Abonnement,1,48.24
+3976,2025-05-20,187,Grand compte,Abonnement,5,298.65
+3977,2025-04-15,26,PME,Abonnement,5,220.34
+3978,2025-12-21,397,Grand compte,Formation,5,884.05
+3979,2025-01-30,189,Grand compte,Abonnement,4,248.37
+3980,2024-04-19,399,Particulier,Licence,2,399.86
+3981,2024-11-25,353,Particulier,Formation,1,106.44
+3982,2024-03-05,392,Grand compte,Abonnement,4,234.75
+3983,2025-05-04,218,Grand compte,Formation,2,346.52
+3984,2025-05-07,170,Grand compte,Abonnement,1,60.93
+3985,2025-09-18,288,PME,Abonnement,1,48.33
+3986,2024-09-05,33,Particulier,Abonnement,3,116.05
+3987,2024-08-14,337,Grand compte,Abonnement,5,289.18
+3988,2024-02-22,130,Grand compte,Abonnement,2,120.65
+3989,2024-10-30,3,PME,Licence,5,1292.45
+3990,2024-12-12,96,Grand compte,Support,2,184.01
+3991,2025-07-04,97,PME,Licence,4,1069.29
+3992,2025-07-04,6,Grand compte,Abonnement,2,130.88
+3993,2024-04-12,268,Particulier,Licence,4,895.79
+3994,2024-07-27,39,Grand compte,Abonnement,2,133.14
+3995,2025-01-08,339,Particulier,Abonnement,4,180.01
+3996,2024-09-01,182,Particulier,Support,3,163.39
+3997,2024-01-19,288,Particulier,Abonnement,1,42.07
+3998,2025-09-09,136,Particulier,Formation,2,263.39
+3999,2025-06-17,53,Particulier,Support,2,133.43
+4000,2025-01-14,73,Grand compte,Support,3,253.35
+556,2025-01-03,87,PME,Abonnement,4,160.62
+3492,2025-04-08,287,Grand compte,Abonnement,5,308.44
+528,2024-04-15,38,PME,Support,2,144.67
+3926,2025-02-21,278,Particulier,Abonnement,5,196.8
+2990,2024-11-08,52,Particulier,Licence,4,821.92
+71,2025-08-03,39,Particulier,Formation,5,683.53
+1757,2024-09-11,133,Particulier,Support,3,169.07
+212,2025-06-07,285,Particulier,Licence,4,889.61
+197,2024-09-07,222,Particulier,Support,1,54.49
+804,2025-11-01,317,Particulier,Abonnement,4,157.33
+3410,2024-12-11,25,Particulier,Abonnement,1,43.27
+3837,2024-05-23,155,Particulier,Formation,3,360.89
+1147,2025-01-22,191,Grand compte,Abonnement,1,57.43
+1499,2024-12-07,397,Particulier,Licence,1,172.15
+3859,2024-08-25,39,PME,Support,2,133.47
+3483,2025-08-03,186,PME,Abonnement,4,209.9
+1186,2024-08-12,262,Grand compte,Licence,4,1199.06
+472,2025-08-10,351,Particulier,Support,5,318.54
+595,2024-08-22,247,Particulier,Abonnement,5,204.35
+322,2024-03-19,180,PME,Formation,1,151.33
+1418,2024-11-16,69,Grand compte,Support,2,188.74
+1675,2025-06-07,198,Particulier,Formation,4,480.97
+3591,2024-03-22,48,Particulier,Formation,3,389.43
+1704,2024-05-25,173,PME,Abonnement,5,236.82
+2541,2024-07-30,376,Grand compte,Licence,4,1157.42

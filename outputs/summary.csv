@@ -1,0 +1,10 @@
+,value
+total_revenue,1113714.0
+orders,3960.0
+average_order_value,281.24
+active_customers,400.0
+revenue_share_top_20pct_customers,0.333
+rows_raw,4025.0
+rows_clean,3960.0
+duplicates_removed,25.0
+missing_revenue_removed,40.0
