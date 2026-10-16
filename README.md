@@ -1,7 +1,7 @@
 # revenue-analysis-crispdm
 
 Revenue and sales analysis structured along the six CRISP-DM phases. It is a reproducible version of
-the analysis project done during my Business Information Systems degree at Esprit School of Business.
+the analysis project done during my Business Information Systems degree.
 
 The dataset is **synthetic** (generated with a fixed seed) so the project runs anywhere and exposes
 no real customer data.
